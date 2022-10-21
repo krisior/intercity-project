@@ -16,29 +16,29 @@ The work performed (hereafter referred to as the Project) is charitable and does
 >  --- **colors used** --- **main page** ---
 
 > navy blue > #002664
-> navy blue logo > #0A2255
-> light blue > #00B4D7
+navy blue logo > #0A2255
+light blue > #00B4D7
 
 > orange > #FF6319
 
 > white > #FFFFFF
 
 > gray >
-> dark gray >
-> darker gray >
+dark gray >
+darker gray >
 
 >  --- **colors used** --- **categories** ---
 
-> EIP navy blue > #00386C
-> EIP light blue > #0066B3
+> *EIP* navy blue > #00386C
+*EIP* light blue > #0066B3
 
-> EIC gray > #818285
+> *EIC* gray > #818285
 
-> IC orange > #F58220
+> *IC* orange > #F58220
 
-> TLK purple > #333192
-> TLK orange > #FF6319
-> TLK gray > #ABAEAF
+> *TLK* purple > #333192
+*TLK* orange > #FF6319
+*TLK* gray > #ABAEAF
 
 >  --- **logos used** ---
 
