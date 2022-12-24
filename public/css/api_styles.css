@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
 :root {
   --background: #FFFFFF;
@@ -11,6 +11,7 @@
     padding: 0;
     
     box-sizing: border-box;
+    overflow: auto;
 }
 
 html {
@@ -25,16 +26,38 @@ body {
     color: var(--font-color);
 
     display: grid;
-    place-content: center start;
+    place-content: start center;
 
     padding: 1rem;
 }
 
-.h {
-    font-weight: 500;
-    letter-spacing: 1vw;
+.go-back {
+    font-weight: 100;
+    font-size: 0.75rem;
 }
 
 .error {
+    color: var(--font-color-error);
+}
+
+.footer {
+    text-align: right;
+    bottom: 0;
+    padding-bottom: 1vh;
+
+    color: var(--font-color);
+    opacity: 0.6;
+    font-size: 0.5rem;
+    font-weight: 500;
+}
+
+a {
+    text-decoration: none;
+    color: var(--font-color);
+
+    transition: 0.2s linear;
+}
+
+a:hover {
     color: var(--font-color-error);
 }
