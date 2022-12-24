@@ -1,0 +1,2766 @@
+s_id;name
+10001013;Augustów
+10001024;Augustów Port
+10001034;Baciuty
+10001044;Balinka
+10001050;Bia³ystok
+10001064;Bia³ystok Bacieczki
+10001074;Bia³ystok Fabryczny
+10001084;Bia³ystok Stadion
+10001094;Bia³ystok Starosielce
+10001104;Bia³ystok Wiadukt
+10001113;Bielsk Podlaski
+10001124;Blizna
+10001134;Bojary
+10001144;Borowiki
+10001154;Borsukówka
+10001164;Cisówka
+10001173;Czarna Bia³ostocka
+10001184;Czarny Blok
+10001194;Czechowizna
+10001203;Czeremcha
+10001214;Czuprynowo
+10001223;Czy¿ew
+10001233;D¹browa Bia³ostocka
+10001244;D¹browa-£azy
+10001254;Dobrowoda
+10001264;Dobrzyniewo Du¿e
+10001274;Fasty
+10001284;Geniusze
+10001294;Gliniszcze
+10001304;Goni¹dz
+10001313;Grajewo
+10001324;Gregorowce
+10001333;Hajnówka
+10001344;Ho³ówki Du¿e
+10001354;Jab³oñ Koœcielna
+10001363;Jastrzêbna
+10001374;Kamienna Nowa
+10001384;Kity
+10001394;Klepacze
+10001404;Kleszczele
+10001413;Knyszyn
+10001424;Kundzin
+10001434;Kuriany
+10001443;KuŸnica Bia³ostocka
+10001454;Lewickie
+10001464;Lewki
+10001473;£apy
+10001484;£apy Osse
+10001494;Machnacz
+10001503;Moñki
+10001514;Narewka
+10001524;Niewodnica
+10001534;Nieznany Bór
+10001544;Nowy Nurzec
+10001554;Nurzec
+10001564;Orzeszkowo
+10001574;Osowiec
+10001584;Ostrowie Biebrzañskie
+10001594;P³ociczno ko³o Suwa³k
+10001604;Podbiele
+10001614;Podlasek
+10001624;Policzna
+10001634;Racewo
+10001644;Racibory
+10001654;Rajsk
+10001664;Rozedranka
+10001674;Ró¿anystok
+10001684;Ruda
+10001694;Sidra
+10001704;Siemianówka
+10001713;Siemiatycze
+10001724;Sokole Bia³ostockie
+10001733;Sokó³ka
+10001744;Strabla
+10001754;Suchowolce
+10001762;Suwa³ki
+10001774;Sycze
+10001784;Szczepki
+10001793;Szepietowo
+10001804;Szymbory
+10001813;Trakiszki
+10001824;Trypucie
+10001834;Uhowo
+10001844;Wali³y
+10001853;Wasilków
+10001864;Witowo
+10001874;Wólka Ratowiecka
+10001884;Zajezierce
+10001894;Zastocze
+10001904;Zdrody Nowe
+10001914;Zimnochy
+10001924;¯ednia
+50001933;Aleksandrów Kujawski
+50001944;Anieliny
+50001954;Arcelin
+50001964;Babiak
+50001974;Baboszewo
+50001984;Bachorce
+50001994;Bielawy
+50002004;Biskupiec Pomorski
+50002014;B³¹dzim
+50002024;Boguszewo
+50002033;Brodnica
+50002044;Brzezie
+50002054;Brzoza Bydgoska
+50002064;Brzoza Toruñska
+50002074;Bursztynowo
+50002081;Bydgoszcz Akademia
+50002091;Bydgoszcz Bielawy
+50002101;Bydgoszcz B³onie
+50002111;Bydgoszcz Brdyujœcie
+50002121;Bydgoszcz Fordon
+50002130;Bydgoszcz G³ówna
+50002141;Bydgoszcz Leœna
+50002151;Bydgoszcz £êgnowo
+50002161;Bydgoszcz Osowa Góra
+50002171;Bydgoszcz Wschód
+50002181;Bydgoszcz Zachód
+50002194;Cekcyn
+50002204;Che³mce
+50002213;Che³m¿a
+50002224;Chmielniki Bydgoskie
+50002234;Ciechocinek
+50002244;Cieksyn
+50002251;Cierpice
+50002264;Cierpice K¹kol
+50002274;Czermno
+50002284;Czerniewice
+50002294;Czernikowo
+50002304;Czersk Œwiecki
+50002314;Dalanówek
+50002324;D¹bie nad Nerem
+50002334;D¹browa Che³miñska
+50002344;D¹browy
+50002354;Dobrzejewice
+50002364;Dragacz
+50002374;Drzycim
+50002384;Dubielno
+50002394;Firlus
+50002404;G³uchowo
+50002413;Gniewkowo
+50002424;Go³aszewo Kujawskie
+50002434;Gorzuchowo Che³miñskie
+50002444;Gozdowo
+50002454;Górna Grupa
+50002464;Grêbocin
+50002472;Grudzi¹dz
+50002484;Grudzi¹dz Mniszek
+50002494;Grudzi¹dz Owczarki
+50002503;Grudzi¹dz Przedmieœcie
+50002514;Grupa
+50002524;Grzybno
+50002534;Grzywna
+50002544;Gzin
+50002552;Inowroc³aw
+50002564;Inowroc³aw M¹twy
+50002574;Inowroc³aw R¹binek
+50002582;Jab³onowo Pomorskie
+50002594;Jadwi¿yn
+50002604;Jaksice
+50002613;Janikowo
+50002624;Jastrzêbie Pomorskie
+50002634;Je¿ewo
+50002644;Kaczorowo
+50002654;Kaliska Kujawskie
+50002664;Kamionki Jezioro
+50002674;Karczyn
+50002684;Karnkowo
+50002694;Ko³odziejewo
+50002704;Konojady
+50002714;Konotopie
+50002724;Kornatowo
+50002734;Koœcielec Kujawski
+50002741;Kotomierz
+50002753;Kowalewo Pomorskie
+50002764;Koziebrody
+50002774;Kozio³ek
+50002784;Kretki
+50002794;Kruszwica
+50002804;Ksi¹¿ki
+50002814;Kwiatki
+50002824;Laski Tucholskie
+50002832;Laskowice Pomorskie
+50002844;Leosia
+50002854;Linowo
+50002864;Lipie Góry
+50002874;Lipienica
+50002884;Lipinki
+50002893;Lipno
+50002904;Lipowa Tucholska
+50002914;Lipowa Wschodnia
+50002924;Lniano
+50002934;Lubania-Lipiny
+50002943;Lubanie
+50002954;Lubicz
+50002964;£¹¿ek
+50002971;£ysomice
+50002981;Maksymilianowo
+50002994;Ma³e Gacno
+50003003;Me³no
+50003014;Mieszaki
+50003023;Mogilno
+50003034;Najmowo
+50003043;Nak³o nad Noteci¹
+50003054;Nawra
+50003064;Nicwa³d
+50003073;Nieszawa Waganiec
+50003084;Nowa Wieœ Wielka
+50003094;Obrowo
+50003104;Odolion
+50003114;Ograszka
+50003123;Osie
+50003131;Ostaszewo Toruñskie
+50003143;Ostromecko
+50003154;Ostrowite ko³o Jab³onowa
+50003164;Ostrowy
+50003174;Ot³oczyn
+50003184;Pakoœæ
+50003191;Papowo Toruñskie
+50003204;Parlin
+50003214;Paw³ówek
+50003224;Piastoszyn
+50003234;Piechcin
+50003244;Piotrków Kujawski
+50003253;P³oñsk
+50003264;Podwierzbie
+50003274;Ponêtów
+50003284;Pr¹docin
+50003294;Proboszczewice P³ockie
+50003303;Pruszcz Pomorski
+50003311;Przy³ubie
+50003324;Puszcza Rz¹dowa
+50003333;Raci¹¿
+50003344;RogóŸno Pomorskie
+50003354;Rosochatka
+50003364;Ro¿niaty
+50003374;Rutkowice
+50003384;Rychnowo Wielkie
+50003391;Rynkowo Wiadukt
+50003404;Samostrzel
+50003413;Serock
+50003423;Sierpc
+50003434;Skêpe
+50003441;Solec Kujawski
+50003454;Stronno
+50003464;Suchatówka
+50003474;Susk
+50003484;Szczutowo
+50003494;Szlachta
+50003504;Œlesin
+50003514;Œliwice
+50003524;Œliwiczki
+50003533;Œwiekatowo
+50003543;Terespol Pomorski
+50003554;Tleñ
+50003564;Toruñ Czerniewice
+50003570;Toruñ G³ówny
+50003581;Toruñ Kluczyki
+50003591;Toruñ Miasto
+50003601;Toruñ Wschodni
+50003611;Trzciniec
+50003623;Tuchola
+50003631;Turzno
+50003644;Turzno Kujawskie
+50003654;Twarda Góra
+50003663;Unis³aw Pomorski
+50003674;Wa³dowo Szlacheckie
+50003684;Wapienno Przystanek
+50003694;Warlubie
+50003704;Warz¹chewka
+50003713;W¹brzeŸno
+50003724;Wierzchos³awice
+50003733;Wierzchucin
+50003744;Wierzchucin Stary
+50003754;Wiêc³awice
+50003764;Wiktorowo
+50003774;Wkra
+50003782;W³oc³awek
+50003793;W³oc³awek Zazamcze
+50003804;Wroc³awki
+50003814;Wudzyn
+50003824;Zaroœle
+50003834;Zaryñ
+50003844;Zawidz
+50003854;Zawidz Koœcielny
+50003864;Zieleñ
+50003874;Zielonczyn
+50003884;Zielonka Pomorska
+50003894;Z³otniki Kujawskie
+50003904;¯alno
+30003911;Bêdzin
+30003921;Bêdzin Ksawera
+30003931;Bêdzin Miasto
+30003944;Blachownia
+30003954;Chruszczobród
+30003964;Ciasna
+30003970;Czêstochowa
+30003984;Czêstochowa Anio³ów
+30003994;Czêstochowa Gnaszyn
+30004003;Czêstochowa Raków
+30004013;Czêstochowa Stradom
+30004021;D¹browa Górnicza
+30004031;D¹browa Górnicza Go³onóg
+30004041;D¹browa Górnicza Pogoria
+30004054;D¹browa Górnicza Po³udniowa
+30004061;D¹browa Górnicza Sikorka
+30004073;D¹browa Górnicza Strzemieszyce
+30004083;D¹browa Górnicza Wschodnia
+30004091;D¹browa Górnicza Z¹bkowice
+30004104;Herby Stare
+30004114;Jacków
+30004124;Julianka
+30004133;K³omnice
+30004144;Kochanowice
+30004153;Koniecpol
+30004164;Koniecpol Magdasz
+30004173;Korwinów
+30004183;Koszêcin
+30004194;Kusiêta Nowe
+30004204;Lisowice
+30004214;Lisów
+30004222;Lubliniec
+30004234;Lus³awice
+30004243;£azy
+30004254;Mas³oñskie Natalin
+30004262;Myszków
+30004274;Myszków Mrzyg³ód
+30004284;Myszków Nowa Wieœ
+30004294;Myszków Œwiatowit
+30004304;Pawonków
+30004314;Podlesie
+30004323;Poraj
+30004334;Rudniki ko³o Czêstochowy
+30004344;Rusinowice
+30004353;Rzerzêczyce
+30004364;Sieraków Œl¹ski
+30004373;S³awków
+30004384;Staropole Czêstochowskie
+30004394;Turów
+30004404;Widzów Teklinów
+30004414;Wiesió³ka
+30004422;Zawiercie
+30004433;Zawiercie Borowe Pole
+30004443;¯arki-Letnisko
+50004454;Babi Dó³
+50004464;B¹k
+50004474;BêdŸmierowice
+50004484;Bia³ki
+50004494;Borkowo
+50004503;Bo¿epole Wielkie
+50004514;Brachlewo
+50004523;Brusy
+50004534;Bukowo Cz³uchowskie
+50004544;Bytonia
+50004553;Cha³upy
+50004562;Chojnice
+50004574;Cieplewo
+50004584;Czarlin
+50004593;Czarna Woda
+50004603;Czersk
+50004614;D¹brówka Malborska
+50004624;Dziemiany Kaszubskie
+50004634;Dzier¿¹¿no
+50004644;Dziwno
+50004654;Fiszewo
+50004664;Garczegorze
+50004674;Garczyn
+50004684;Gardeja
+50004694;Gdakowo
+50004700;Gdañsk G³ówny
+50004711;Gdañsk Lipce
+50004721;Gdañsk Oliwa
+50004731;Gdañsk Orunia
+50004741;Gdañsk Osowa
+50004751;Gdañsk Stadion Expo
+50004761;Gdañsk Wrzeszcz
+50004771;Gdynia Chylonia
+50004780;Gdynia G³ówna
+50004794;Gdynia Karwiny
+50004801;Gdynia Or³owo
+50004814;Gdynia Stadion
+50004821;Gdynia Wielki Kack
+50004834;Godêtowo
+50004843;Go³ubie Kaszubskie
+50004853;Goœcicino Wejherowskie
+50004864;Goœciszewo
+50004874;Gronajny
+50004884;Grzêpa
+50004894;Gutowiec
+50004902;Hel
+50004913;Jastarnia
+50004924;Jastarnia Wczasy
+50004933;Jurata
+50004943;Kaliska
+50004954;Kalisz Kaszubski
+50004964;Kamienna Karczma
+50004974;Karsin
+50004984;Kartuzy
+50004994;Kie³pino Kartuskie
+50005002;Koœcierzyna
+50005014;Krojanty
+50005024;Królewo Malborskie
+50005034;Krzeszna
+50005044;Kulice Tczewskie
+50005053;KuŸnica (Hel)
+50005062;Kwidzyn
+50005072;Lêbork
+50005083;Lêbork Mosty
+50005094;Lêbork Nowy Œwiat
+50005104;Lêdziechowo
+50005114;Lipuska Huta
+50005123;Lipusz
+50005134;Lisewo
+50005144;Lubnia
+50005153;Luzino
+50005164;£¹g
+50005174;£¹g Po³udniowy
+50005183;£eba
+50005194;£ubiana
+50005204;Majewo
+50005212;Malbork
+50005224;Malbork Ka³dowo
+50005234;Mêcika³
+50005244;Miko³ajki Pomorskie
+50005254;Mi³ob¹dz
+50005264;Mleczewo
+50005274;Morzeszczyn
+50005284;Moszczenica Pomorska
+50005294;Mrzezino
+50005304;Nowa Wieœ Lêborska
+50005314;Olpuch
+50005324;Olpuch Wdzydze
+50005333;Pelplin
+50005344;Pêpowo Kartuskie
+50005354;Piesienice
+50005364;Pinczyn
+50005374;Podleœ
+50005384;Powa³ki
+50005392;Prabuty
+50005401;Pruszcz Gdañski
+50005413;Pszczó³ki
+50005423;Puck
+50005434;Rac³awki
+50005444;Raduñ
+50005451;Reda
+50005461;Reda Pieleszewo
+50005474;Reda Rekowo
+50005481;Rêbiechowo
+50005494;Rokitki Tczewskie
+50005504;Ró¿yny
+50005511;Rumia
+50005523;Ryjewo
+50005534;Rytel
+50005544;Rytel Wieœ
+50005554;Sadlinki
+50005564;Silno
+50005574;Skorzewo
+50005584;Skowarcz
+50005594;S³awki
+50005604;Smêtowo
+50005613;Somonino
+50005621;Sopot
+50005634;Stare Pole
+50005643;Starogard Gdañski
+50005654;Steknica
+50005664;Stogi Malborskie
+50005673;Strzebielino Morskie
+50005684;Subkowy
+50005694;Subkowy Centrum
+50005704;Swaro¿yn
+50005714;Swarzewo
+50005724;Sza³amaje
+50005734;Szpêgawsk
+50005743;Sztum
+50005754;Sztumska Wieœ
+50005764;Szymankowo
+50005772;Tczew
+50005781;Wejherowo
+50005791;Wejherowo Œmiechowo
+50005801;Wejherowo-Nanice
+50005814;Wierzchowo Cz³uchowskie
+50005824;Wie¿yca
+50005832;W³adys³awowo
+50005844;W³adys³awowo Port
+50005854;Wojtal
+50005864;Wrzeœcie
+50005874;Zblewo
+50005884;¯abno ko³o Chojnic
+50005894;¯elistrzewo
+50005904;¯ukowo
+50005913;¯ukowo Wschodnie
+20005924;Berezów
+20005933;Bukowa
+20005944;Busko-Zdrój
+20005954;Czarnca
+20005964;Górki Szczukowskie
+20005973;Jêdrzejów
+20005980;Kielce
+20005993;Kielce Bia³ogon
+20006003;Kielce Herbskie
+20006013;Kielce Piaski
+20006024;Kielce S³owik
+20006033;Kielce Œlichowice
+20006044;Klimontów
+20006054;Kostom³oty
+20006063;Koz³ów
+20006074;Krzciêcice
+20006084;Ludynia
+20006094;Ludynia Dwór
+20006104;£¹czna
+20006114;Ma³ogoszcz
+20006124;Mi¹sowa
+20006134;Piekoszów
+20006144;Potok
+20006154;Radkowice
+20006163;Rykoszyn
+20006173;Sêdziszów
+20006184;Sitkówka Nowiny
+20006194;Sobków
+20006203;Suchedniów
+20006214;Suchedniów Pó³nocny
+20006224;Tumlin
+20006234;Wierna Rzeka
+20006243;W³oszczowa
+20006253;W³oszczowa Pó³noc
+20006264;Wolica
+20006274;Zagnañsk
+20006284;¯elis³awice
+30006291;Balin
+30006301;Baranówka
+30006314;Biadoliny
+30006322;Bochnia
+30006334;Bogumi³owice
+30006342;Brzesko Okocim
+30006353;Brzeszcze
+30006364;Brzeszcze Jawiszowice
+30006374;BrzeŸnica
+30006383;Bukowno
+30006394;Bukowno Przymiarki
+30006404;Charsznica
+30006413;Che³mek Fabryka
+30006423;Chrzanów
+30006433;Chrzanów Œródmieœcie
+30006444;Chrz¹stowice Olkuskie
+30006454;Cikowice
+30006464;Czarna Tarnowska
+30006471;Dulowa
+30006484;Dwory
+30006494;Dziadówki
+30006504;Gajówka
+30006513;Gorzów Chrzanowski
+30006521;Goszcza
+30006534;Grabiny
+30006544;Jaroszowiec Olkuski
+30006554;Jasieñ Brzeski
+30006564;Jaœkowice
+30006574;Jawiszowice JaŸnik
+30006584;Je¿ówka
+30006594;Kamieñczyce
+30006603;K³aj
+30006611;Kokotów
+30006621;Kraków Batowice
+30006631;Kraków Bie¿anów
+30006641;Kraków Bie¿anów Dro¿d¿ownia
+30006651;Kraków Bonarka
+30006661;Kraków Bronowice
+30006671;Kraków Business Park
+30006680;Kraków G³ówny
+30006691;Kraków Lotnisko
+30006701;Kraków £agiewniki
+30006711;Kraków £obzów
+30006721;Kraków M³ynówka
+30006731;Kraków Mydlniki
+30006741;Kraków Mydlniki Wapiennik
+30006751;Kraków Olsza
+30006761;Kraków Olszanica
+30006771;Kraków P³aszów
+30006781;Kraków Podgórze
+30006791;Kraków Podgórze P2
+30006801;Kraków Prokocim
+30006811;Kraków Sanktuarium
+30006821;Kraków Sidzina
+30006831;Kraków Swoszowice
+30006841;Kraków Zab³ocie
+30006851;Kraków Zakliki
+30006861;Krzeszowice
+30006873;Libi¹¿
+30006881;£uczyce
+30006893;Miechów
+30006901;NiedŸwiedŸ
+30006913;Olkusz
+30006922;Oœwiêcim
+30006934;Podbory Skawiñskie
+30006941;Pod³ê¿e
+30006954;Pó³wieœ
+30006964;Przeciszów
+30006971;Rudawa
+30006984;Ryczów
+30006994;Rzezawa
+30007001;Skawina
+30007014;Skawina Zachodnia
+30007023;S³omniki
+30007031;S³omniki Miasto
+30007044;Smroków
+30007054;Spytkowice
+30007064;Spytkowice Kêpki
+30007074;Stani¹tki
+30007084;Stanis³awice
+30007094;Sterkowiec
+30007104;Szarów
+30007114;Szczepanowice
+30007122;Tarnów
+30007133;Tarnów Moœcice
+30007142;Trzebinia
+30007153;Tunel
+30007164;Wa³ki
+30007171;Wêgrzce Wielkie
+30007181;Wieliczka Bogucice
+30007191;Wieliczka Park
+30007201;Wieliczka Rynek-Kopalnia
+30007214;Wielkie Drogi
+30007224;W³osienica
+30007231;Wola Filipowska
+30007243;Wola Rzêdziñska
+30007253;Wolbrom
+30007261;Zabierzów
+30007274;Zarzecze
+30007281;Zastów
+30007294;Zator
+30007304;Zelczyna
+20007314;Baranów Sandomierski
+20007323;Be³¿ec
+20007334;Be³¿ec Drugi
+20007344;Bi³goraj
+20007354;Biskupice
+20007364;Borowina
+20007374;BrzeŸnica Bychawska
+20007384;BrzeŸno
+20007394;Bystrzyca ko³o Lublina
+20007402;Che³m
+20007414;Che³m Cementownia
+20007423;Che³m Miasto
+20007434;Chmielów
+20007444;Chmielów Zagumnie
+20007454;Ciecierzyn
+20007464;Ciosmy
+20007474;Cygany
+20007484;Czes³awice
+20007494;D¹browica ko³o Bi³goraja
+20007504;D¹browica Ma³opolska
+20007514;Dêba Rozalin
+20007522;Dêblin
+20007534;D³ugi K¹t
+20007544;Dominów
+20007553;Dorohusk
+20007563;Garwolin
+20007574;Golce
+20007584;Go³¹b
+20007594;Grabniak
+20007604;Grabów Szlachecki
+20007614;Grêbów
+20007624;Gródek
+20007634;Hordzie¿ka
+20007644;Hrebenne
+20007654;Hrubieszów Miasto
+20007664;Huta Derêgowska
+20007674;Huta Krzeszowska
+20007684;Izbica
+20007694;Jadachy
+20007704;Jaszczów
+20007714;Józefów Roztoczañski
+20007724;Kanie
+20007734;Karolinówka
+20007744;Kêpa
+20007754;Klemensów
+20007764;Klementowice
+20007774;K³y¿ów
+20007784;Krasnystaw Fabryczny
+20007793;Krasnystaw Miasto
+20007803;Kraœnik
+20007814;Krê¿nica Jara
+20007824;Krzywda
+20007834;Leokadia
+20007844;Leopoldów
+20007854;Leœniczówka
+20007864;Lipa
+20007873;Lubartów
+20007884;Lubartów Lipowa
+20007894;Lubartów S³owackiego
+20007900;Lublin
+20007914;Lublin Ponikwoda
+20007921;Lublin Pó³nocny
+20007931;Lublin Zachodni
+20007944;Lublin Zadêbie
+20007953;Lublin Zemborzyce
+20007964;Lubycza Królewska
+20007974;£askarzew Przystanek
+20007984;£opatki
+20007994;Majdan
+20008004;Majdan Stuleñski
+20008014;Mazi³y
+20008024;Mi¹czyn
+20008034;Mika
+20008044;Mi³ocin Lubelski
+20008054;Minkowice
+20008064;Mokre
+20008074;Moskale
+20008084;Motycz
+20008094;Motycz Leœny
+20008103;Na³êczów
+20008114;Niedrzwica
+20008124;Niedrzwica Koœcielna
+20008134;Niemce
+20008143;Nisko
+20008154;Nisko Osiedle
+20008164;Nisko Podwolina
+20008174;Nisko Rac³awice
+20008184;Nowa Dêba
+20008194;Nowiny
+20008204;Ocice
+20008214;Okrzeja
+20008224;Okuninka Bia³e
+20008234;Pa³ecznica
+20008244;Parczew
+20008254;Parczew Kolejowa
+20008263;Pilchów
+20008274;Podzamcze
+20008284;Polichna Kraœnicka
+20008294;Potok Kraœnicki
+20008304;Po¿óg
+20008314;Pu³ankowice
+20008324;Pu³awy
+20008334;Pu³awy Azoty
+20008344;Pu³awy Chemia
+20008352;Pu³awy Miasto
+20008364;Radzyñ Podlaski
+20008373;Rejowiec
+20008384;Rokitnia Stara
+20008394;Ruda Talubska
+20008404;Ruda-Huta
+20008414;Ruda-Opalin
+20008424;Rudnik
+20008434;Ruskie Piaski
+20008444;Ryki
+20008454;Rzeczyca
+20008464;Rzeczyca-Kolonia
+20008474;Sadurki
+20008484;Sarnów
+20008494;Siedliska Tomaszowskie
+20008504;Skopanie
+20008514;Sobibór
+20008524;Sobolew
+20008534;Sobów
+20008543;Stalowa Wola
+20008552;Stalowa Wola Centrum
+20008564;Stalowa Wola Po³udnie
+20008573;Stalowa Wola Rozwadów
+20008584;Stasin Polny
+20008594;Stulno
+20008604;Sulów
+20008614;Susiec
+20008624;Szastarka
+20008634;Szczebrzeszyn
+20008641;Œwidnik Miasto
+20008651;Œwidnik Wschód
+20008664;Tar³o
+20008673;Tarnobrzeg
+20008684;Tarnowska Wola
+20008694;Tarzymiechy
+20008704;Tereszpol Bi³gorajski
+20008714;Trawniki
+20008724;Turbia
+20008734;Uhrusk
+20008744;Uhrusk Przystanek
+20008754;Wandzin
+20008764;Werbkowice
+20008774;Wielowieœ
+20008784;Wilko³az
+20008794;Wilko³az Wieœ
+20008804;W³odawa
+20008814;Wola Rowska
+20008824;Wólka Kañska
+20008834;Wólka Niedzieliska
+20008844;Wólka Okopska
+20008854;Wólka Or³owska
+20008864;Wygoda
+20008874;Zabiele
+20008884;Zagrody Koœció³
+20008894;Zaklików
+20008904;Zalesie Krasieñskie
+20008913;Zamoœæ
+20008924;Zamoœæ Starówka
+20008934;Zamoœæ Wschód
+20008944;Zarzeka
+20008954;Zawada
+20008964;Zawadówka
+20008974;Zbydniów
+20008984;Z³ojec
+20008994;Zwierzyniec
+20009004;¯ulin
+20009014;¯yczyn
+10009023;Baby
+10009031;Bedoñ
+10009044;Be³chów
+10009054;Bobrowniki
+10009064;Bobry
+10009074;Borszewice
+10009084;Bratoszewice
+10009094;Chech³o
+10009104;Chociszew
+10009114;Chrusty Nowe
+10009124;D¹browice Skierniewickie
+10009134;Dobroñ
+10009144;Dobryszyce ko³o Radomska
+10009154;Domaniewice
+10009164;Domaniewice Centrum
+10009171;Ga³kówek
+10009184;Gawrony
+10009194;Glinnik
+10009204;Glinnik Wieœ
+10009213;G³owno
+10009223;Gomunice
+10009233;Gorzêdów
+10009243;Gorzkowice
+10009254;Grotniki
+10009264;Grudze
+10009274;Jarosty
+10009281;Justynów
+10009294;Kamieñ £owicki
+10009303;Kamieñsk
+10009314;K³udna
+10009323;Kolumna
+10009332;Koluszki
+10009344;Kraski
+10009353;Krosnowa
+10009363;Lipce Reymontowskie
+10009371;Lublinek
+10009384;Luci¹¿anka
+10009393;£ask
+10009404;£aznów
+10009413;£êczyca
+10009421;£ódŸ Andrzejów
+10009431;£ódŸ Arturówek
+10009441;£ódŸ Chojny
+10009451;£ódŸ D¹browa
+10009460;£ódŸ Kaliska
+10009471;£ódŸ Marysin
+10009481;£ódŸ Niciarniana
+10009494;£ódŸ Olechów Wschód
+10009501;£ódŸ Pabianicka
+10009514;£ódŸ Radogoszcz Zachód
+10009521;£ódŸ Stoki
+10009531;£ódŸ Widzew
+10009541;£ódŸ ¯abieniec
+10009553;Maków
+10009564;Milejów
+10009574;Mokra
+10009583;Moszczenica
+10009594;Otok
+10009603;Ozorków
+10009611;Ozorków Nowe Miasto
+10009621;Pabianice
+10009632;Piotrków Trybunalski
+10009643;P³yæwia
+10009654;Poddêbice
+10009664;Przy³êk Du¿y
+10009672;Radomsko
+10009683;Rogów
+10009693;Rokiciny
+10009704;Rozprza
+10009714;Sierakowice Skierniewickie
+10009724;Sierpów
+10009732;Skierniewice
+10009743;Skierniewice Rawka
+10009754;Skrzynki
+10009764;S³otwiny
+10009774;Smardzew
+10009783;Stryków
+10009794;Swêdów
+10009804;Szadek
+10009814;W¹gry
+10009824;Wilkoszewice
+10009834;Witonia
+10009844;Wolbórka
+10009854;Wykno
+10009864;Zaosie
+10009872;Zduñska Wola
+10009884;Zduñska Wola Karsznice
+10009894;Zduñska Wola Po³udniowa
+10009901;Zgierz
+10009911;Zgierz Jaracza
+10009924;Zgierz Kontrewers
+10009934;Zgierz Pó³noc
+10009941;¯akowice
+10009951;¯akowice Po³udniowe
+30009963;Andrychów
+30009974;Andrychów Górnica
+30009984;Andrzejówka
+30009994;Barcice
+30010004;Barwa³d Górny
+30010014;Barwa³d Œredni
+30010023;Bia³y Dunajec
+30010034;Biecz
+30010044;Bobowa
+30010053;Bobowa-Miasto
+30010064;Bogoniowice Ciê¿kowice
+30010074;Bulowice
+30010084;Bystra Podhalañska
+30010093;Chabówka
+30010104;Chocznia
+30010114;Chocznia Górna
+30010124;Chojnik
+30010134;Chomranice
+30010144;Dobra ko³o Limanowej
+30010154;Gorlice
+30010164;Gorlice Glinik
+30010174;Gorlice Zagórzany
+30010184;Gromnik
+30010193;Grybów
+30010204;Hucisko
+30010214;Inwa³d
+30010224;Jankowa
+30010233;Jordanów
+30010244;Juszczyn
+30010254;Kalwaria Zebrzydowska
+30010263;"Kalwaria Zebrzydowska
+Lanckorona"
+30010274;Kamionka Wielka
+30010284;Kasina Wielka
+30010293;Kêty
+30010304;Kêty Podlesie
+30010314;Klecza Dolna
+30010324;Klecza Górna
+30010334;Klêczany
+30010344;K³okowa
+30010354;Kojszówka
+30010363;Krynica-Zdrój
+30010374;Kurów Suski
+30010384;Lachowice
+30010394;Lachowice Centrum
+30010404;Lasek
+30010414;Leluchów
+30010424;Leñcze
+30010434;Libusza
+30010444;Limanowa
+30010454;Lubaszowa
+30010463;£omnica-Zdrój
+30010474;£ososina Górna
+30010484;£owczów
+30010494;£owczówek Pleœna
+30010503;Maków Podhalañski
+30010514;Marcinkowice
+30010524;Mêcina
+30010534;Mêcina Podgórze
+30010544;Milik
+30010554;M³odów
+30010564;Moszczenica Ma³opolska
+30010574;Mszalnica
+30010584;Mszana Dolna
+30010594;Mszana Dolna Marki
+30010603;Muszyna
+30010614;Muszyna Poprad
+30010624;Muszyna Zdrój
+30010632;Nowy S¹cz
+30010644;Nowy S¹cz Biegonice
+30010654;Nowy S¹cz Che³miec
+30010664;Nowy S¹cz Jamnica
+30010674;Nowy S¹cz Miasto
+30010682;Nowy Targ
+30010694;Osielec
+30010704;Piekie³ko
+30010714;Pisarzowa
+30010724;Piwniczna
+30010734;Piwniczna-Zdrój
+30010744;P³awna
+30010754;Podolany
+30010764;Polna
+30010773;Poronin
+30010784;PowroŸnik
+30010794;Przytkowice
+30010804;Ptaszkowa
+30010814;Pyzówka
+30010824;Raba Ni¿na
+30010834;Raba Wy¿na
+30010844;Rabka Zaryte
+30010853;Rabka-Zdrój
+30010864;Radziszów
+30010874;Radziszów Centrum
+30010884;Rokiciny Podhalañskie
+30010894;Rytro
+30010904;Rzozów
+30010914;Siedliska ko³o Tuchowa
+30010924;Sieniawa
+30010934;Skawa
+30010944;Skawa Œrodkowa
+30010954;Skrzydlna
+30010964;Stary S¹cz
+30010974;Stronie
+30010983;Stró¿e
+30010994;Stryszawa
+30011004;Stryszów
+30011013;Sucha Beskidzka
+30011024;Sucha Beskidzka Zamek
+30011033;Szaflary
+30011044;Szaflary Wieœ
+30011054;Szalowa
+30011063;Tuchów
+30011074;Tymbark
+30011083;Wadowice
+30011094;Wierchomla Wielka
+30011104;Wilczyska
+30011114;Wola £u¿añska
+30011124;Wola Radziszowska
+30011132;Zakopane
+30011144;Zamek Bulowicki
+30011154;Zembrzyce
+30011164;Zubrzyk
+30011174;¯egiestów
+30011184;¯egiestów-Zdrój
+50011194;Bajtkowo
+50011203;Barczewo
+50011214;Bart¹g
+50011224;Bartosze
+50011234;Bartoszyce
+50011244;Bia³a ko³o Piszu
+50011254;Biesal
+50011264;Bogaczewo
+50011273;Braniewo
+50011284;Bujaki
+50011294;Bukwa³d
+50011304;Burkat
+50011314;Bzowiec
+50011324;Cerkiewnik
+50011332;Ciechanów
+50011344;Ciechanów Przemys³owy
+50011354;Czeruchy
+50011364;Czerwonka
+50011373;Dobre Miasto
+50011384;Dobrocin
+50011394;Dobrzyñ
+50011404;Dryga³y
+50011412;Dzia³dowo
+50011422;Elbl¹g
+50011432;E³k
+50011444;E³k Szyba Wschód
+50011454;E³k Szyba Zachód
+50011464;E³k Zachód
+50011474;Gamerki Wielkie
+50011484;G¹g³awki
+50011493;G¹socin
+50011502;Gi¿ycko
+50011514;Godki
+50011523;Go³otczyzna
+50011534;Górowo
+50011544;Gralewo
+50011554;Grodzie
+50011564;Grom
+50011574;Gronowo Elbl¹skie
+50011584;GryŸliny
+50011593;Gutkowo
+50011604;Hartowiec
+50011614;Henrykowo
+50011622;I³awa G³ówna
+50011633;I³awa Miasto
+50011644;I³owo
+50011654;Jackowo Dworskie
+50011664;Jamielnik
+50011674;Jarzêbiec
+50011684;Jeglia
+50011694;Jeruty
+50011704;Jonkowo
+50011714;Kaliszki
+50011724;Ka³êczyn
+50011734;K¹tne
+50011742;Kêtrzyn
+50011754;Klewki
+50011764;Kolonia
+50011774;Komorowo ¯u³awskie
+50011784;Konopki
+50011793;Korsze
+50011804;Kozia Góra
+50011814;Koz³owo
+50011824;Kroœnice Mazowieckie
+50011834;Linkowo
+50011844;Lipiñskie Ma³e
+50011854;Lubajny
+50011864;Lubomino
+50011874;£ankiejmy
+50011884;£êgajny
+50011894;Ma³dyty
+50011904;Marcinkowo
+50011914;Martiany
+50011922;M³awa
+50011933;M³awa Miasto
+50011944;Montowo
+50011953;Mor¹g
+50011964;Mor¹g Kolonia
+50011974;Narzym
+50011984;Naterki
+50011993;Nidzica
+50012004;Niegocin
+50012014;Nowa Wieœ Cierpkie
+50012024;Nowa Wieœ E³cka
+50012034;Nowy M³yn
+50012044;Odoje
+50012054;Olecko
+50012061;Olsztyn Dajtki
+50012070;Olsztyn G³ówny
+50012081;Olsztyn Œródmieœcie
+50012091;Olsztyn Zachodni
+50012103;Olsztynek
+50012114;Olszyny
+50012123;Orneta
+50012134;Orzysz
+50012142;Ostróda
+50012153;Pas³êk
+50012164;Pasym
+50012173;Pieniê¿no
+50012184;Pikus
+50012193;Pisz
+50012204;Pogorzel Wielka
+50012213;Prostki
+50012224;Rakowice
+50012234;Redaki
+50012244;Rogale
+50012254;Rogiedle
+50012263;Ruciane-Nida
+50012274;Ruciane-Nida Zachód
+50012284;Rudzienice Suskie
+50012294;Rybno Pomorskie
+50012304;Samborowo
+50012314;S¹topy-Samulewo
+50012324;Siedliska
+50012334;Siódmak
+50012344;Skandawa
+50012354;Skomack Wielki
+50012364;Smolniki
+50012374;Spychowo
+50012384;Stare Guty
+50012394;Stare Jab³onki
+50012404;Stare Juchy
+50012414;Stawiguda
+50012424;Ster³awki Ma³e
+50012433;Ster³awki Wielkie
+50012444;Stupsk Mazowiecki
+50012453;Susz
+50012464;Swobodna
+50012473;Szczytno
+50012484;Szeroki Bór
+50012493;Szymany Lotnisko
+50012504;Œwiercze
+50012514;Œwiêtajno
+50012524;To³kiny
+50012534;Tuczki
+50012544;Turza Wielka
+50012554;Unieszewo
+50012564;Waplewo
+50012574;Wipsowo
+50012584;Wo³owno
+50012594;Woszczele
+50012604;Wydminy
+50012614;Wysoka Braniewska
+50012624;Wyszyny
+50012634;Zaj¹czkowo Lubawskie
+50012644;Zakrzów-Sarnowo
+50012654;Z¹browo
+50012664;Zielonka Pas³êcka
+50012674;¯abi Róg
+50012684;¯abiny
+50012694;¯ugienie
+60012704;Bardo Przy³êk
+60012713;Bardo Œl¹skie
+60012724;B¹ków
+60012734;Bia³y Koœció³
+60012744;Biskupice ko³o Kluczborka
+60012754;B³otnica Strzelecka
+60012764;Boreczek
+60012774;Borkowice
+60012784;Borucice
+60012792;Brzeg
+60012804;Budziszowice
+60012814;Bukowo
+60012823;Byczyna Kluczborska
+60012834;Chróœcice
+60012844;Chróœcina Nyska
+60012853;Chróœcina Opolska
+60012864;Chrz¹stowice
+60012874;Czeska Wieœ
+60012884;D¹browa Niemodliñska
+60012894;Dêbska KuŸnia
+60012904;Doboszowice
+60012914;Dobrzeñ Wielki
+60012924;Domaszowice
+60012934;Dytmarów
+60012943;Dzier¿oniów Œl¹ski
+60012954;Fosowskie
+60012963;G³ogówek
+60012974;G³ucho³azy
+60012984;G³ucho³azy Miasto
+60012993;Gogolin
+60013004;Goœwinowice
+60013013;Góra¿d¿e
+60013024;Grêboszów
+60013033;Grodków Œl¹ski
+60013043;Henryków
+60013054;Jasienica Dolna
+60013064;Jasiona
+60013074;Je³owa
+60013084;Ka³y
+60013093;Kamieniec Z¹bkowicki
+60013103;Kamieñ Œl¹ski
+60013114;Kar³owice
+60013124;Kielcza
+60013132;Kluczbork
+60013144;Kolonowskie
+60013153;Komprachcice
+60013164;Kostów
+60013174;Kotórz Ma³y
+60013184;Krasiejów
+60013194;Krzywizna
+60013204;Kubice
+60013214;Laskowice Oleskie
+60013223;Lewin Brzeski
+60013234;Lipki
+60013244;Lipowa Œl¹ska
+60013253;£ambinowice
+60013264;£awica
+60013274;£osiów
+60013284;Mañkowice
+60013294;M¹koszyce
+60013304;Moœcisko Dzier¿oniowskie
+60013314;Myœliczyn
+60013323;Namys³ów
+60013334;Nowy Las
+60013344;Nowy Œwiêtów
+60013352;Nysa
+60013363;Olesno Œl¹skie
+60013374;Olszanka
+60013384;Opole Borki
+60013394;Opole Chmielowice
+60013404;Opole Czarnow¹sy
+60013410;Opole G³ówne
+60013423;Opole Gos³awice
+60013433;Opole Groszowice
+60013443;Opole Grotowice
+60013453;Opole Wschodnie
+60013463;Opole Zachodnie
+60013474;Osowiec Przystanek
+60013484;Otmuchów
+60013494;Otmuchów Jezioro
+60013503;Ozimek
+60013514;Paczków
+60013524;Pakos³awice
+60013533;Pi³awa Górna
+60013544;Pludry
+60013554;Pokrzywnica
+60013564;Popielów
+60013573;Prudnik
+60013584;Przecza
+60013594;Przywory Opolskie
+60013604;Rac³awice Œl¹skie
+60013614;Rogalice
+60013624;Skoroszyce
+60013634;Smardy
+60013644;Sowczyce
+60013654;Sowin
+60013664;Staniszcze Ma³e
+60013674;Starczów
+60013684;Stare Olesno
+60013694;Stary Grodków
+60013703;Strzelce Opolskie
+60013713;Strzelin
+60013724;Suchy Bór Opolski
+60013734;Suszka
+60013744;Szybowice
+60013754;Szyd³ów
+60013763;Szymiszów
+60013774;Tarnowiec Brzeski
+60013783;Tarnów Opolski
+60013793;Tu³owice
+60013804;Tu³y
+60013814;Twardawa
+60013824;Warkocz
+60013834;Wêgry
+60013844;Wierzbica Górna
+60013854;Wilków Namys³owski
+60013863;Wo³czyn
+60013874;Wójcice
+60013883;Zawadzkie
+60013893;Z¹bkowice Œl¹skie
+60013903;Ziêbice
+60013914;¯êdowice
+60013924;¯órawina
+70013934;Antonin
+70013944;Biadki
+70013954;Bia³a
+70013964;Biniew
+70013974;B³aszki
+70013983;Bojanowo
+70013994;Bo¿acin
+70014004;Bronów
+70014014;Chocicza
+70014024;Czastary
+70014034;Czekanów
+70014044;Czeluœcin
+70014053;Czempiñ
+70014064;Daniszyn
+70014074;Domanin
+70014081;Dru¿yna Poznañska
+70014094;Dzier¿anów Wielkopolski
+70014104;Dziêczyn
+70014114;Garki
+70014124;Golina
+70014134;Gorzupia
+70014144;Górka Duchowna
+70014154;Granowiec
+70014163;I³owiec
+70014174;Janków Przygodzki
+70014182;Jarocin
+70014194;Kaczkowo
+70014202;Kalisz
+70014214;Kalisz Szczypiorno
+70014224;Kalisz Winiary
+70014234;Karzec
+70014244;K¹kolewo
+70014253;Kêpno
+70014263;Kêpno PO
+70014273;Kobylin
+70014283;Koœcian
+70014293;Kotlin
+70014304;KoŸmin Wielkopolski
+70014314;Kórnik
+70014323;Krobia
+70014333;Krotoszyn
+70014344;Ksi¹¿no
+70014354;Kuklinów
+70014364;Lasocice
+70014372;Leszno
+70014384;Leszno Grzybowo
+70014394;Lipno Nowe
+70014404;£¹kociny
+70014414;£êka Opatowska
+70014424;Mêcka Wola
+70014433;Mieszków
+70014444;Mi³os³aw
+70014451;Mosina
+70014464;NiedŸwiedŸ Wielkopolski
+70014473;Nowe Skalmierzyce
+70014484;Oborzyska Stare
+70014494;Obra Stara
+70014504;Oci¹¿
+70014513;Odolanów
+70014523;Opatówek
+70014534;Orzechowo
+70014542;Ostrów Wielkopolski
+70014554;Ostrów Wielkopolski Gorzyce
+70014563;Ostrzeszów
+70014574;Paw³owice
+70014584;Paw³ów Wielkopolski
+70014594;Pêpowo
+70014604;Pieczyska
+70014614;Pierzchno
+70014623;Pleszew
+70014634;Poniec
+70014644;Przygodzice
+70014654;Przysieka Stara
+70014661;Puszczykowo
+70014671;Puszczykówko
+70014684;Radliczyce
+70014694;Radlin Wielkopolski
+70014702;Rawicz
+70014713;Rydzyna
+70014724;Sêdzice
+70014732;Sieradz
+70014744;Sieradz Mêka
+70014754;Sieradz Warta
+70014764;Skalmierz
+70014774;S³upia
+70014784;Solec Wielkopolski
+70014794;Soœnie Ostrowskie
+70014803;Stare Bojanowo
+70014814;Stare Drzewce
+70014824;Sulêcinek
+70014833;Œroda Wielkopolska
+70014844;Œwiba
+70014854;Taczanów
+70014864;Tarcha³y Wielkie
+70014874;Topola-Osiedle
+70014883;Wieruszów
+70014894;Wieruszów Miasto
+70014904;Wilkowice
+70014913;Witaszyce
+70014924;W³ostowo
+70014934;Wolenice
+70014943;Wschowa
+70014954;Zduny
+70014964;¯erków
+70014974;Baborówko
+70014984;Bar³ogi
+70014993;Biskupice Wielkopolskie
+70015001;Bolechowo
+70015014;Budki Nowe
+70015024;Budzyñ
+70015033;Buk
+70015044;Chludowo
+70015052;Chodzie¿
+70015064;Chroœnica
+70015074;Chwalibogowo
+70015084;Cienin
+70015094;Cienin Koœcielny
+70015104;Czerniejewo
+70015111;Czerwonak
+70015121;Czerwonak Osiedle
+70015133;Dopiewo
+70015144;Drawski M³yn
+70015154;Fa³kowo
+70015164;G¹dki
+70015174;Gêbarzewo
+70015182;Gniezno
+70015194;Gniezno Winiary
+70015204;Golêczewo
+70015213;Go³añcz
+70015224;Grylewo
+70015234;Gu³towy
+70015244;Gutowo Wielkopolskie
+70015254;Jankowo Dolne
+70015264;Janowiec Wielkopolski
+70015274;Jastrzêbsko
+70015284;Kawnice
+70015291;Kiekrz
+70015304;Kobylec
+70015311;Kobylnica
+70015323;Ko³o
+70015332;Konin
+70015344;Konin Zachód
+70015353;Kostrzyn Wielkopolski
+70015364;Kramsk
+70015374;Laskownica
+70015384;Lednogóra
+70015391;Ligowiec
+70015401;Luboñ ko³o Poznania
+70015414;£opuchowo
+70015424;£opuchowo Osiedle
+70015434;Marzenin
+70015444;Mia³y
+70015454;Milcz
+70015464;Mokrz
+70015473;Murowana Goœlina
+70015483;Nekla
+70015493;Nowy Tomyœl
+70015503;Oborniki Wielkopolskie
+70015513;Oborniki Wielkopolskie Miasto
+70015523;Opalenica
+70015534;Ostrówki ko³o Chodzie¿y
+70015544;Otoczna
+70015553;Otusz
+70015561;Owiñska
+70015574;Paczkowo
+70015583;Palêdzie
+70015594;Pami¹tkowo
+70015604;Parkowo
+70015614;Pêckowo
+70015624;Pierzyska
+70015633;Pobiedziska
+70015644;Pobiedziska Letnisko
+70015654;Podstolice
+70015664;Pora¿yn
+70015671;Poznañ Antoninek
+70015681;Poznañ Dêbiec
+70015691;Poznañ Dêbina
+70015701;Poznañ Garbary
+70015710;Poznañ G³ówny
+70015721;Poznañ Górczyn
+70015731;Poznañ Junikowo
+70015741;Poznañ Karolin
+70015751;Poznañ Krzesiny
+70015761;Poznañ Staro³êka
+70015771;Poznañ Strzeszyn
+70015781;Poznañ Wola
+70015791;Poznañ Wschód
+70015804;Promno
+70015814;Przebêdowo
+70015824;Przysieczyn
+70015834;Ptaszkowo
+70015843;RogoŸno Wielkopolskie
+70015851;Rokietnica
+70015864;Roszkowo W¹growieckie
+70015874;Ro¿nowo
+70015884;S¹topy
+70015894;Skoki
+70015903;S³awa Wielkopolska
+70015913;S³upca
+70015924;Soko³owo Budzyñskie
+70015934;Sp³awie
+70015943;Strza³kowo
+70015951;Swarzêdz
+70015963;Szamotu³y
+70015974;Tarnowo Rogoziñskie
+70015983;Trzemeszno
+70015994;Wargowo
+70016003;W¹growiec
+70016013;Wojnowice Wielkopolskie
+70016024;Wólka
+70016033;Wronki
+70016042;Wrzeœnia
+70016054;Wydartowo
+70016064;Zielone Wzgórza
+70016071;Z³otniki
+70016084;¯ydowo
+30016094;Babica
+30016104;Babica Kolonia
+30016114;Basznia
+30016124;Basznia Dolna
+30016134;Besko
+30016144;Bêdziemyœl
+30016154;Bobrówka
+30016164;Boguchwa³a
+30016174;Budy G³ogowskie
+30016184;Chorzelów
+30016194;Cmolas
+30016204;Czaszyn
+30016214;Czudec
+30016224;D¹bie ko³o Dêbicy
+30016232;Dêbica
+30016244;Dêbica Wschodnia
+30016254;D³ugie
+30016264;Dobrzechów
+30016274;Dziewiêcierz
+30016284;Frysztak
+30016294;Gliniczek
+30016302;G³ogów Ma³opolski
+30016314;G³uchów
+30016324;Gniewczyna
+30016334;Grodzisko Dolne
+30016344;Grzêska
+30016354;Hermanowice
+30016363;Horyniec-Zdrój
+30016374;Hurko
+30016384;Huta Komorowska
+30016392;Jaros³aw
+30016403;Jas³o
+30016414;Jas³o Fabryczne
+30016424;Jas³o Nieg³owice
+30016434;Jaœlany
+30016443;Jedlicze
+30016454;Jedlicze Mêcinka
+30016464;Jelna
+30016474;Kalembina
+30016484;Kochanówka Pustków
+30016493;Kolbuszowa
+30016504;Komañcza
+30016514;Komañcza Letnisko
+30016524;Komorów Podmurynia
+30016534;Korzenica
+30016544;Kosina
+30016553;Krosno
+30016563;Krosno Miasto
+30016574;Krosno Polanka
+30016584;Krosno Turaszówka
+30016594;Krzemienica
+30016604;Lesko £ukawica
+30016613;Le¿ajsk
+30016623;Lubaczów
+30016634;Lubzina
+30016643;£añcut
+30016654;£êtownia
+30016664;£upków
+30016674;Majdan Królewski
+30016684;Majdan Królewski Podlasek
+30016694;Markuszowa
+30016704;Medyka
+30016714;Medyka Rozrz¹dowa
+30016724;Medyka Towarowa
+30016734;Mielec
+30016744;Milcza
+30016754;Mi³ocin
+30016764;Mokre Ma³opolskie
+30016774;Morochów
+30016784;Munina
+30016794;Niziny
+30016804;Nowa Grobla
+30016813;Nowa Sarzyna
+30016824;Nowa Sarzyna Kolonia
+30016834;Nowosielce
+30016844;Nowy £upków
+30016854;Nowy Zagórz
+30016864;Oleszyce
+30016874;Os³awica
+30016884;Ostrów ko³o Radymna
+30016894;Padew
+30016904;Pe³kinie
+30016914;Przec³aw Tuszyma
+30016924;Przemyœl Bakoñczyce
+30016932;Przemyœl G³ówny
+30016944;Przemyœl Pikulice
+30016953;Przemyœl Zasanie
+30016962;Przeworsk
+30016974;Przybówka
+30016984;Przysieki
+30016994;Pustków
+30017004;Pustynia
+30017013;Radymno
+30017024;RogoŸnica ko³o Rzeszowa
+30017034;Rogó¿no ko³o £añcuta
+30017043;Ropczyce
+30017054;Ropczyce Witkowice
+30017064;Rudna Wielka
+30017073;Rudnik nad Sanem
+30017084;Rudnik Stró¿a
+30017094;Rzemieñ
+30017104;RzepedŸ
+30017110;Rzeszów G³ówny
+30017121;Rzeszów Osiedle
+30017131;Rzeszów Staroniwa
+30017141;Rzeszów Za³ê¿e
+30017151;Rzeszów Zwiêczyca
+30017164;Rzochów
+30017173;Sanok
+30017184;Sanok D¹brówka
+30017193;Sanok Miasto
+30017203;Sêdziszów Ma³opolski
+30017214;Siepietnica
+30017224;Sko³yszyn
+30017234;Soœnica Jaros³awska
+30017244;Stra¿ów
+30017253;Strzy¿ów nad Wis³okiem
+30017264;Surochów
+30017274;Szczawne Kulaszne
+30017284;Szebnie
+30017294;Œwilcza
+30017304;Targowiska
+30017314;Tarnawa Dolna
+30017324;Tarnowiec
+30017334;Tryñcza
+30017344;Trzciana
+30017354;Tuszów Narodowy
+30017364;Walawa
+30017374;Werchrata
+30017384;Widacz
+30017394;Wide³ka
+30017404;Wierzawice
+30017414;Wis³oczanka
+30017424;Wiœniowa
+30017434;Wojaszówka
+30017444;Wojs³aw
+30017454;Wróblik Szlachecki
+30017464;Wysoczany
+30017474;Zaborów
+30017484;Zaborów B³onia
+30017494;Zaczernie
+30017503;Zagórz
+30017514;Zagrody
+30017524;Zarêbki
+30017534;Zarszyn
+30017543;¯urawica
+30017554;¯urawica Rozrz¹dowa
+10017564;Barchów
+10017574;Barcz¹ca
+10017582;Bia³a Podlaska
+10017594;Bia³ki Siedleckie
+10017604;Borki-Kosy
+10017614;Brzozowica
+10017623;Ceg³ów
+10017633;Choty³ów
+10017644;Chrzêsne
+10017654;Cierpigórz
+10017663;Cisie
+10017674;Czachówek Wschodni
+10017684;Dalekie
+10017693;Dêbe Wielkie
+10017704;Dobrynka
+10017714;Dziewule
+10017724;Frono³ów
+10017734;Gierwaty
+10017744;Goworowo
+10017753;Góra Kalwaria
+10017764;Grodziszcze Mazowieckie
+10017774;Grzegorzewo
+10017783;Halinów
+10017794;Huta Czechy
+10017804;Jarzêbia £¹ka
+10017814;Kobylany
+10017824;Kosiorki
+10017834;Koszewnica
+10017843;Kotuñ
+10017854;Krusze
+10017864;Krynka £ukowska
+10017874;Krzymosze
+10017884;Leszczydó³
+10017894;Lucynów
+10017903;£ochów
+10017912;£uków
+10017924;£uków £apiguz
+10017934;£uków Zapowiednik
+10017944;Ma³aszewicze Przystanek
+10017953;Ma³kinia
+10017964;Matysy
+10017974;Mienia
+10017983;Miêdzyrzec Podlaski
+10017992;Miñsk Mazowiecki
+10018004;Miñsk Mazowiecki Anielina
+10018014;Misie
+10018024;Mokra Wieœ
+10018034;Mordy
+10018044;Mordy Miasto
+10018054;Mostówka
+10018063;Mrozy
+10018074;Niemojki
+10018083;Nowe Dêbe Wielkie
+10018094;Ogrodniki
+10018103;Ostro³êka
+10018114;Ostrówek Wêgrowski
+10018124;Pasieki
+10018134;Patków
+10018144;Perkowice
+10018153;Pilawa
+10018164;Platerów
+10018174;Porosiuki
+10018184;Prabuty Góry
+10018194;Prostyñ
+10018203;Przetycz
+10018214;Radomyœl
+10018224;Radzymin
+10018233;Rybienko
+10018244;Sabinka
+10018254;Sadowne Wêgrowskie
+10018264;Sarnaki
+10018272;Siedlce
+10018284;Siedlce Wschodnie
+10018293;Siedlce Zachodnie
+10018304;Sitno
+10018314;Sokule
+10018324;Sosnowe
+10018334;Stok Lacki
+10018341;Sulejówek Mi³osna
+10018354;Szachy
+10018364;Szaniawy
+10018374;Szewnica
+10018382;Terespol
+10018391;T³uszcz
+10018404;Topór
+10018413;Urle
+10018423;Wrzosów
+10018433;Wyszków
+10018444;Zygmuntowo Mazowieckie
+20018454;Antoniów
+20018464;Antoniówka
+20018474;Bartodzieje
+20018484;B¹kowiec
+20018494;Bieliny Opoczyñskie
+20018504;Bli¿yn
+20018514;Bodzechów
+20018524;Boksycka
+20018534;Bratków
+20018544;Brody I³¿eckie
+20018554;Brzask
+20018564;Brzustowa Opatowska
+20018574;Brzustów
+20018584;Chronów
+20018594;Chynów
+20018604;Czarniecka Góra
+20018614;Æmielów
+20018624;Dêba Opoczyñska
+20018634;Dobieszyn
+20018644;Drygulec
+20018654;Drzewica
+20018664;Dwikozy
+20018673;Garbatka-Letnisko
+20018684;G¹sawy Plebañskie
+20018694;Gilów
+20018704;Goœniewice
+20018714;Grabów nad Pilic¹
+20018724;Jakubowice
+20018734;Jasice
+20018744;Jastrz¹b
+20018754;Jedlnia Koœcielna
+20018763;Jedlnia-Letnisko
+20018774;Jeleñ
+20018784;Koñczyce Radomskie
+20018794;Koñskie
+20018804;Kornica
+20018814;Krê¿el
+20018824;Kruszyna
+20018833;Kunów
+20018844;Lesiów
+20018854;Lipowe Pole
+20018864;Marcinków
+20018874;Metan
+20018884;Michalczew
+20018893;Opoczno
+20018903;Opoczno Po³udnie
+20018912;Ostrowiec Œwiêtokrzyski
+20018924;Petrykozy
+20018933;Pionki
+20018944;Pionki Zachodnie
+20018954;Podbór
+20018964;Przysucha
+20018972;Radom
+20018984;Radom Po³udniowy
+20018994;Radom Potkanów
+20019004;Radzice
+20019014;Rajec Poduchowny
+20019024;Ro¿ki
+20019034;Ruda Bia³aczowska
+20019044;Ruda Wielka
+20019053;Sandomierz
+20019064;Sitowa
+20019074;Skar¿ysko Koœcielne
+20019084;Skar¿ysko Milica
+20019094;Skar¿ysko Zachodnie
+20019102;Skar¿ysko-Kamienna
+20019114;Skrzynno
+20019124;S³omianka
+20019134;Smogorzów Przysuski
+20019144;So³tyków
+20019154;Spa³a
+20019164;Starachowice
+20019174;Starachowice Micha³ów
+20019183;Starachowice Wschodnie
+20019194;Staw Kunowski
+20019204;St¹porków
+20019214;Strzy¿yna
+20019224;Styków I³¿ecki
+20019234;Su³kowice
+20019244;Szadkowice
+20019253;Szyd³owiec
+20019262;Tomaszów Mazowiecki
+20019274;Tomaszów Mazowiecki Bia³obrzegi
+20019283;Warka
+20019293;W¹chock
+20019304;Wieniawa
+20019314;Wola Bierwiecka
+20019324;Wola Lipieniecka
+20019334;Wolanów
+20019344;Zajezierze ko³o Dêblina
+20019354;Zygmuntów
+20019364;¯ytkowice
+40019372;Bielsko-Bia³a G³ówna
+40019384;Bielsko-Bia³a Komorowice
+40019393;Bielsko-Bia³a Leszczyny
+40019403;Bielsko-Bia³a Lipnik
+40019413;Bielsko-Bia³a Mikuszowice
+40019424;Bielsko-Bia³a Pó³noc
+40019434;Bielsko-Bia³a Wschód
+40019444;Che³m Œl¹ski
+40019451;Chorzów Batory
+40019463;Chybie
+40019474;Chybie Mnich
+40019482;Cieszyn
+40019494;Cieszyn Marklowice
+40019504;Ciêcina
+40019514;Ciêcina Dolna
+40019524;Cisiec
+40019532;Czechowice-Dziedzice
+40019544;Czechowice-Dziedzice Po³udniowe
+40019554;Czechowice-Dziedzice Przystanek
+40019564;Dankowice
+40019574;Drogomyœl
+40019583;Gocza³kowice
+40019594;Gocza³kowice-Zdrój
+40019604;Goleszów
+40019613;Imielin
+40019623;Jaworzno Ciê¿kowice
+40019631;Jaworzno Szczakowa
+40019644;Jeleœnia
+40019654;Kaczyce
+40019664;Kaniów
+40019670;Katowice
+40019681;Katowice Brynów
+40019691;Katowice Ligota
+40019701;Katowice Piotrowice
+40019711;Katowice Podlesie
+40019721;Katowice Szopienice Po³udniowe
+40019731;Katowice Za³ê¿e
+40019741;Katowice Zawodzie
+40019754;Kobiór
+40019764;Koñczyce
+40019773;Kozy
+40019784;Kozy Zagroda
+40019794;Krzemionki
+40019804;Laliki
+40019813;£odygowice
+40019824;£odygowice Górne
+40019833;Milówka
+40019844;Milówka Zabawa
+40019851;Mys³owice
+40019861;Mys³owice Brzezinka
+40019871;Mys³owice Brzêczkowice
+40019884;Mys³owice Kosztowy
+40019893;Nowy Bieruñ
+40019904;Pewel Ma³a
+40019914;Pewel Wielka
+40019924;Pewel Wielka Centrum
+40019934;Piasek
+40019944;Pierœciec
+40019953;Pietrzykowice ¯ywieckie
+40019964;Pogwizdów
+40019974;Pruchna
+40019982;Pszczyna
+40019994;Pszczyna Czarków
+40020004;Radziechowy Wieprz
+40020013;Rajcza
+40020023;Rajcza Centrum
+40020034;Rycerka
+40020043;Skoczów
+40020054;Skoczów B³adnice
+40020061;Sosnowiec Dañdówka
+40020071;Sosnowiec G³ówny
+40020081;Sosnowiec Kazimierz
+40020091;Sosnowiec Po³udniowy
+40020101;Sosnowiec Por¹bka
+40020114;Sól
+40020124;Sól Kiczora
+40020134;Strumieñ
+40020141;Œwiêtoch³owice
+40020151;Tychy
+40020161;Tychy Zachodnie
+40020171;Tychy ¯waków
+40020183;Ustroñ
+40020194;Ustroñ Polana
+40020204;Ustroñ Zdrój
+40020213;Wêgierska Górka
+40020223;Wilkowice Bystra
+40020234;Wis³a Dziechcinka
+40020244;Wis³a G³êbce
+40020254;Wis³a Kopyd³o
+40020264;Wis³a Ob³aziec
+40020273;Wis³a Uzdrowisko
+40020284;Zaborze
+40020293;Zabrzeg
+40020304;Zabrzeg Czarnolesie
+40020313;Zebrzydowice
+40020323;Zwardoñ
+40020332;¯ywiec
+40020344;¯ywiec Sporysz
+80020354;Barzkowice
+80020364;Baszewice
+80020374;Bêdzino
+80020382;Bia³ogard
+80020393;Bia³oœliwie
+80020404;Bia³uñ
+80020414;Bia³y Bór
+80020424;Bia³y Zdrój Po³udniowy
+80020434;Bieczyno Pomorskie
+80020444;Bierzwnik
+80020454;Biesowice
+80020464;Biñcze
+80020474;Biskupnica
+80020484;Bobrowo Pomorskie
+80020494;Boleszewo
+80020504;Brokêcino
+80020514;BrzeŸno Cz³uchowskie
+80020524;Charnowo S³upskie
+80020533;Chociwel
+80020543;Chojna
+80020553;Choszczno
+80020564;Ciecholub
+80020574;Cieszyno £obeskie
+80020584;Cybowo
+80020593;Czaplinek
+80020603;Czarne
+80020614;Czarne Ma³e
+80020624;Czarnobór
+80020634;Czarnowêsy Pomorskie
+80020641;Czepino
+80020653;Cz³uchów
+80020661;Daleszewo Gryfiñskie
+80020674;Dalêcino
+80020684;Damnica
+80020694;Dar³owo
+80020704;Daszewo
+80020713;Dobiegniew
+80020724;Dobino Wa³eckie
+80020734;Dolice
+80020744;Dolna Odra
+80020754;Dolnik
+80020764;Domis³aw
+80020774;Drawiny
+80020783;Drawsko Pomorskie
+80020794;Drzonowo
+80020804;Dunowo
+80020814;Dygowo
+80020824;Dziembówko
+80020834;Ga³êzinowo
+80020844;G¹bin
+80020854;G³owaczewo
+80020864;G³uszyno Pomorskie
+80020874;Godków
+80020884;Gogolewo
+80020892;Goleniów
+80020904;Górki Pomorskie
+80020914;Górzyca Reska
+80020923;Gryfice
+80020931;Gryfino
+80020941;Grzêdzice Stargardzkie
+80020954;Grzmi¹ca
+80020964;Gwda Ma³a
+80020974;Iwin
+80020984;Jankowo Pomorskie
+80020994;Jarszewo
+80021003;Jastrowie
+80021014;Jazy
+80021024;Jelenino
+80021034;Jezierzyce S³upskie
+80021044;Jeziorki Wa³eckie
+80021054;Kaczory
+80021063;Kalisz Pomorski
+80021073;Kamieñ Pomorski
+80021084;Karcino
+80021094;Karlino
+80021104;Karwice
+80021114;Kawcze
+80021123;Kêpice
+80021134;Kêpka
+80021144;Klêpnica
+80021154;Kliniska
+80021164;Kobylnica S³upska
+80021174;Kolin
+80021182;Ko³obrzeg
+80021193;Ko³obrzeg Stadion
+80021204;Korzybie
+80021212;Koszalin
+80021224;Koœciernica
+80021233;Krajenka
+80021244;Krêpa Krajeñska
+80021254;Krostkowo
+80021264;Krzywin Gryfiñski
+80021274;Lesiêcin
+80021284;Leœnice
+80021294;Lipka Krajeñska
+80021304;Lisie Pole
+80021314;Lisowo
+80021324;Lotyñ
+80021334;Lubiewo
+80021344;£adzin
+80021353;£obez
+80021364;£oŸnica
+80021374;£ubowo
+80021383;Miasteczko Krajeñskie
+80021393;Miastko
+80021401;Miedwiecko
+80021414;Mierzêcin Strzelecki
+80021422;Miêdzyzdroje
+80021434;Mi³ogoszcz
+80021444;Mokrzyca
+80021454;Mokrzyca Wielka
+80021464;Morzyca
+80021474;Mosty
+80021484;Mœcice
+80021494;Nielep
+80021504;Nosówko
+80021513;Nowogard
+80021524;Nowy Jaros³aw
+80021534;Ognica
+80021543;Okonek
+80021554;Osina
+80021564;Pacholêta
+80021574;Par³ówko
+80021584;Pêzino
+80021592;Pi³a G³ówna
+80021604;Pi³a Kalina
+80021614;Pi³a Podlasie
+80021623;P³oty
+80021634;P³ytnica
+80021644;Podborsko
+80021654;Podlesiec
+80021664;Pogorzelice
+80021674;Police
+80021683;Port Lotniczy Szczecin Goleniów
+80021694;Potêgowo
+80021704;Prostynia
+80021714;Przeradz
+80021724;Przytocko
+80021734;Ptusza
+80021744;R¹bino
+80021754;Reblino
+80021764;Rec³aw
+80021774;Recz Pomorski
+80021781;Reptowo
+80021794;Rêbusz
+80021804;Rokita
+80021813;Runowo Pomorskie
+80021824;Rurka
+80021834;Rutwica
+80021844;Rzêœnica
+80021854;Silnowo
+80021864;Siñczyca
+80021874;Skibno
+80021884;Skórka
+80021893;S³awno
+80021904;S³onice
+80021914;S³onowice
+80021924;S³osinko
+80021934;S³owienkowo
+80021942;S³upsk
+80021954;Sokoliniec
+80021964;Stara £ubianka
+80021971;Stargard
+80021984;Stary Borek
+80021994;Stary Klukom
+80022004;Stawno
+80022014;Stobno Szczeciñskie
+80022024;Stramnica
+80022034;Str¹czno
+80022044;Strzebielewo Pyrzyckie
+80022054;Strzelinko
+80022064;Strzy¿yno S³upskie
+80022074;Sulino
+80022084;Suliszewo Drawskie
+80022094;Sycewice
+80022101;Szczecin D¹bie
+80022110;Szczecin G³ówny
+80022121;Szczecin Gumieñce
+80022131;Szczecin Podjuchy
+80022144;Szczecin Pogodno
+80022151;Szczecin Port Centralny
+80022161;Szczecin Za³om
+80022171;Szczecin Zdroje
+80022181;Szczecin Zdunowo
+80022192;Szczecinek
+80022204;Szczecinek Chy¿e
+80022214;Szyd³owo Krajeñskie
+80022223;Œwidwin
+80022232;Œwinoujœcie
+80022244;Œwinoujœcie Port
+80022254;Œwinoujœcie Przytór
+80022264;Œwinoujœcie Warszów
+80022274;Tarnowo Pomorskie
+80022284;Tr¹bki
+80022294;Troszyn
+80022303;Trzebiatów
+80022314;Tuczno Krajeñskie
+80022324;Turowo Pomorskie
+80022333;Tychowo
+80022344;Tymieñ
+80022354;Ulikowo
+80022363;Ustka
+80022373;Ustronie Morskie
+80022383;Wa³cz
+80022394;Wa³cz Raduñ
+80022404;Warnowo
+80022413;Wêgorzyno
+80022424;Widuchowa
+80022434;Widzino
+80022444;Wiekowo
+80022454;Wielanowo
+80022464;Wiewiecko
+80022474;Witkowo Pyrzyckie
+80022484;Witnica Chojeñska
+80022493;Wolin
+80022504;Worowo
+80022514;Wrz¹ca Pomorska
+80022524;Wrzeœnica
+80022534;Wrzosowo
+80022543;Wyrzysk Osiek
+80022553;Wysoka Kamieñska
+80022564;Wyszomierz
+80022574;Zakrzewo Z³otowskie
+80022584;Ziemomyœl
+80022593;Z³ocieniec
+80022603;Z³otów
+80022614;¯abowo
+80022624;¯elis³awie Pomorskie
+80022634;¯ó³tnica
+80022644;¯ó³wino
+40022654;Be³sznica
+40022664;Bierawa
+40022674;Boronów
+40022681;Bytom
+40022694;Bytom Bobrek
+40022701;Bytom Karb
+40022711;Bytom Pó³nocny
+40022723;Cha³upki
+40022731;Chorzów Miasto
+40022741;Chorzów Stary
+40022753;Czerwionka
+40022764;Czerwionka Dêbieñsko
+40022774;Czy¿owice
+40022784;Dziergowice
+40022794;Dzietrzniki
+40022800;Gliwice
+40022813;Gliwice KuŸnica
+40022821;Gliwice £abêdy
+40022834;Górki Œl¹skie
+40022844;Herby Nowe
+40022854;Janinów
+40022864;Jaworzno ko³o Wielunia
+40022873;Kalety
+40022882;Kêdzierzyn-KoŸle
+40022894;Kêdzierzyn-KoŸle Azoty
+40022904;Kêdzierzyn-KoŸle Przystanek
+40022914;Kêdzierzyn-KoŸle Zachodnie
+40022924;Knurów
+40022934;Kotulin
+40022943;Krzepice
+40022954;Krzy¿anowice
+40022964;Kuleje
+40022974;KuŸnia Raciborska
+40022983;Leszczyny
+40022994;Ligota Toszecka
+40023004;£aziska Górne
+40023014;£aziska Górne Brada
+40023024;£aziska Œrednie
+40023034;£uków Œl¹ski
+40023043;Miasteczko Œl¹skie
+40023053;Miko³ów
+40023064;Miko³ów Jamna
+40023071;Nak³o Œl¹skie
+40023084;Nêdza
+40023094;Nêdza Wieœ
+40023104;Olza
+40023113;Orzesze
+40023123;Orzesze Jaœkowice
+40023134;Orzesze Miasto
+40023144;Paczyna
+40023154;Panki
+40023164;P¹tnów Wieluñski
+40023173;Pyskowice
+40023182;Racibórz
+40023194;Racibórz Markowice
+40023204;Radlin Obszary
+40023214;Radostowice
+40023221;Radzionków
+40023231;Radzionków Rojca
+40023244;Raszowa
+40023254;Roszków Raciborski
+40023261;Ruda Chebzie
+40023271;Ruda Œl¹ska
+40023284;Rudyszwa³d
+40023294;Rudziniec Gliwicki
+40023302;Rybnik
+40023314;Rybnik Gotartowice
+40023324;Rybnik Niedobczyce
+40023334;Rybnik Niewiadom
+40023344;Rybnik Paruszowiec
+40023354;Rybnik Piaski
+40023364;Rybnik Rymer
+40023374;Rybnik Towarowy
+40023384;Rydu³towy
+40023394;Rzeczyce Œl¹skie
+40023404;S³awiêcice
+40023414;Strzebiñ
+40023424;Sumina
+40023434;Sumina Wieœ
+40023444;Suszec
+40023454;Suszec Kopalnia
+40023464;Suszec Rudziczka
+40023474;Szczejkowice
+40023484;Szymocice
+40023494;Taciszów
+40023501;Tarnowskie Góry
+40023513;Toszek
+40023524;Tworków
+40023533;Wieluñ
+40023544;Wieluñ D¹browa
+40023553;Wodzis³aw Œl¹ski
+40023564;Wodzis³aw Œl¹ski Radlin
+40023572;Zabrze
+40023583;Zdzieszowice
+40023593;¯ory
+60023604;Bartnica
+60023614;Batowice Lubañskie
+60023624;Bierkowice
+60023634;B³a¿kowa
+60023644;Boguszów-Gorce
+60023654;Boguszów-Gorce Wschód
+60023664;Boguszów-Gorce Zachód
+60023674;Boles³awice Œwidnickie
+60023684;Brachów
+60023693;Bystrzyca K³odzka
+60023704;Bystrzyca K³odzka Przedmieœcie
+60023714;Ciechanowice
+60023724;Dêbowy Gaj
+60023734;D³ugopole-Zdrój
+60023744;Domaszków
+60023754;Duszniki-Zdrój
+60023764;Giera³tów
+60023774;Giera³tów Wykroty
+60023784;G³uszyca
+60023794;G³uszyca Górna
+60023804;Gocza³ków
+60023814;Gorzanów
+60023824;Gorzuchów K³odzki
+60023834;Goœciszów
+60023844;Górzyniec
+60023853;Gryfów Œl¹ski
+60023864;Imbramowice
+60023874;Janowice Wielkie
+60023883;Jawor
+60023892;Jaworzyna Œl¹ska
+60023904;Jedlina Górna
+60023913;Jedlina-Zdrój
+60023922;Jelenia Góra
+60023934;Jelenia Góra Cieplice
+60023944;Jelenia Góra Orle
+60023954;Jelenia Góra Sobieszów
+60023964;Jelenia Góra Zachodnia
+60023974;Jerzmanice-Zdrój
+60023984;Jerzmanki
+60023994;Je¿ów Sudecki
+60024004;Kamienna Góra
+60024013;K¹ty Wroc³awskie
+60024022;K³odzko G³ówne
+60024034;K³odzko Ksi¹¿ek
+60024043;K³odzko Miasto
+60024054;K³odzko Zagórze
+60024064;Krosnowice K³odzkie
+60024074;Krzewina Zgorzelecka
+60024084;Krzy¿owa
+60024094;Kudowa-Zdrój
+60024104;Kulin K³odzki
+60024114;Kwieciszowice
+60024124;Lewin K³odzki
+60024133;Lubañ Œl¹ski
+60024144;Lubawka
+60024154;Ludwikowice K³odzkie
+60024163;Lwówek Œl¹ski
+60024174;Marciszów
+60024184;Marczów
+60024194;Mieroszów
+60024203;Mietków
+60024213;Miêdzylesie
+60024224;Miku³owa
+60024234;M³yñsko
+60024244;Niwnice
+60024253;Nowa Ruda
+60024264;Nowa Ruda Przedmieœcie
+60024274;Nowa Ruda Zdrojowisko
+60024284;Nowogrodziec
+60024294;Olszyna Lubañska
+60024304;Piechowice
+60024314;Piechowice Dolne
+60024324;Pilchowice Nielestno
+60024334;Pilchowice Zapora
+60024344;Polanica-Zdrój
+60024354;Przyby³owice
+60024364;Rakowice Wielkie
+60024374;Rêbiszów
+60024384;RogoŸnica
+60024394;Roztoki Bystrzyckie
+60024404;Rybnica
+60024414;Sadowice Wroc³awskie
+60024424;Sêdzis³aw
+60024434;Siedlêcin
+60024443;Smolec
+60024454;Stanowice
+60024464;Stara Kamienica
+60024474;Stary Jawor
+60024484;Stary Wielis³aw
+60024493;Strzegom
+60024504;Szczytna
+60024514;Szklarska Porêba Dolna
+60024523;Szklarska Porêba Górna
+60024534;Szklarska Porêba Œrednia
+60024544;Œcinawka Œrednia
+60024553;Œwidnica Miasto
+60024563;Œwiebodzice
+60024574;Œwierki Dolne
+60024584;Trzciñsko
+60024594;Ubocze
+60024604;Unis³aw Œl¹ski
+60024614;Wa³brzych Fabryczny
+60024623;Wa³brzych G³ówny
+60024632;Wa³brzych Miasto
+60024643;Wa³brzych Szczawienko
+60024654;Wilczyce
+60024664;Witków Œl¹ski
+60024674;Wleñ
+60024684;Wojanów
+60024694;Zarêba
+60024704;Zawidów
+60024714;Z³otoryja
+60024723;¯arów
+60024734;¯elazno
+10024744;Augustówka
+10024754;Azory
+10024763;Bednary
+10024771;B³onie
+10024783;Bo¿a Wola
+10024794;Brody Warszawskie
+10024801;Brwinów
+10024813;Celestynów
+10024821;Chotomów
+10024834;Chrosna
+10024844;Czachówek Górny
+10024853;Czachówek Po³udniowy
+10024864;D¹bkowizna
+10024871;Dobczyn
+10024884;Florek
+10024894;Gostynin
+10024901;Grodzisk Mazowiecki
+10024914;Jackowice
+10024923;Jaktorów
+10024931;Janówek
+10024941;Jasienica Mazowiecka
+10024953;Jasionna £owicka
+10024963;Jesionka
+10024971;Józefów
+10024983;Kêszyce
+10024991;Klembów
+10025003;K³odawa
+10025011;Koby³ka
+10025021;Koby³ka Ossów
+10025033;Ko³biel
+10025043;Kornelin
+10025054;Krzewie
+10025062;Kutno
+10025071;Legionowo
+10025081;Legionowo Piaski
+10025091;Legionowo Przystanek
+10025103;Leonów
+10025114;£¹ck
+10025122;£owicz G³ówny
+10025133;£owicz Przedmieœcie
+10025141;Michalin
+10025154;Micha³ów-Reginów
+10025163;Miêdzyborów
+10025171;Milanówek
+10025181;Modlin
+10025193;Mys³aków
+10025202;Nasielsk
+10025214;NiedŸwiada £owicka
+10025224;Nieporêt
+10025231;Nowa Iwiczna
+10025244;Nowe Kutnowskie
+10025251;Nowy Dwór Mazowiecki
+10025261;Otwock
+10025271;O¿arów Mazowiecki
+10025284;Parzniew
+10025293;Piasecznica
+10025301;Piaseczno
+10025311;Piastów
+10025321;P³ochocin
+10025332;P³ock
+10025344;P³ock Radziwie
+10025354;P³ock Trzepowo
+10025364;Pogorzel Warszawska
+10025373;Pomiechówek
+10025381;Pruszków
+10025394;Raciborów Kutnowski
+10025403;Radziwi³³ów Mazowiecki
+10025414;Rogo¿ew
+10025423;Seroki
+10025434;Sierakówek
+10025444;Sklêczki
+10025452;Sochaczew
+10025464;Stara Wieœ
+10025474;Strzelce Kujawskie
+10025484;Studzianki Nowe
+10025493;Sucha ¯yrardowska
+10025501;Sulejówek
+10025513;Œródborów
+10025521;Œwider
+10025533;Teresin Niepokalanów
+10025544;Turzynów
+10025553;Ustanówek
+10025561;Warszawa Aleje Jerozolimskie
+10025571;Warszawa Anin
+10025581;Warszawa Choszczówka
+10025591;Warszawa Dawidy
+10025601;Warszawa Falenica
+10025611;Warszawa Gdañska
+10025621;Warszawa Goc³awek
+10025631;Warszawa Go³¹bki
+10025641;Warszawa Jeziorki
+10025651;Warszawa Ko³o
+10025661;Warszawa Lotnisko Chopina
+10025671;Warszawa Miedzeszyn
+10025681;Warszawa Miêdzylesie
+10025691;Warszawa M³ynów
+10025701;Warszawa Mokry £ug
+10025711;Warszawa Ochota
+10025721;Warszawa Okêcie
+10025731;Warszawa Olszynka Grochowska
+10025741;Warszawa P³udy
+10025751;Warszawa Powiœle
+10025761;Warszawa Praga
+10025771;Warszawa Radoœæ
+10025781;Warszawa Rakowiec
+10025791;Warszawa Rembertów
+10025801;Warszawa S³u¿ewiec
+10025811;Warszawa Stadion
+10025821;Warszawa Toruñska
+10025831;Warszawa Ursus
+10025841;Warszawa Ursus NiedŸwiadek
+10025851;Warszawa Ursus Pó³nocny
+10025861;Warszawa Wawer
+10025871;Warszawa Weso³a
+10025881;Warszawa W³ochy
+10025891;Warszawa Wola
+10025901;Warszawa Wola Grzybowska
+10025910;"Warszawa Wschodnia
+perony inne ni¿ nr 6 i 7"
+10025921;Warszawa Zachodnia peron 8
+10025930;"Warszawa Zachodnia
+perony inne ni¿ nr 2 i 3"
+10025941;Warszawa Zacisze Wilno
+10025951;Warszawa ZOO
+10025961;Warszawa ¯erañ
+10025971;Warszawa ¯wirki i Wigury
+10025984;Wieliszew
+10025993;Witanów
+10026001;Wo³omin
+10026011;Wo³omin S³oneczna
+10026024;Zabie¿ki
+10026031;Zagoœciniec
+10026041;Zalesie Górne
+10026051;Z¹bki
+10026061;Zielonka
+10026071;Zielonka Bankowa
+10026084;Z³otniki Kutnowskie
+10026094;Zosinów
+10026103;¯ychlin
+10026112;¯yrardów
+60026124;Bierutów
+60026134;Biskupice O³awskie
+60026142;Boles³awiec
+60026151;Borowa Oleœnicka
+60026163;Brzeg Dolny
+60026174;Brzeg G³ogowski
+60026184;Brzezinka Œredzka
+60026194;Bukowice Trzebnickie
+60026204;Bukowina Sycowska
+60026214;Che³mek Wo³owski
+60026223;Chojnów
+60026234;Cieszków
+60026244;Czerna
+60026254;Czerna Ma³a
+60026264;Czernica Wroc³awska
+60026274;D¹browa Oleœnicka
+60026281;D³ugo³êka
+60026294;Dobroszyce
+60026304;Garbce
+60026312;G³ogów
+60026324;G³ogów Huta
+60026334;Goliszów
+60026344;Grabowno Wielkie
+60026354;Grêbocice
+60026364;Jagodzin
+60026374;Jaœkowice Legnickie
+60026383;Jelcz Mi³oszyce
+60026393;Jelcz-Laskowice
+60026404;Jezierzany
+60026414;Jêdrzychowice
+60026424;Kopalina
+60026433;Korzeñsko
+60026444;KoŸlice
+60026454;Kroœnice
+60026464;Krzepów
+60026474;Ksiêginice
+60026484;Lasów
+60026492;Legnica
+60026503;Legnica Piekary
+60026514;Lizawice
+60026524;Lubin Górniczy
+60026534;£ososiowice
+60026543;Malczyce
+60026554;Ma³owice Wo³owskie
+60026564;Miêdzybórz Sycowski
+60026574;Miêkinia
+60026583;Milicz
+60026593;Mi³kowice
+60026604;Minkowice O³awskie
+60026614;Mod³a
+60026624;Mrozów
+60026634;Nowa Wieœ Legnicka
+60026643;Oborniki Œl¹skie
+60026654;Okmiany
+60026664;Okr¹glica
+60026672;Oleœnica
+60026683;Oleœnica Rataje
+60026692;O³awa
+60026704;Orzeszków
+60026714;Osetnica
+60026724;Osola
+60026734;Paw³owice Ma³e
+60026744;Pêgów
+60026754;Pieñsk
+60026764;Przedmoœcie Œwiête
+60026774;Rokitki
+60026783;Rudna Gwizdanów
+60026793;Rudna Miasto
+60026804;Ruszów
+60026814;Rynarcice
+60026824;Siechnice
+60026834;Skokowa
+60026844;Smardzów Wroc³awski
+60026854;Solniki Wielkie
+60026864;Stary Wêgliniec
+60026874;Studzianka
+60026884;Szczedrzykowice
+60026894;Szewce
+60026903;Œcinawa
+60026913;Œroda Œl¹ska
+60026923;Œwiêta Katarzyna
+60026934;Tomaszów Boles³awiecki
+60026944;Twardogóra
+60026953;Wêgliniec
+60026964;Wierzbowa Œl¹ska
+60026974;Wierzchowice
+60026983;Wo³ów
+60026991;Wroc³aw Brochów
+60027000;Wroc³aw G³ówny
+60027011;Wroc³aw Grabiszyn
+60027021;Wroc³aw Kowale
+60027031;Wroc³aw KuŸniki
+60027041;Wroc³aw Leœnica
+60027051;Wroc³aw Miko³ajów
+60027061;Wroc³aw Muchobór
+60027071;Wroc³aw Nadodrze
+60027081;Wroc³aw Nowy Dwór
+60027091;Wroc³aw Osobowice
+60027104;Wroc³aw Popowice
+60027111;Wroc³aw Pracze
+60027121;Wroc³aw Psie Pole
+60027131;Wroc³aw Ró¿anka
+60027141;Wroc³aw So³tysowice
+60027151;Wroc³aw Stadion
+60027161;Wroc³aw Swojczyce
+60027171;Wroc³aw Œwiniary
+60027181;Wroc³aw Wojnów
+60027191;Wroc³aw Zachodni
+60027203;Wroc³aw Zakrzów
+60027211;Wroc³aw ¯erniki
+60027224;Wróblin G³ogowski
+60027234;Zagajnik
+60027244;Zakrzów Kotowice
+60027254;Zebrzydowa
+60027264;Zêbice Wroc³awskie
+60027273;Zgorzelec
+60027283;Zgorzelec Miasto
+60027293;¯migród
+70027303;Babimost
+70027314;Belêcin Wielkopolski
+70027324;Bêdów
+70027334;Bia³a Pilska
+70027344;Bielin
+70027354;Bieniów
+70027364;Biernatowo
+70027374;B³otnica
+70027384;Boczów
+70027394;Bogaczów
+70027404;Bogdaniec
+70027414;Boleszkowice
+70027424;Boszkowo
+70027434;Brzozowiec Gorzowski
+70027444;Bucha³ów
+70027454;Budachów
+70027464;Bukowiec Miêdzyrzecki
+70027474;Bytnica
+70027483;Bytom Odrzañski
+70027494;Chociszewo Rogoziniec
+70027503;Czerwieñsk
+70027514;D¹broszyn
+70027524;D¹brówka Wielkopolska
+70027534;Deszczno
+70027544;Drzeñsko
+70027554;Drzewce
+70027564;Drzyma³owo
+70027574;G¹dków Wielki
+70027584;G³êbokie Miêdzyrzeckie
+70027592;Gorzów Wielkopolski
+70027604;Gorzów Wielkopolski Karnin
+70027613;Gorzów Wielkopolski Wieprzyce
+70027623;Gorzów Wielkopolski Wschodni
+70027633;Gorzów Wielkopolski Zamoœcie
+70027644;Gorzów Wielkopolski Zieleniec
+70027654;Górki Noteckie
+70027664;Górzyca
+70027674;Granowo Nowotomyskie
+70027684;Gr¹blewo
+70027693;Grodzisk Wielkopolski
+70027704;I³owa ¯agañska
+70027714;Jankowa ¯agañska
+70027724;Jerzmanice Lubuskie
+70027734;Kamieñ Ma³y
+70027744;Konin ¯agañski
+70027752;Kostrzyn
+70027764;Kotowo
+70027774;Kowalów
+70027784;KoŸla Ko¿uchowska
+70027794;Krzycko Wielkie
+70027802;Krzy¿
+70027814;Kunowice
+70027824;Kupienino
+70027834;Laski Lubuskie
+70027844;Leszno Górne
+70027854;Letnica
+70027864;Lipinki £u¿yckie
+70027874;Lubanice
+70027884;Lutol Suchy
+70027894;£êgowo Sulechowskie
+70027904;£ugi Górzyckie
+70027914;£upowo
+70027924;Ma³omice
+70027934;Mieszkowice
+70027943;Miêdzyrzecz
+70027954;Mostki
+70027964;Namyœlin
+70027974;Niedoradz
+70027984;Niegos³awice
+70027994;Nietkowice
+70028003;Nowa Sól
+70028014;Nowawieœ Mochy
+70028023;Nowe Drezdenko
+70028034;Nowiny Wielkie
+70028044;Nowogród Bobrzañski
+70028054;Nowogród Osiedle
+70028064;Nowy Kisielin
+70028074;Nowy Solec
+70028084;Nowy Widzim
+70028094;Perkowo
+70028104;Pliszka
+70028114;Popowo Skwierzyñskie
+70028124;Radnica
+70028134;Radów
+70028144;Rakoniewice
+70028154;Rostarzewo
+70028164;Ruchocice
+70028172;Rzepin
+70028184;Santok
+70028194;Sarbiewo
+70028204;Siedlisko Czarnkowskie
+70028214;Sieniawa ¯arska
+70028223;Skwierzyna
+70028234;S³ubice
+70028244;Stare Bielice
+70028254;Stare Kurowo
+70028264;Starkowo
+70028274;Stefanowo
+70028283;Stêszew
+70028294;Stobno
+70028304;Strykowo Poznañskie
+70028313;Strzelce Krajeñskie Wschód
+70028323;Sulechów
+70028334;Szczaniec
+70028344;Szprotawa
+70028354;Szreniawa
+70028363;Œwiebodzin
+70028374;T³oki
+70028384;Toporów
+70028394;Torzym
+70028403;Trzcianka
+70028414;Trzebaw Rosnówko
+70028424;Trzebiszewo
+70028434;Tuchorza
+70028444;Tuplice
+70028454;Tuplice Dêbinka
+70028463;Wieleñ
+70028474;Wilkowo Œwiebodziñskie
+70028484;Wiry
+70028493;Witnica
+70028504;W³oszakowice
+70028512;Wolsztyn
+70028524;Wroniawy
+70028534;Zasieki
+70028543;Zb¹szynek
+70028553;Zb¹szyñ
+70028564;Zb¹szyñ Przedmieœcie
+70028572;Zielona Góra G³ówna
+70028584;Zielona Góra Przylep
+70028594;Zielona Góra Stary Kisielin
+70028603;¯agañ
+70028612;¯ary
+70028624;¯ary Kunice

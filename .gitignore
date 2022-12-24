@@ -1,6 +1,5 @@
 node_modules
 logs
 .env
-__data
 
 passwords.json

@@ -1,0 +1,11054 @@
+[
+ {
+   "s_id": "10001013",
+   "name": "Augustów"
+ },
+ {
+   "s_id": "10001024",
+   "name": "Augustów Port"
+ },
+ {
+   "s_id": "10001034",
+   "name": "Baciuty"
+ },
+ {
+   "s_id": "10001044",
+   "name": "Balinka"
+ },
+ {
+   "s_id": "10001050",
+   "name": "Białystok"
+ },
+ {
+   "s_id": "10001064",
+   "name": "Białystok Bacieczki"
+ },
+ {
+   "s_id": "10001074",
+   "name": "Białystok Fabryczny"
+ },
+ {
+   "s_id": "10001084",
+   "name": "Białystok Stadion"
+ },
+ {
+   "s_id": "10001094",
+   "name": "Białystok Starosielce"
+ },
+ {
+   "s_id": "10001104",
+   "name": "Białystok Wiadukt"
+ },
+ {
+   "s_id": "10001113",
+   "name": "Bielsk Podlaski"
+ },
+ {
+   "s_id": "10001124",
+   "name": "Blizna"
+ },
+ {
+   "s_id": "10001134",
+   "name": "Bojary"
+ },
+ {
+   "s_id": "10001144",
+   "name": "Borowiki"
+ },
+ {
+   "s_id": "10001154",
+   "name": "Borsukówka"
+ },
+ {
+   "s_id": "10001164",
+   "name": "Cisówka"
+ },
+ {
+   "s_id": "10001173",
+   "name": "Czarna Białostocka"
+ },
+ {
+   "s_id": "10001184",
+   "name": "Czarny Blok"
+ },
+ {
+   "s_id": "10001194",
+   "name": "Czechowizna"
+ },
+ {
+   "s_id": "10001203",
+   "name": "Czeremcha"
+ },
+ {
+   "s_id": "10001214",
+   "name": "Czuprynowo"
+ },
+ {
+   "s_id": "10001223",
+   "name": "Czyżew"
+ },
+ {
+   "s_id": "10001233",
+   "name": "Dąbrowa Białostocka"
+ },
+ {
+   "s_id": "10001244",
+   "name": "Dąbrowa-Łazy"
+ },
+ {
+   "s_id": "10001254",
+   "name": "Dobrowoda"
+ },
+ {
+   "s_id": "10001264",
+   "name": "Dobrzyniewo Duże"
+ },
+ {
+   "s_id": "10001274",
+   "name": "Fasty"
+ },
+ {
+   "s_id": "10001284",
+   "name": "Geniusze"
+ },
+ {
+   "s_id": "10001294",
+   "name": "Gliniszcze"
+ },
+ {
+   "s_id": "10001304",
+   "name": "Goniądz"
+ },
+ {
+   "s_id": "10001313",
+   "name": "Grajewo"
+ },
+ {
+   "s_id": "10001324",
+   "name": "Gregorowce"
+ },
+ {
+   "s_id": "10001333",
+   "name": "Hajnówka"
+ },
+ {
+   "s_id": "10001344",
+   "name": "Hołówki Duże"
+ },
+ {
+   "s_id": "10001354",
+   "name": "Jabłoń Kościelna"
+ },
+ {
+   "s_id": "10001363",
+   "name": "Jastrzębna"
+ },
+ {
+   "s_id": "10001374",
+   "name": "Kamienna Nowa"
+ },
+ {
+   "s_id": "10001384",
+   "name": "Kity"
+ },
+ {
+   "s_id": "10001394",
+   "name": "Klepacze"
+ },
+ {
+   "s_id": "10001404",
+   "name": "Kleszczele"
+ },
+ {
+   "s_id": "10001413",
+   "name": "Knyszyn"
+ },
+ {
+   "s_id": "10001424",
+   "name": "Kundzin"
+ },
+ {
+   "s_id": "10001434",
+   "name": "Kuriany"
+ },
+ {
+   "s_id": "10001443",
+   "name": "Kuźnica Białostocka"
+ },
+ {
+   "s_id": "10001454",
+   "name": "Lewickie"
+ },
+ {
+   "s_id": "10001464",
+   "name": "Lewki"
+ },
+ {
+   "s_id": "10001473",
+   "name": "Łapy"
+ },
+ {
+   "s_id": "10001484",
+   "name": "Łapy Osse"
+ },
+ {
+   "s_id": "10001494",
+   "name": "Machnacz"
+ },
+ {
+   "s_id": "10001503",
+   "name": "Mońki"
+ },
+ {
+   "s_id": "10001514",
+   "name": "Narewka"
+ },
+ {
+   "s_id": "10001524",
+   "name": "Niewodnica"
+ },
+ {
+   "s_id": "10001534",
+   "name": "Nieznany Bór"
+ },
+ {
+   "s_id": "10001544",
+   "name": "Nowy Nurzec"
+ },
+ {
+   "s_id": "10001554",
+   "name": "Nurzec"
+ },
+ {
+   "s_id": "10001564",
+   "name": "Orzeszkowo"
+ },
+ {
+   "s_id": "10001574",
+   "name": "Osowiec"
+ },
+ {
+   "s_id": "10001584",
+   "name": "Ostrowie Biebrzańskie"
+ },
+ {
+   "s_id": "10001594",
+   "name": "Płociczno koło Suwałk"
+ },
+ {
+   "s_id": "10001604",
+   "name": "Podbiele"
+ },
+ {
+   "s_id": "10001614",
+   "name": "Podlasek"
+ },
+ {
+   "s_id": "10001624",
+   "name": "Policzna"
+ },
+ {
+   "s_id": "10001634",
+   "name": "Racewo"
+ },
+ {
+   "s_id": "10001644",
+   "name": "Racibory"
+ },
+ {
+   "s_id": "10001654",
+   "name": "Rajsk"
+ },
+ {
+   "s_id": "10001664",
+   "name": "Rozedranka"
+ },
+ {
+   "s_id": "10001674",
+   "name": "Różanystok"
+ },
+ {
+   "s_id": "10001684",
+   "name": "Ruda"
+ },
+ {
+   "s_id": "10001694",
+   "name": "Sidra"
+ },
+ {
+   "s_id": "10001704",
+   "name": "Siemianówka"
+ },
+ {
+   "s_id": "10001713",
+   "name": "Siemiatycze"
+ },
+ {
+   "s_id": "10001724",
+   "name": "Sokole Białostockie"
+ },
+ {
+   "s_id": "10001733",
+   "name": "Sokółka"
+ },
+ {
+   "s_id": "10001744",
+   "name": "Strabla"
+ },
+ {
+   "s_id": "10001754",
+   "name": "Suchowolce"
+ },
+ {
+   "s_id": "10001762",
+   "name": "Suwałki"
+ },
+ {
+   "s_id": "10001774",
+   "name": "Sycze"
+ },
+ {
+   "s_id": "10001784",
+   "name": "Szczepki"
+ },
+ {
+   "s_id": "10001793",
+   "name": "Szepietowo"
+ },
+ {
+   "s_id": "10001804",
+   "name": "Szymbory"
+ },
+ {
+   "s_id": "10001813",
+   "name": "Trakiszki"
+ },
+ {
+   "s_id": "10001824",
+   "name": "Trypucie"
+ },
+ {
+   "s_id": "10001834",
+   "name": "Uhowo"
+ },
+ {
+   "s_id": "10001844",
+   "name": "Waliły"
+ },
+ {
+   "s_id": "10001853",
+   "name": "Wasilków"
+ },
+ {
+   "s_id": "10001864",
+   "name": "Witowo"
+ },
+ {
+   "s_id": "10001874",
+   "name": "Wólka Ratowiecka"
+ },
+ {
+   "s_id": "10001884",
+   "name": "Zajezierce"
+ },
+ {
+   "s_id": "10001894",
+   "name": "Zastocze"
+ },
+ {
+   "s_id": "10001904",
+   "name": "Zdrody Nowe"
+ },
+ {
+   "s_id": "10001914",
+   "name": "Zimnochy"
+ },
+ {
+   "s_id": "10001924",
+   "name": "Żednia"
+ },
+ {
+   "s_id": "50001933",
+   "name": "Aleksandrów Kujawski"
+ },
+ {
+   "s_id": "50001944",
+   "name": "Anieliny"
+ },
+ {
+   "s_id": "50001954",
+   "name": "Arcelin"
+ },
+ {
+   "s_id": "50001964",
+   "name": "Babiak"
+ },
+ {
+   "s_id": "50001974",
+   "name": "Baboszewo"
+ },
+ {
+   "s_id": "50001984",
+   "name": "Bachorce"
+ },
+ {
+   "s_id": "50001994",
+   "name": "Bielawy"
+ },
+ {
+   "s_id": "50002004",
+   "name": "Biskupiec Pomorski"
+ },
+ {
+   "s_id": "50002014",
+   "name": "Błądzim"
+ },
+ {
+   "s_id": "50002024",
+   "name": "Boguszewo"
+ },
+ {
+   "s_id": "50002033",
+   "name": "Brodnica"
+ },
+ {
+   "s_id": "50002044",
+   "name": "Brzezie"
+ },
+ {
+   "s_id": "50002054",
+   "name": "Brzoza Bydgoska"
+ },
+ {
+   "s_id": "50002064",
+   "name": "Brzoza Toruńska"
+ },
+ {
+   "s_id": "50002074",
+   "name": "Bursztynowo"
+ },
+ {
+   "s_id": "50002081",
+   "name": "Bydgoszcz Akademia"
+ },
+ {
+   "s_id": "50002091",
+   "name": "Bydgoszcz Bielawy"
+ },
+ {
+   "s_id": "50002101",
+   "name": "Bydgoszcz Błonie"
+ },
+ {
+   "s_id": "50002111",
+   "name": "Bydgoszcz Brdyujście"
+ },
+ {
+   "s_id": "50002121",
+   "name": "Bydgoszcz Fordon"
+ },
+ {
+   "s_id": "50002130",
+   "name": "Bydgoszcz Główna"
+ },
+ {
+   "s_id": "50002141",
+   "name": "Bydgoszcz Leśna"
+ },
+ {
+   "s_id": "50002151",
+   "name": "Bydgoszcz Łęgnowo"
+ },
+ {
+   "s_id": "50002161",
+   "name": "Bydgoszcz Osowa Góra"
+ },
+ {
+   "s_id": "50002171",
+   "name": "Bydgoszcz Wschód"
+ },
+ {
+   "s_id": "50002181",
+   "name": "Bydgoszcz Zachód"
+ },
+ {
+   "s_id": "50002194",
+   "name": "Cekcyn"
+ },
+ {
+   "s_id": "50002204",
+   "name": "Chełmce"
+ },
+ {
+   "s_id": "50002213",
+   "name": "Chełmża"
+ },
+ {
+   "s_id": "50002224",
+   "name": "Chmielniki Bydgoskie"
+ },
+ {
+   "s_id": "50002234",
+   "name": "Ciechocinek"
+ },
+ {
+   "s_id": "50002244",
+   "name": "Cieksyn"
+ },
+ {
+   "s_id": "50002251",
+   "name": "Cierpice"
+ },
+ {
+   "s_id": "50002264",
+   "name": "Cierpice Kąkol"
+ },
+ {
+   "s_id": "50002274",
+   "name": "Czermno"
+ },
+ {
+   "s_id": "50002284",
+   "name": "Czerniewice"
+ },
+ {
+   "s_id": "50002294",
+   "name": "Czernikowo"
+ },
+ {
+   "s_id": "50002304",
+   "name": "Czersk Świecki"
+ },
+ {
+   "s_id": "50002314",
+   "name": "Dalanówek"
+ },
+ {
+   "s_id": "50002324",
+   "name": "Dąbie nad Nerem"
+ },
+ {
+   "s_id": "50002334",
+   "name": "Dąbrowa Chełmińska"
+ },
+ {
+   "s_id": "50002344",
+   "name": "Dąbrowy"
+ },
+ {
+   "s_id": "50002354",
+   "name": "Dobrzejewice"
+ },
+ {
+   "s_id": "50002364",
+   "name": "Dragacz"
+ },
+ {
+   "s_id": "50002374",
+   "name": "Drzycim"
+ },
+ {
+   "s_id": "50002384",
+   "name": "Dubielno"
+ },
+ {
+   "s_id": "50002394",
+   "name": "Firlus"
+ },
+ {
+   "s_id": "50002404",
+   "name": "Głuchowo"
+ },
+ {
+   "s_id": "50002413",
+   "name": "Gniewkowo"
+ },
+ {
+   "s_id": "50002424",
+   "name": "Gołaszewo Kujawskie"
+ },
+ {
+   "s_id": "50002434",
+   "name": "Gorzuchowo Chełmińskie"
+ },
+ {
+   "s_id": "50002444",
+   "name": "Gozdowo"
+ },
+ {
+   "s_id": "50002454",
+   "name": "Górna Grupa"
+ },
+ {
+   "s_id": "50002464",
+   "name": "Grębocin"
+ },
+ {
+   "s_id": "50002472",
+   "name": "Grudziądz"
+ },
+ {
+   "s_id": "50002484",
+   "name": "Grudziądz Mniszek"
+ },
+ {
+   "s_id": "50002494",
+   "name": "Grudziądz Owczarki"
+ },
+ {
+   "s_id": "50002503",
+   "name": "Grudziądz Przedmieście"
+ },
+ {
+   "s_id": "50002514",
+   "name": "Grupa"
+ },
+ {
+   "s_id": "50002524",
+   "name": "Grzybno"
+ },
+ {
+   "s_id": "50002534",
+   "name": "Grzywna"
+ },
+ {
+   "s_id": "50002544",
+   "name": "Gzin"
+ },
+ {
+   "s_id": "50002552",
+   "name": "Inowrocław"
+ },
+ {
+   "s_id": "50002564",
+   "name": "Inowrocław Mątwy"
+ },
+ {
+   "s_id": "50002574",
+   "name": "Inowrocław Rąbinek"
+ },
+ {
+   "s_id": "50002582",
+   "name": "Jabłonowo Pomorskie"
+ },
+ {
+   "s_id": "50002594",
+   "name": "Jadwiżyn"
+ },
+ {
+   "s_id": "50002604",
+   "name": "Jaksice"
+ },
+ {
+   "s_id": "50002613",
+   "name": "Janikowo"
+ },
+ {
+   "s_id": "50002624",
+   "name": "Jastrzębie Pomorskie"
+ },
+ {
+   "s_id": "50002634",
+   "name": "Jeżewo"
+ },
+ {
+   "s_id": "50002644",
+   "name": "Kaczorowo"
+ },
+ {
+   "s_id": "50002654",
+   "name": "Kaliska Kujawskie"
+ },
+ {
+   "s_id": "50002664",
+   "name": "Kamionki Jezioro"
+ },
+ {
+   "s_id": "50002674",
+   "name": "Karczyn"
+ },
+ {
+   "s_id": "50002684",
+   "name": "Karnkowo"
+ },
+ {
+   "s_id": "50002694",
+   "name": "Kołodziejewo"
+ },
+ {
+   "s_id": "50002704",
+   "name": "Konojady"
+ },
+ {
+   "s_id": "50002714",
+   "name": "Konotopie"
+ },
+ {
+   "s_id": "50002724",
+   "name": "Kornatowo"
+ },
+ {
+   "s_id": "50002734",
+   "name": "Kościelec Kujawski"
+ },
+ {
+   "s_id": "50002741",
+   "name": "Kotomierz"
+ },
+ {
+   "s_id": "50002753",
+   "name": "Kowalewo Pomorskie"
+ },
+ {
+   "s_id": "50002764",
+   "name": "Koziebrody"
+ },
+ {
+   "s_id": "50002774",
+   "name": "Koziołek"
+ },
+ {
+   "s_id": "50002784",
+   "name": "Kretki"
+ },
+ {
+   "s_id": "50002794",
+   "name": "Kruszwica"
+ },
+ {
+   "s_id": "50002804",
+   "name": "Książki"
+ },
+ {
+   "s_id": "50002814",
+   "name": "Kwiatki"
+ },
+ {
+   "s_id": "50002824",
+   "name": "Laski Tucholskie"
+ },
+ {
+   "s_id": "50002832",
+   "name": "Laskowice Pomorskie"
+ },
+ {
+   "s_id": "50002844",
+   "name": "Leosia"
+ },
+ {
+   "s_id": "50002854",
+   "name": "Linowo"
+ },
+ {
+   "s_id": "50002864",
+   "name": "Lipie Góry"
+ },
+ {
+   "s_id": "50002874",
+   "name": "Lipienica"
+ },
+ {
+   "s_id": "50002884",
+   "name": "Lipinki"
+ },
+ {
+   "s_id": "50002893",
+   "name": "Lipno"
+ },
+ {
+   "s_id": "50002904",
+   "name": "Lipowa Tucholska"
+ },
+ {
+   "s_id": "50002914",
+   "name": "Lipowa Wschodnia"
+ },
+ {
+   "s_id": "50002924",
+   "name": "Lniano"
+ },
+ {
+   "s_id": "50002934",
+   "name": "Lubania-Lipiny"
+ },
+ {
+   "s_id": "50002943",
+   "name": "Lubanie"
+ },
+ {
+   "s_id": "50002954",
+   "name": "Lubicz"
+ },
+ {
+   "s_id": "50002964",
+   "name": "Łążek"
+ },
+ {
+   "s_id": "50002971",
+   "name": "Łysomice"
+ },
+ {
+   "s_id": "50002981",
+   "name": "Maksymilianowo"
+ },
+ {
+   "s_id": "50002994",
+   "name": "Małe Gacno"
+ },
+ {
+   "s_id": "50003003",
+   "name": "Mełno"
+ },
+ {
+   "s_id": "50003014",
+   "name": "Mieszaki"
+ },
+ {
+   "s_id": "50003023",
+   "name": "Mogilno"
+ },
+ {
+   "s_id": "50003034",
+   "name": "Najmowo"
+ },
+ {
+   "s_id": "50003043",
+   "name": "Nakło nad Notecią"
+ },
+ {
+   "s_id": "50003054",
+   "name": "Nawra"
+ },
+ {
+   "s_id": "50003064",
+   "name": "Nicwałd"
+ },
+ {
+   "s_id": "50003073",
+   "name": "Nieszawa Waganiec"
+ },
+ {
+   "s_id": "50003084",
+   "name": "Nowa Wieś Wielka"
+ },
+ {
+   "s_id": "50003094",
+   "name": "Obrowo"
+ },
+ {
+   "s_id": "50003104",
+   "name": "Odolion"
+ },
+ {
+   "s_id": "50003114",
+   "name": "Ograszka"
+ },
+ {
+   "s_id": "50003123",
+   "name": "Osie"
+ },
+ {
+   "s_id": "50003131",
+   "name": "Ostaszewo Toruńskie"
+ },
+ {
+   "s_id": "50003143",
+   "name": "Ostromecko"
+ },
+ {
+   "s_id": "50003154",
+   "name": "Ostrowite koło Jabłonowa"
+ },
+ {
+   "s_id": "50003164",
+   "name": "Ostrowy"
+ },
+ {
+   "s_id": "50003174",
+   "name": "Otłoczyn"
+ },
+ {
+   "s_id": "50003184",
+   "name": "Pakość"
+ },
+ {
+   "s_id": "50003191",
+   "name": "Papowo Toruńskie"
+ },
+ {
+   "s_id": "50003204",
+   "name": "Parlin"
+ },
+ {
+   "s_id": "50003214",
+   "name": "Pawłówek"
+ },
+ {
+   "s_id": "50003224",
+   "name": "Piastoszyn"
+ },
+ {
+   "s_id": "50003234",
+   "name": "Piechcin"
+ },
+ {
+   "s_id": "50003244",
+   "name": "Piotrków Kujawski"
+ },
+ {
+   "s_id": "50003253",
+   "name": "Płońsk"
+ },
+ {
+   "s_id": "50003264",
+   "name": "Podwierzbie"
+ },
+ {
+   "s_id": "50003274",
+   "name": "Ponętów"
+ },
+ {
+   "s_id": "50003284",
+   "name": "Prądocin"
+ },
+ {
+   "s_id": "50003294",
+   "name": "Proboszczewice Płockie"
+ },
+ {
+   "s_id": "50003303",
+   "name": "Pruszcz Pomorski"
+ },
+ {
+   "s_id": "50003311",
+   "name": "Przyłubie"
+ },
+ {
+   "s_id": "50003324",
+   "name": "Puszcza Rządowa"
+ },
+ {
+   "s_id": "50003333",
+   "name": "Raciąż"
+ },
+ {
+   "s_id": "50003344",
+   "name": "Rogóźno Pomorskie"
+ },
+ {
+   "s_id": "50003354",
+   "name": "Rosochatka"
+ },
+ {
+   "s_id": "50003364",
+   "name": "Rożniaty"
+ },
+ {
+   "s_id": "50003374",
+   "name": "Rutkowice"
+ },
+ {
+   "s_id": "50003384",
+   "name": "Rychnowo Wielkie"
+ },
+ {
+   "s_id": "50003391",
+   "name": "Rynkowo Wiadukt"
+ },
+ {
+   "s_id": "50003404",
+   "name": "Samostrzel"
+ },
+ {
+   "s_id": "50003413",
+   "name": "Serock"
+ },
+ {
+   "s_id": "50003423",
+   "name": "Sierpc"
+ },
+ {
+   "s_id": "50003434",
+   "name": "Skępe"
+ },
+ {
+   "s_id": "50003441",
+   "name": "Solec Kujawski"
+ },
+ {
+   "s_id": "50003454",
+   "name": "Stronno"
+ },
+ {
+   "s_id": "50003464",
+   "name": "Suchatówka"
+ },
+ {
+   "s_id": "50003474",
+   "name": "Susk"
+ },
+ {
+   "s_id": "50003484",
+   "name": "Szczutowo"
+ },
+ {
+   "s_id": "50003494",
+   "name": "Szlachta"
+ },
+ {
+   "s_id": "50003504",
+   "name": "Ślesin"
+ },
+ {
+   "s_id": "50003514",
+   "name": "Śliwice"
+ },
+ {
+   "s_id": "50003524",
+   "name": "Śliwiczki"
+ },
+ {
+   "s_id": "50003533",
+   "name": "Świekatowo"
+ },
+ {
+   "s_id": "50003543",
+   "name": "Terespol Pomorski"
+ },
+ {
+   "s_id": "50003554",
+   "name": "Tleń"
+ },
+ {
+   "s_id": "50003564",
+   "name": "Toruń Czerniewice"
+ },
+ {
+   "s_id": "50003570",
+   "name": "Toruń Główny"
+ },
+ {
+   "s_id": "50003581",
+   "name": "Toruń Kluczyki"
+ },
+ {
+   "s_id": "50003591",
+   "name": "Toruń Miasto"
+ },
+ {
+   "s_id": "50003601",
+   "name": "Toruń Wschodni"
+ },
+ {
+   "s_id": "50003611",
+   "name": "Trzciniec"
+ },
+ {
+   "s_id": "50003623",
+   "name": "Tuchola"
+ },
+ {
+   "s_id": "50003631",
+   "name": "Turzno"
+ },
+ {
+   "s_id": "50003644",
+   "name": "Turzno Kujawskie"
+ },
+ {
+   "s_id": "50003654",
+   "name": "Twarda Góra"
+ },
+ {
+   "s_id": "50003663",
+   "name": "Unisław Pomorski"
+ },
+ {
+   "s_id": "50003674",
+   "name": "Wałdowo Szlacheckie"
+ },
+ {
+   "s_id": "50003684",
+   "name": "Wapienno Przystanek"
+ },
+ {
+   "s_id": "50003694",
+   "name": "Warlubie"
+ },
+ {
+   "s_id": "50003704",
+   "name": "Warząchewka"
+ },
+ {
+   "s_id": "50003713",
+   "name": "Wąbrzeźno"
+ },
+ {
+   "s_id": "50003724",
+   "name": "Wierzchosławice"
+ },
+ {
+   "s_id": "50003733",
+   "name": "Wierzchucin"
+ },
+ {
+   "s_id": "50003744",
+   "name": "Wierzchucin Stary"
+ },
+ {
+   "s_id": "50003754",
+   "name": "Więcławice"
+ },
+ {
+   "s_id": "50003764",
+   "name": "Wiktorowo"
+ },
+ {
+   "s_id": "50003774",
+   "name": "Wkra"
+ },
+ {
+   "s_id": "50003782",
+   "name": "Włocławek"
+ },
+ {
+   "s_id": "50003793",
+   "name": "Włocławek Zazamcze"
+ },
+ {
+   "s_id": "50003804",
+   "name": "Wrocławki"
+ },
+ {
+   "s_id": "50003814",
+   "name": "Wudzyn"
+ },
+ {
+   "s_id": "50003824",
+   "name": "Zarośle"
+ },
+ {
+   "s_id": "50003834",
+   "name": "Zaryń"
+ },
+ {
+   "s_id": "50003844",
+   "name": "Zawidz"
+ },
+ {
+   "s_id": "50003854",
+   "name": "Zawidz Kościelny"
+ },
+ {
+   "s_id": "50003864",
+   "name": "Zieleń"
+ },
+ {
+   "s_id": "50003874",
+   "name": "Zielonczyn"
+ },
+ {
+   "s_id": "50003884",
+   "name": "Zielonka Pomorska"
+ },
+ {
+   "s_id": "50003894",
+   "name": "Złotniki Kujawskie"
+ },
+ {
+   "s_id": "50003904",
+   "name": "Żalno"
+ },
+ {
+   "s_id": "30003911",
+   "name": "Będzin"
+ },
+ {
+   "s_id": "30003921",
+   "name": "Będzin Ksawera"
+ },
+ {
+   "s_id": "30003931",
+   "name": "Będzin Miasto"
+ },
+ {
+   "s_id": "30003944",
+   "name": "Blachownia"
+ },
+ {
+   "s_id": "30003954",
+   "name": "Chruszczobród"
+ },
+ {
+   "s_id": "30003964",
+   "name": "Ciasna"
+ },
+ {
+   "s_id": "30003970",
+   "name": "Częstochowa"
+ },
+ {
+   "s_id": "30003984",
+   "name": "Częstochowa Aniołów"
+ },
+ {
+   "s_id": "30003994",
+   "name": "Częstochowa Gnaszyn"
+ },
+ {
+   "s_id": "30004003",
+   "name": "Częstochowa Raków"
+ },
+ {
+   "s_id": "30004013",
+   "name": "Częstochowa Stradom"
+ },
+ {
+   "s_id": "30004021",
+   "name": "Dąbrowa Górnicza"
+ },
+ {
+   "s_id": "30004031",
+   "name": "Dąbrowa Górnicza Gołonóg"
+ },
+ {
+   "s_id": "30004041",
+   "name": "Dąbrowa Górnicza Pogoria"
+ },
+ {
+   "s_id": "30004054",
+   "name": "Dąbrowa Górnicza Południowa"
+ },
+ {
+   "s_id": "30004061",
+   "name": "Dąbrowa Górnicza Sikorka"
+ },
+ {
+   "s_id": "30004073",
+   "name": "Dąbrowa Górnicza Strzemieszyce"
+ },
+ {
+   "s_id": "30004083",
+   "name": "Dąbrowa Górnicza Wschodnia"
+ },
+ {
+   "s_id": "30004091",
+   "name": "Dąbrowa Górnicza Ząbkowice"
+ },
+ {
+   "s_id": "30004104",
+   "name": "Herby Stare"
+ },
+ {
+   "s_id": "30004114",
+   "name": "Jacków"
+ },
+ {
+   "s_id": "30004124",
+   "name": "Julianka"
+ },
+ {
+   "s_id": "30004133",
+   "name": "Kłomnice"
+ },
+ {
+   "s_id": "30004144",
+   "name": "Kochanowice"
+ },
+ {
+   "s_id": "30004153",
+   "name": "Koniecpol"
+ },
+ {
+   "s_id": "30004164",
+   "name": "Koniecpol Magdasz"
+ },
+ {
+   "s_id": "30004173",
+   "name": "Korwinów"
+ },
+ {
+   "s_id": "30004183",
+   "name": "Koszęcin"
+ },
+ {
+   "s_id": "30004194",
+   "name": "Kusięta Nowe"
+ },
+ {
+   "s_id": "30004204",
+   "name": "Lisowice"
+ },
+ {
+   "s_id": "30004214",
+   "name": "Lisów"
+ },
+ {
+   "s_id": "30004222",
+   "name": "Lubliniec"
+ },
+ {
+   "s_id": "30004234",
+   "name": "Lusławice"
+ },
+ {
+   "s_id": "30004243",
+   "name": "Łazy"
+ },
+ {
+   "s_id": "30004254",
+   "name": "Masłońskie Natalin"
+ },
+ {
+   "s_id": "30004262",
+   "name": "Myszków"
+ },
+ {
+   "s_id": "30004274",
+   "name": "Myszków Mrzygłód"
+ },
+ {
+   "s_id": "30004284",
+   "name": "Myszków Nowa Wieś"
+ },
+ {
+   "s_id": "30004294",
+   "name": "Myszków Światowit"
+ },
+ {
+   "s_id": "30004304",
+   "name": "Pawonków"
+ },
+ {
+   "s_id": "30004314",
+   "name": "Podlesie"
+ },
+ {
+   "s_id": "30004323",
+   "name": "Poraj"
+ },
+ {
+   "s_id": "30004334",
+   "name": "Rudniki koło Częstochowy"
+ },
+ {
+   "s_id": "30004344",
+   "name": "Rusinowice"
+ },
+ {
+   "s_id": "30004353",
+   "name": "Rzerzęczyce"
+ },
+ {
+   "s_id": "30004364",
+   "name": "Sieraków Śląski"
+ },
+ {
+   "s_id": "30004373",
+   "name": "Sławków"
+ },
+ {
+   "s_id": "30004384",
+   "name": "Staropole Częstochowskie"
+ },
+ {
+   "s_id": "30004394",
+   "name": "Turów"
+ },
+ {
+   "s_id": "30004404",
+   "name": "Widzów Teklinów"
+ },
+ {
+   "s_id": "30004414",
+   "name": "Wiesiółka"
+ },
+ {
+   "s_id": "30004422",
+   "name": "Zawiercie"
+ },
+ {
+   "s_id": "30004433",
+   "name": "Zawiercie Borowe Pole"
+ },
+ {
+   "s_id": "30004443",
+   "name": "Żarki-Letnisko"
+ },
+ {
+   "s_id": "50004454",
+   "name": "Babi Dół"
+ },
+ {
+   "s_id": "50004464",
+   "name": "Bąk"
+ },
+ {
+   "s_id": "50004474",
+   "name": "Będźmierowice"
+ },
+ {
+   "s_id": "50004484",
+   "name": "Białki"
+ },
+ {
+   "s_id": "50004494",
+   "name": "Borkowo"
+ },
+ {
+   "s_id": "50004503",
+   "name": "Bożepole Wielkie"
+ },
+ {
+   "s_id": "50004514",
+   "name": "Brachlewo"
+ },
+ {
+   "s_id": "50004523",
+   "name": "Brusy"
+ },
+ {
+   "s_id": "50004534",
+   "name": "Bukowo Człuchowskie"
+ },
+ {
+   "s_id": "50004544",
+   "name": "Bytonia"
+ },
+ {
+   "s_id": "50004553",
+   "name": "Chałupy"
+ },
+ {
+   "s_id": "50004562",
+   "name": "Chojnice"
+ },
+ {
+   "s_id": "50004574",
+   "name": "Cieplewo"
+ },
+ {
+   "s_id": "50004584",
+   "name": "Czarlin"
+ },
+ {
+   "s_id": "50004593",
+   "name": "Czarna Woda"
+ },
+ {
+   "s_id": "50004603",
+   "name": "Czersk"
+ },
+ {
+   "s_id": "50004614",
+   "name": "Dąbrówka Malborska"
+ },
+ {
+   "s_id": "50004624",
+   "name": "Dziemiany Kaszubskie"
+ },
+ {
+   "s_id": "50004634",
+   "name": "Dzierżążno"
+ },
+ {
+   "s_id": "50004644",
+   "name": "Dziwno"
+ },
+ {
+   "s_id": "50004654",
+   "name": "Fiszewo"
+ },
+ {
+   "s_id": "50004664",
+   "name": "Garczegorze"
+ },
+ {
+   "s_id": "50004674",
+   "name": "Garczyn"
+ },
+ {
+   "s_id": "50004684",
+   "name": "Gardeja"
+ },
+ {
+   "s_id": "50004694",
+   "name": "Gdakowo"
+ },
+ {
+   "s_id": "50004700",
+   "name": "Gdańsk Główny"
+ },
+ {
+   "s_id": "50004711",
+   "name": "Gdańsk Lipce"
+ },
+ {
+   "s_id": "50004721",
+   "name": "Gdańsk Oliwa"
+ },
+ {
+   "s_id": "50004731",
+   "name": "Gdańsk Orunia"
+ },
+ {
+   "s_id": "50004741",
+   "name": "Gdańsk Osowa"
+ },
+ {
+   "s_id": "50004751",
+   "name": "Gdańsk Stadion Expo"
+ },
+ {
+   "s_id": "50004761",
+   "name": "Gdańsk Wrzeszcz"
+ },
+ {
+   "s_id": "50004771",
+   "name": "Gdynia Chylonia"
+ },
+ {
+   "s_id": "50004780",
+   "name": "Gdynia Główna"
+ },
+ {
+   "s_id": "50004794",
+   "name": "Gdynia Karwiny"
+ },
+ {
+   "s_id": "50004801",
+   "name": "Gdynia Orłowo"
+ },
+ {
+   "s_id": "50004814",
+   "name": "Gdynia Stadion"
+ },
+ {
+   "s_id": "50004821",
+   "name": "Gdynia Wielki Kack"
+ },
+ {
+   "s_id": "50004834",
+   "name": "Godętowo"
+ },
+ {
+   "s_id": "50004843",
+   "name": "Gołubie Kaszubskie"
+ },
+ {
+   "s_id": "50004853",
+   "name": "Gościcino Wejherowskie"
+ },
+ {
+   "s_id": "50004864",
+   "name": "Gościszewo"
+ },
+ {
+   "s_id": "50004874",
+   "name": "Gronajny"
+ },
+ {
+   "s_id": "50004884",
+   "name": "Grzępa"
+ },
+ {
+   "s_id": "50004894",
+   "name": "Gutowiec"
+ },
+ {
+   "s_id": "50004902",
+   "name": "Hel"
+ },
+ {
+   "s_id": "50004913",
+   "name": "Jastarnia"
+ },
+ {
+   "s_id": "50004924",
+   "name": "Jastarnia Wczasy"
+ },
+ {
+   "s_id": "50004933",
+   "name": "Jurata"
+ },
+ {
+   "s_id": "50004943",
+   "name": "Kaliska"
+ },
+ {
+   "s_id": "50004954",
+   "name": "Kalisz Kaszubski"
+ },
+ {
+   "s_id": "50004964",
+   "name": "Kamienna Karczma"
+ },
+ {
+   "s_id": "50004974",
+   "name": "Karsin"
+ },
+ {
+   "s_id": "50004984",
+   "name": "Kartuzy"
+ },
+ {
+   "s_id": "50004994",
+   "name": "Kiełpino Kartuskie"
+ },
+ {
+   "s_id": "50005002",
+   "name": "Kościerzyna"
+ },
+ {
+   "s_id": "50005014",
+   "name": "Krojanty"
+ },
+ {
+   "s_id": "50005024",
+   "name": "Królewo Malborskie"
+ },
+ {
+   "s_id": "50005034",
+   "name": "Krzeszna"
+ },
+ {
+   "s_id": "50005044",
+   "name": "Kulice Tczewskie"
+ },
+ {
+   "s_id": "50005053",
+   "name": "Kuźnica (Hel)"
+ },
+ {
+   "s_id": "50005062",
+   "name": "Kwidzyn"
+ },
+ {
+   "s_id": "50005072",
+   "name": "Lębork"
+ },
+ {
+   "s_id": "50005083",
+   "name": "Lębork Mosty"
+ },
+ {
+   "s_id": "50005094",
+   "name": "Lębork Nowy Świat"
+ },
+ {
+   "s_id": "50005104",
+   "name": "Lędziechowo"
+ },
+ {
+   "s_id": "50005114",
+   "name": "Lipuska Huta"
+ },
+ {
+   "s_id": "50005123",
+   "name": "Lipusz"
+ },
+ {
+   "s_id": "50005134",
+   "name": "Lisewo"
+ },
+ {
+   "s_id": "50005144",
+   "name": "Lubnia"
+ },
+ {
+   "s_id": "50005153",
+   "name": "Luzino"
+ },
+ {
+   "s_id": "50005164",
+   "name": "Łąg"
+ },
+ {
+   "s_id": "50005174",
+   "name": "Łąg Południowy"
+ },
+ {
+   "s_id": "50005183",
+   "name": "Łeba"
+ },
+ {
+   "s_id": "50005194",
+   "name": "Łubiana"
+ },
+ {
+   "s_id": "50005204",
+   "name": "Majewo"
+ },
+ {
+   "s_id": "50005212",
+   "name": "Malbork"
+ },
+ {
+   "s_id": "50005224",
+   "name": "Malbork Kałdowo"
+ },
+ {
+   "s_id": "50005234",
+   "name": "Męcikał"
+ },
+ {
+   "s_id": "50005244",
+   "name": "Mikołajki Pomorskie"
+ },
+ {
+   "s_id": "50005254",
+   "name": "Miłobądz"
+ },
+ {
+   "s_id": "50005264",
+   "name": "Mleczewo"
+ },
+ {
+   "s_id": "50005274",
+   "name": "Morzeszczyn"
+ },
+ {
+   "s_id": "50005284",
+   "name": "Moszczenica Pomorska"
+ },
+ {
+   "s_id": "50005294",
+   "name": "Mrzezino"
+ },
+ {
+   "s_id": "50005304",
+   "name": "Nowa Wieś Lęborska"
+ },
+ {
+   "s_id": "50005314",
+   "name": "Olpuch"
+ },
+ {
+   "s_id": "50005324",
+   "name": "Olpuch Wdzydze"
+ },
+ {
+   "s_id": "50005333",
+   "name": "Pelplin"
+ },
+ {
+   "s_id": "50005344",
+   "name": "Pępowo Kartuskie"
+ },
+ {
+   "s_id": "50005354",
+   "name": "Piesienice"
+ },
+ {
+   "s_id": "50005364",
+   "name": "Pinczyn"
+ },
+ {
+   "s_id": "50005374",
+   "name": "Podleś"
+ },
+ {
+   "s_id": "50005384",
+   "name": "Powałki"
+ },
+ {
+   "s_id": "50005392",
+   "name": "Prabuty"
+ },
+ {
+   "s_id": "50005401",
+   "name": "Pruszcz Gdański"
+ },
+ {
+   "s_id": "50005413",
+   "name": "Pszczółki"
+ },
+ {
+   "s_id": "50005423",
+   "name": "Puck"
+ },
+ {
+   "s_id": "50005434",
+   "name": "Racławki"
+ },
+ {
+   "s_id": "50005444",
+   "name": "Raduń"
+ },
+ {
+   "s_id": "50005451",
+   "name": "Reda"
+ },
+ {
+   "s_id": "50005461",
+   "name": "Reda Pieleszewo"
+ },
+ {
+   "s_id": "50005474",
+   "name": "Reda Rekowo"
+ },
+ {
+   "s_id": "50005481",
+   "name": "Rębiechowo"
+ },
+ {
+   "s_id": "50005494",
+   "name": "Rokitki Tczewskie"
+ },
+ {
+   "s_id": "50005504",
+   "name": "Różyny"
+ },
+ {
+   "s_id": "50005511",
+   "name": "Rumia"
+ },
+ {
+   "s_id": "50005523",
+   "name": "Ryjewo"
+ },
+ {
+   "s_id": "50005534",
+   "name": "Rytel"
+ },
+ {
+   "s_id": "50005544",
+   "name": "Rytel Wieś"
+ },
+ {
+   "s_id": "50005554",
+   "name": "Sadlinki"
+ },
+ {
+   "s_id": "50005564",
+   "name": "Silno"
+ },
+ {
+   "s_id": "50005574",
+   "name": "Skorzewo"
+ },
+ {
+   "s_id": "50005584",
+   "name": "Skowarcz"
+ },
+ {
+   "s_id": "50005594",
+   "name": "Sławki"
+ },
+ {
+   "s_id": "50005604",
+   "name": "Smętowo"
+ },
+ {
+   "s_id": "50005613",
+   "name": "Somonino"
+ },
+ {
+   "s_id": "50005621",
+   "name": "Sopot"
+ },
+ {
+   "s_id": "50005634",
+   "name": "Stare Pole"
+ },
+ {
+   "s_id": "50005643",
+   "name": "Starogard Gdański"
+ },
+ {
+   "s_id": "50005654",
+   "name": "Steknica"
+ },
+ {
+   "s_id": "50005664",
+   "name": "Stogi Malborskie"
+ },
+ {
+   "s_id": "50005673",
+   "name": "Strzebielino Morskie"
+ },
+ {
+   "s_id": "50005684",
+   "name": "Subkowy"
+ },
+ {
+   "s_id": "50005694",
+   "name": "Subkowy Centrum"
+ },
+ {
+   "s_id": "50005704",
+   "name": "Swarożyn"
+ },
+ {
+   "s_id": "50005714",
+   "name": "Swarzewo"
+ },
+ {
+   "s_id": "50005724",
+   "name": "Szałamaje"
+ },
+ {
+   "s_id": "50005734",
+   "name": "Szpęgawsk"
+ },
+ {
+   "s_id": "50005743",
+   "name": "Sztum"
+ },
+ {
+   "s_id": "50005754",
+   "name": "Sztumska Wieś"
+ },
+ {
+   "s_id": "50005764",
+   "name": "Szymankowo"
+ },
+ {
+   "s_id": "50005772",
+   "name": "Tczew"
+ },
+ {
+   "s_id": "50005781",
+   "name": "Wejherowo"
+ },
+ {
+   "s_id": "50005791",
+   "name": "Wejherowo Śmiechowo"
+ },
+ {
+   "s_id": "50005801",
+   "name": "Wejherowo-Nanice"
+ },
+ {
+   "s_id": "50005814",
+   "name": "Wierzchowo Człuchowskie"
+ },
+ {
+   "s_id": "50005824",
+   "name": "Wieżyca"
+ },
+ {
+   "s_id": "50005832",
+   "name": "Władysławowo"
+ },
+ {
+   "s_id": "50005844",
+   "name": "Władysławowo Port"
+ },
+ {
+   "s_id": "50005854",
+   "name": "Wojtal"
+ },
+ {
+   "s_id": "50005864",
+   "name": "Wrzeście"
+ },
+ {
+   "s_id": "50005874",
+   "name": "Zblewo"
+ },
+ {
+   "s_id": "50005884",
+   "name": "Żabno koło Chojnic"
+ },
+ {
+   "s_id": "50005894",
+   "name": "Żelistrzewo"
+ },
+ {
+   "s_id": "50005904",
+   "name": "Żukowo"
+ },
+ {
+   "s_id": "50005913",
+   "name": "Żukowo Wschodnie"
+ },
+ {
+   "s_id": "20005924",
+   "name": "Berezów"
+ },
+ {
+   "s_id": "20005933",
+   "name": "Bukowa"
+ },
+ {
+   "s_id": "20005944",
+   "name": "Busko-Zdrój"
+ },
+ {
+   "s_id": "20005954",
+   "name": "Czarnca"
+ },
+ {
+   "s_id": "20005964",
+   "name": "Górki Szczukowskie"
+ },
+ {
+   "s_id": "20005973",
+   "name": "Jędrzejów"
+ },
+ {
+   "s_id": "20005980",
+   "name": "Kielce"
+ },
+ {
+   "s_id": "20005993",
+   "name": "Kielce Białogon"
+ },
+ {
+   "s_id": "20006003",
+   "name": "Kielce Herbskie"
+ },
+ {
+   "s_id": "20006013",
+   "name": "Kielce Piaski"
+ },
+ {
+   "s_id": "20006024",
+   "name": "Kielce Słowik"
+ },
+ {
+   "s_id": "20006033",
+   "name": "Kielce Ślichowice"
+ },
+ {
+   "s_id": "20006044",
+   "name": "Klimontów"
+ },
+ {
+   "s_id": "20006054",
+   "name": "Kostomłoty"
+ },
+ {
+   "s_id": "20006063",
+   "name": "Kozłów"
+ },
+ {
+   "s_id": "20006074",
+   "name": "Krzcięcice"
+ },
+ {
+   "s_id": "20006084",
+   "name": "Ludynia"
+ },
+ {
+   "s_id": "20006094",
+   "name": "Ludynia Dwór"
+ },
+ {
+   "s_id": "20006104",
+   "name": "Łączna"
+ },
+ {
+   "s_id": "20006114",
+   "name": "Małogoszcz"
+ },
+ {
+   "s_id": "20006124",
+   "name": "Miąsowa"
+ },
+ {
+   "s_id": "20006134",
+   "name": "Piekoszów"
+ },
+ {
+   "s_id": "20006144",
+   "name": "Potok"
+ },
+ {
+   "s_id": "20006154",
+   "name": "Radkowice"
+ },
+ {
+   "s_id": "20006163",
+   "name": "Rykoszyn"
+ },
+ {
+   "s_id": "20006173",
+   "name": "Sędziszów"
+ },
+ {
+   "s_id": "20006184",
+   "name": "Sitkówka Nowiny"
+ },
+ {
+   "s_id": "20006194",
+   "name": "Sobków"
+ },
+ {
+   "s_id": "20006203",
+   "name": "Suchedniów"
+ },
+ {
+   "s_id": "20006214",
+   "name": "Suchedniów Północny"
+ },
+ {
+   "s_id": "20006224",
+   "name": "Tumlin"
+ },
+ {
+   "s_id": "20006234",
+   "name": "Wierna Rzeka"
+ },
+ {
+   "s_id": "20006243",
+   "name": "Włoszczowa"
+ },
+ {
+   "s_id": "20006253",
+   "name": "Włoszczowa Północ"
+ },
+ {
+   "s_id": "20006264",
+   "name": "Wolica"
+ },
+ {
+   "s_id": "20006274",
+   "name": "Zagnańsk"
+ },
+ {
+   "s_id": "20006284",
+   "name": "Żelisławice"
+ },
+ {
+   "s_id": "30006291",
+   "name": "Balin"
+ },
+ {
+   "s_id": "30006301",
+   "name": "Baranówka"
+ },
+ {
+   "s_id": "30006314",
+   "name": "Biadoliny"
+ },
+ {
+   "s_id": "30006322",
+   "name": "Bochnia"
+ },
+ {
+   "s_id": "30006334",
+   "name": "Bogumiłowice"
+ },
+ {
+   "s_id": "30006342",
+   "name": "Brzesko Okocim"
+ },
+ {
+   "s_id": "30006353",
+   "name": "Brzeszcze"
+ },
+ {
+   "s_id": "30006364",
+   "name": "Brzeszcze Jawiszowice"
+ },
+ {
+   "s_id": "30006374",
+   "name": "Brzeźnica"
+ },
+ {
+   "s_id": "30006383",
+   "name": "Bukowno"
+ },
+ {
+   "s_id": "30006394",
+   "name": "Bukowno Przymiarki"
+ },
+ {
+   "s_id": "30006404",
+   "name": "Charsznica"
+ },
+ {
+   "s_id": "30006413",
+   "name": "Chełmek Fabryka"
+ },
+ {
+   "s_id": "30006423",
+   "name": "Chrzanów"
+ },
+ {
+   "s_id": "30006433",
+   "name": "Chrzanów Śródmieście"
+ },
+ {
+   "s_id": "30006444",
+   "name": "Chrząstowice Olkuskie"
+ },
+ {
+   "s_id": "30006454",
+   "name": "Cikowice"
+ },
+ {
+   "s_id": "30006464",
+   "name": "Czarna Tarnowska"
+ },
+ {
+   "s_id": "30006471",
+   "name": "Dulowa"
+ },
+ {
+   "s_id": "30006484",
+   "name": "Dwory"
+ },
+ {
+   "s_id": "30006494",
+   "name": "Dziadówki"
+ },
+ {
+   "s_id": "30006504",
+   "name": "Gajówka"
+ },
+ {
+   "s_id": "30006513",
+   "name": "Gorzów Chrzanowski"
+ },
+ {
+   "s_id": "30006521",
+   "name": "Goszcza"
+ },
+ {
+   "s_id": "30006534",
+   "name": "Grabiny"
+ },
+ {
+   "s_id": "30006544",
+   "name": "Jaroszowiec Olkuski"
+ },
+ {
+   "s_id": "30006554",
+   "name": "Jasień Brzeski"
+ },
+ {
+   "s_id": "30006564",
+   "name": "Jaśkowice"
+ },
+ {
+   "s_id": "30006574",
+   "name": "Jawiszowice Jaźnik"
+ },
+ {
+   "s_id": "30006584",
+   "name": "Jeżówka"
+ },
+ {
+   "s_id": "30006594",
+   "name": "Kamieńczyce"
+ },
+ {
+   "s_id": "30006603",
+   "name": "Kłaj"
+ },
+ {
+   "s_id": "30006611",
+   "name": "Kokotów"
+ },
+ {
+   "s_id": "30006621",
+   "name": "Kraków Batowice"
+ },
+ {
+   "s_id": "30006631",
+   "name": "Kraków Bieżanów"
+ },
+ {
+   "s_id": "30006641",
+   "name": "Kraków Bieżanów Drożdżownia"
+ },
+ {
+   "s_id": "30006651",
+   "name": "Kraków Bonarka"
+ },
+ {
+   "s_id": "30006661",
+   "name": "Kraków Bronowice"
+ },
+ {
+   "s_id": "30006671",
+   "name": "Kraków Business Park"
+ },
+ {
+   "s_id": "30006680",
+   "name": "Kraków Główny"
+ },
+ {
+   "s_id": "30006691",
+   "name": "Kraków Lotnisko"
+ },
+ {
+   "s_id": "30006701",
+   "name": "Kraków Łagiewniki"
+ },
+ {
+   "s_id": "30006711",
+   "name": "Kraków Łobzów"
+ },
+ {
+   "s_id": "30006721",
+   "name": "Kraków Młynówka"
+ },
+ {
+   "s_id": "30006731",
+   "name": "Kraków Mydlniki"
+ },
+ {
+   "s_id": "30006741",
+   "name": "Kraków Mydlniki Wapiennik"
+ },
+ {
+   "s_id": "30006751",
+   "name": "Kraków Olsza"
+ },
+ {
+   "s_id": "30006761",
+   "name": "Kraków Olszanica"
+ },
+ {
+   "s_id": "30006771",
+   "name": "Kraków Płaszów"
+ },
+ {
+   "s_id": "30006781",
+   "name": "Kraków Podgórze"
+ },
+ {
+   "s_id": "30006791",
+   "name": "Kraków Podgórze P2"
+ },
+ {
+   "s_id": "30006801",
+   "name": "Kraków Prokocim"
+ },
+ {
+   "s_id": "30006811",
+   "name": "Kraków Sanktuarium"
+ },
+ {
+   "s_id": "30006821",
+   "name": "Kraków Sidzina"
+ },
+ {
+   "s_id": "30006831",
+   "name": "Kraków Swoszowice"
+ },
+ {
+   "s_id": "30006841",
+   "name": "Kraków Zabłocie"
+ },
+ {
+   "s_id": "30006851",
+   "name": "Kraków Zakliki"
+ },
+ {
+   "s_id": "30006861",
+   "name": "Krzeszowice"
+ },
+ {
+   "s_id": "30006873",
+   "name": "Libiąż"
+ },
+ {
+   "s_id": "30006881",
+   "name": "Łuczyce"
+ },
+ {
+   "s_id": "30006893",
+   "name": "Miechów"
+ },
+ {
+   "s_id": "30006901",
+   "name": "Niedźwiedź"
+ },
+ {
+   "s_id": "30006913",
+   "name": "Olkusz"
+ },
+ {
+   "s_id": "30006922",
+   "name": "Oświęcim"
+ },
+ {
+   "s_id": "30006934",
+   "name": "Podbory Skawińskie"
+ },
+ {
+   "s_id": "30006941",
+   "name": "Podłęże"
+ },
+ {
+   "s_id": "30006954",
+   "name": "Półwieś"
+ },
+ {
+   "s_id": "30006964",
+   "name": "Przeciszów"
+ },
+ {
+   "s_id": "30006971",
+   "name": "Rudawa"
+ },
+ {
+   "s_id": "30006984",
+   "name": "Ryczów"
+ },
+ {
+   "s_id": "30006994",
+   "name": "Rzezawa"
+ },
+ {
+   "s_id": "30007001",
+   "name": "Skawina"
+ },
+ {
+   "s_id": "30007014",
+   "name": "Skawina Zachodnia"
+ },
+ {
+   "s_id": "30007023",
+   "name": "Słomniki"
+ },
+ {
+   "s_id": "30007031",
+   "name": "Słomniki Miasto"
+ },
+ {
+   "s_id": "30007044",
+   "name": "Smroków"
+ },
+ {
+   "s_id": "30007054",
+   "name": "Spytkowice"
+ },
+ {
+   "s_id": "30007064",
+   "name": "Spytkowice Kępki"
+ },
+ {
+   "s_id": "30007074",
+   "name": "Staniątki"
+ },
+ {
+   "s_id": "30007084",
+   "name": "Stanisławice"
+ },
+ {
+   "s_id": "30007094",
+   "name": "Sterkowiec"
+ },
+ {
+   "s_id": "30007104",
+   "name": "Szarów"
+ },
+ {
+   "s_id": "30007114",
+   "name": "Szczepanowice"
+ },
+ {
+   "s_id": "30007122",
+   "name": "Tarnów"
+ },
+ {
+   "s_id": "30007133",
+   "name": "Tarnów Mościce"
+ },
+ {
+   "s_id": "30007142",
+   "name": "Trzebinia"
+ },
+ {
+   "s_id": "30007153",
+   "name": "Tunel"
+ },
+ {
+   "s_id": "30007164",
+   "name": "Wałki"
+ },
+ {
+   "s_id": "30007171",
+   "name": "Węgrzce Wielkie"
+ },
+ {
+   "s_id": "30007181",
+   "name": "Wieliczka Bogucice"
+ },
+ {
+   "s_id": "30007191",
+   "name": "Wieliczka Park"
+ },
+ {
+   "s_id": "30007201",
+   "name": "Wieliczka Rynek-Kopalnia"
+ },
+ {
+   "s_id": "30007214",
+   "name": "Wielkie Drogi"
+ },
+ {
+   "s_id": "30007224",
+   "name": "Włosienica"
+ },
+ {
+   "s_id": "30007231",
+   "name": "Wola Filipowska"
+ },
+ {
+   "s_id": "30007243",
+   "name": "Wola Rzędzińska"
+ },
+ {
+   "s_id": "30007253",
+   "name": "Wolbrom"
+ },
+ {
+   "s_id": "30007261",
+   "name": "Zabierzów"
+ },
+ {
+   "s_id": "30007274",
+   "name": "Zarzecze"
+ },
+ {
+   "s_id": "30007281",
+   "name": "Zastów"
+ },
+ {
+   "s_id": "30007294",
+   "name": "Zator"
+ },
+ {
+   "s_id": "30007304",
+   "name": "Zelczyna"
+ },
+ {
+   "s_id": "20007314",
+   "name": "Baranów Sandomierski"
+ },
+ {
+   "s_id": "20007323",
+   "name": "Bełżec"
+ },
+ {
+   "s_id": "20007334",
+   "name": "Bełżec Drugi"
+ },
+ {
+   "s_id": "20007344",
+   "name": "Biłgoraj"
+ },
+ {
+   "s_id": "20007354",
+   "name": "Biskupice"
+ },
+ {
+   "s_id": "20007364",
+   "name": "Borowina"
+ },
+ {
+   "s_id": "20007374",
+   "name": "Brzeźnica Bychawska"
+ },
+ {
+   "s_id": "20007384",
+   "name": "Brzeźno"
+ },
+ {
+   "s_id": "20007394",
+   "name": "Bystrzyca koło Lublina"
+ },
+ {
+   "s_id": "20007402",
+   "name": "Chełm"
+ },
+ {
+   "s_id": "20007414",
+   "name": "Chełm Cementownia"
+ },
+ {
+   "s_id": "20007423",
+   "name": "Chełm Miasto"
+ },
+ {
+   "s_id": "20007434",
+   "name": "Chmielów"
+ },
+ {
+   "s_id": "20007444",
+   "name": "Chmielów Zagumnie"
+ },
+ {
+   "s_id": "20007454",
+   "name": "Ciecierzyn"
+ },
+ {
+   "s_id": "20007464",
+   "name": "Ciosmy"
+ },
+ {
+   "s_id": "20007474",
+   "name": "Cygany"
+ },
+ {
+   "s_id": "20007484",
+   "name": "Czesławice"
+ },
+ {
+   "s_id": "20007494",
+   "name": "Dąbrowica koło Biłgoraja"
+ },
+ {
+   "s_id": "20007504",
+   "name": "Dąbrowica Małopolska"
+ },
+ {
+   "s_id": "20007514",
+   "name": "Dęba Rozalin"
+ },
+ {
+   "s_id": "20007522",
+   "name": "Dęblin"
+ },
+ {
+   "s_id": "20007534",
+   "name": "Długi Kąt"
+ },
+ {
+   "s_id": "20007544",
+   "name": "Dominów"
+ },
+ {
+   "s_id": "20007553",
+   "name": "Dorohusk"
+ },
+ {
+   "s_id": "20007563",
+   "name": "Garwolin"
+ },
+ {
+   "s_id": "20007574",
+   "name": "Golce"
+ },
+ {
+   "s_id": "20007584",
+   "name": "Gołąb"
+ },
+ {
+   "s_id": "20007594",
+   "name": "Grabniak"
+ },
+ {
+   "s_id": "20007604",
+   "name": "Grabów Szlachecki"
+ },
+ {
+   "s_id": "20007614",
+   "name": "Grębów"
+ },
+ {
+   "s_id": "20007624",
+   "name": "Gródek"
+ },
+ {
+   "s_id": "20007634",
+   "name": "Hordzieżka"
+ },
+ {
+   "s_id": "20007644",
+   "name": "Hrebenne"
+ },
+ {
+   "s_id": "20007654",
+   "name": "Hrubieszów Miasto"
+ },
+ {
+   "s_id": "20007664",
+   "name": "Huta Deręgowska"
+ },
+ {
+   "s_id": "20007674",
+   "name": "Huta Krzeszowska"
+ },
+ {
+   "s_id": "20007684",
+   "name": "Izbica"
+ },
+ {
+   "s_id": "20007694",
+   "name": "Jadachy"
+ },
+ {
+   "s_id": "20007704",
+   "name": "Jaszczów"
+ },
+ {
+   "s_id": "20007714",
+   "name": "Józefów Roztoczański"
+ },
+ {
+   "s_id": "20007724",
+   "name": "Kanie"
+ },
+ {
+   "s_id": "20007734",
+   "name": "Karolinówka"
+ },
+ {
+   "s_id": "20007744",
+   "name": "Kępa"
+ },
+ {
+   "s_id": "20007754",
+   "name": "Klemensów"
+ },
+ {
+   "s_id": "20007764",
+   "name": "Klementowice"
+ },
+ {
+   "s_id": "20007774",
+   "name": "Kłyżów"
+ },
+ {
+   "s_id": "20007784",
+   "name": "Krasnystaw Fabryczny"
+ },
+ {
+   "s_id": "20007793",
+   "name": "Krasnystaw Miasto"
+ },
+ {
+   "s_id": "20007803",
+   "name": "Kraśnik"
+ },
+ {
+   "s_id": "20007814",
+   "name": "Krężnica Jara"
+ },
+ {
+   "s_id": "20007824",
+   "name": "Krzywda"
+ },
+ {
+   "s_id": "20007834",
+   "name": "Leokadia"
+ },
+ {
+   "s_id": "20007844",
+   "name": "Leopoldów"
+ },
+ {
+   "s_id": "20007854",
+   "name": "Leśniczówka"
+ },
+ {
+   "s_id": "20007864",
+   "name": "Lipa"
+ },
+ {
+   "s_id": "20007873",
+   "name": "Lubartów"
+ },
+ {
+   "s_id": "20007884",
+   "name": "Lubartów Lipowa"
+ },
+ {
+   "s_id": "20007894",
+   "name": "Lubartów Słowackiego"
+ },
+ {
+   "s_id": "20007900",
+   "name": "Lublin"
+ },
+ {
+   "s_id": "20007914",
+   "name": "Lublin Ponikwoda"
+ },
+ {
+   "s_id": "20007921",
+   "name": "Lublin Północny"
+ },
+ {
+   "s_id": "20007931",
+   "name": "Lublin Zachodni"
+ },
+ {
+   "s_id": "20007944",
+   "name": "Lublin Zadębie"
+ },
+ {
+   "s_id": "20007953",
+   "name": "Lublin Zemborzyce"
+ },
+ {
+   "s_id": "20007964",
+   "name": "Lubycza Królewska"
+ },
+ {
+   "s_id": "20007974",
+   "name": "Łaskarzew Przystanek"
+ },
+ {
+   "s_id": "20007984",
+   "name": "Łopatki"
+ },
+ {
+   "s_id": "20007994",
+   "name": "Majdan"
+ },
+ {
+   "s_id": "20008004",
+   "name": "Majdan Stuleński"
+ },
+ {
+   "s_id": "20008014",
+   "name": "Maziły"
+ },
+ {
+   "s_id": "20008024",
+   "name": "Miączyn"
+ },
+ {
+   "s_id": "20008034",
+   "name": "Mika"
+ },
+ {
+   "s_id": "20008044",
+   "name": "Miłocin Lubelski"
+ },
+ {
+   "s_id": "20008054",
+   "name": "Minkowice"
+ },
+ {
+   "s_id": "20008064",
+   "name": "Mokre"
+ },
+ {
+   "s_id": "20008074",
+   "name": "Moskale"
+ },
+ {
+   "s_id": "20008084",
+   "name": "Motycz"
+ },
+ {
+   "s_id": "20008094",
+   "name": "Motycz Leśny"
+ },
+ {
+   "s_id": "20008103",
+   "name": "Nałęczów"
+ },
+ {
+   "s_id": "20008114",
+   "name": "Niedrzwica"
+ },
+ {
+   "s_id": "20008124",
+   "name": "Niedrzwica Kościelna"
+ },
+ {
+   "s_id": "20008134",
+   "name": "Niemce"
+ },
+ {
+   "s_id": "20008143",
+   "name": "Nisko"
+ },
+ {
+   "s_id": "20008154",
+   "name": "Nisko Osiedle"
+ },
+ {
+   "s_id": "20008164",
+   "name": "Nisko Podwolina"
+ },
+ {
+   "s_id": "20008174",
+   "name": "Nisko Racławice"
+ },
+ {
+   "s_id": "20008184",
+   "name": "Nowa Dęba"
+ },
+ {
+   "s_id": "20008194",
+   "name": "Nowiny"
+ },
+ {
+   "s_id": "20008204",
+   "name": "Ocice"
+ },
+ {
+   "s_id": "20008214",
+   "name": "Okrzeja"
+ },
+ {
+   "s_id": "20008224",
+   "name": "Okuninka Białe"
+ },
+ {
+   "s_id": "20008234",
+   "name": "Pałecznica"
+ },
+ {
+   "s_id": "20008244",
+   "name": "Parczew"
+ },
+ {
+   "s_id": "20008254",
+   "name": "Parczew Kolejowa"
+ },
+ {
+   "s_id": "20008263",
+   "name": "Pilchów"
+ },
+ {
+   "s_id": "20008274",
+   "name": "Podzamcze"
+ },
+ {
+   "s_id": "20008284",
+   "name": "Polichna Kraśnicka"
+ },
+ {
+   "s_id": "20008294",
+   "name": "Potok Kraśnicki"
+ },
+ {
+   "s_id": "20008304",
+   "name": "Pożóg"
+ },
+ {
+   "s_id": "20008314",
+   "name": "Pułankowice"
+ },
+ {
+   "s_id": "20008324",
+   "name": "Puławy"
+ },
+ {
+   "s_id": "20008334",
+   "name": "Puławy Azoty"
+ },
+ {
+   "s_id": "20008344",
+   "name": "Puławy Chemia"
+ },
+ {
+   "s_id": "20008352",
+   "name": "Puławy Miasto"
+ },
+ {
+   "s_id": "20008364",
+   "name": "Radzyń Podlaski"
+ },
+ {
+   "s_id": "20008373",
+   "name": "Rejowiec"
+ },
+ {
+   "s_id": "20008384",
+   "name": "Rokitnia Stara"
+ },
+ {
+   "s_id": "20008394",
+   "name": "Ruda Talubska"
+ },
+ {
+   "s_id": "20008404",
+   "name": "Ruda-Huta"
+ },
+ {
+   "s_id": "20008414",
+   "name": "Ruda-Opalin"
+ },
+ {
+   "s_id": "20008424",
+   "name": "Rudnik"
+ },
+ {
+   "s_id": "20008434",
+   "name": "Ruskie Piaski"
+ },
+ {
+   "s_id": "20008444",
+   "name": "Ryki"
+ },
+ {
+   "s_id": "20008454",
+   "name": "Rzeczyca"
+ },
+ {
+   "s_id": "20008464",
+   "name": "Rzeczyca-Kolonia"
+ },
+ {
+   "s_id": "20008474",
+   "name": "Sadurki"
+ },
+ {
+   "s_id": "20008484",
+   "name": "Sarnów"
+ },
+ {
+   "s_id": "20008494",
+   "name": "Siedliska Tomaszowskie"
+ },
+ {
+   "s_id": "20008504",
+   "name": "Skopanie"
+ },
+ {
+   "s_id": "20008514",
+   "name": "Sobibór"
+ },
+ {
+   "s_id": "20008524",
+   "name": "Sobolew"
+ },
+ {
+   "s_id": "20008534",
+   "name": "Sobów"
+ },
+ {
+   "s_id": "20008543",
+   "name": "Stalowa Wola"
+ },
+ {
+   "s_id": "20008552",
+   "name": "Stalowa Wola Centrum"
+ },
+ {
+   "s_id": "20008564",
+   "name": "Stalowa Wola Południe"
+ },
+ {
+   "s_id": "20008573",
+   "name": "Stalowa Wola Rozwadów"
+ },
+ {
+   "s_id": "20008584",
+   "name": "Stasin Polny"
+ },
+ {
+   "s_id": "20008594",
+   "name": "Stulno"
+ },
+ {
+   "s_id": "20008604",
+   "name": "Sulów"
+ },
+ {
+   "s_id": "20008614",
+   "name": "Susiec"
+ },
+ {
+   "s_id": "20008624",
+   "name": "Szastarka"
+ },
+ {
+   "s_id": "20008634",
+   "name": "Szczebrzeszyn"
+ },
+ {
+   "s_id": "20008641",
+   "name": "Świdnik Miasto"
+ },
+ {
+   "s_id": "20008651",
+   "name": "Świdnik Wschód"
+ },
+ {
+   "s_id": "20008664",
+   "name": "Tarło"
+ },
+ {
+   "s_id": "20008673",
+   "name": "Tarnobrzeg"
+ },
+ {
+   "s_id": "20008684",
+   "name": "Tarnowska Wola"
+ },
+ {
+   "s_id": "20008694",
+   "name": "Tarzymiechy"
+ },
+ {
+   "s_id": "20008704",
+   "name": "Tereszpol Biłgorajski"
+ },
+ {
+   "s_id": "20008714",
+   "name": "Trawniki"
+ },
+ {
+   "s_id": "20008724",
+   "name": "Turbia"
+ },
+ {
+   "s_id": "20008734",
+   "name": "Uhrusk"
+ },
+ {
+   "s_id": "20008744",
+   "name": "Uhrusk Przystanek"
+ },
+ {
+   "s_id": "20008754",
+   "name": "Wandzin"
+ },
+ {
+   "s_id": "20008764",
+   "name": "Werbkowice"
+ },
+ {
+   "s_id": "20008774",
+   "name": "Wielowieś"
+ },
+ {
+   "s_id": "20008784",
+   "name": "Wilkołaz"
+ },
+ {
+   "s_id": "20008794",
+   "name": "Wilkołaz Wieś"
+ },
+ {
+   "s_id": "20008804",
+   "name": "Włodawa"
+ },
+ {
+   "s_id": "20008814",
+   "name": "Wola Rowska"
+ },
+ {
+   "s_id": "20008824",
+   "name": "Wólka Kańska"
+ },
+ {
+   "s_id": "20008834",
+   "name": "Wólka Niedzieliska"
+ },
+ {
+   "s_id": "20008844",
+   "name": "Wólka Okopska"
+ },
+ {
+   "s_id": "20008854",
+   "name": "Wólka Orłowska"
+ },
+ {
+   "s_id": "20008864",
+   "name": "Wygoda"
+ },
+ {
+   "s_id": "20008874",
+   "name": "Zabiele"
+ },
+ {
+   "s_id": "20008884",
+   "name": "Zagrody Kościół"
+ },
+ {
+   "s_id": "20008894",
+   "name": "Zaklików"
+ },
+ {
+   "s_id": "20008904",
+   "name": "Zalesie Krasieńskie"
+ },
+ {
+   "s_id": "20008913",
+   "name": "Zamość"
+ },
+ {
+   "s_id": "20008924",
+   "name": "Zamość Starówka"
+ },
+ {
+   "s_id": "20008934",
+   "name": "Zamość Wschód"
+ },
+ {
+   "s_id": "20008944",
+   "name": "Zarzeka"
+ },
+ {
+   "s_id": "20008954",
+   "name": "Zawada"
+ },
+ {
+   "s_id": "20008964",
+   "name": "Zawadówka"
+ },
+ {
+   "s_id": "20008974",
+   "name": "Zbydniów"
+ },
+ {
+   "s_id": "20008984",
+   "name": "Złojec"
+ },
+ {
+   "s_id": "20008994",
+   "name": "Zwierzyniec"
+ },
+ {
+   "s_id": "20009004",
+   "name": "Żulin"
+ },
+ {
+   "s_id": "20009014",
+   "name": "Życzyn"
+ },
+ {
+   "s_id": "10009023",
+   "name": "Baby"
+ },
+ {
+   "s_id": "10009031",
+   "name": "Bedoń"
+ },
+ {
+   "s_id": "10009044",
+   "name": "Bełchów"
+ },
+ {
+   "s_id": "10009054",
+   "name": "Bobrowniki"
+ },
+ {
+   "s_id": "10009064",
+   "name": "Bobry"
+ },
+ {
+   "s_id": "10009074",
+   "name": "Borszewice"
+ },
+ {
+   "s_id": "10009084",
+   "name": "Bratoszewice"
+ },
+ {
+   "s_id": "10009094",
+   "name": "Chechło"
+ },
+ {
+   "s_id": "10009104",
+   "name": "Chociszew"
+ },
+ {
+   "s_id": "10009114",
+   "name": "Chrusty Nowe"
+ },
+ {
+   "s_id": "10009124",
+   "name": "Dąbrowice Skierniewickie"
+ },
+ {
+   "s_id": "10009134",
+   "name": "Dobroń"
+ },
+ {
+   "s_id": "10009144",
+   "name": "Dobryszyce koło Radomska"
+ },
+ {
+   "s_id": "10009154",
+   "name": "Domaniewice"
+ },
+ {
+   "s_id": "10009164",
+   "name": "Domaniewice Centrum"
+ },
+ {
+   "s_id": "10009171",
+   "name": "Gałkówek"
+ },
+ {
+   "s_id": "10009184",
+   "name": "Gawrony"
+ },
+ {
+   "s_id": "10009194",
+   "name": "Glinnik"
+ },
+ {
+   "s_id": "10009204",
+   "name": "Glinnik Wieś"
+ },
+ {
+   "s_id": "10009213",
+   "name": "Głowno"
+ },
+ {
+   "s_id": "10009223",
+   "name": "Gomunice"
+ },
+ {
+   "s_id": "10009233",
+   "name": "Gorzędów"
+ },
+ {
+   "s_id": "10009243",
+   "name": "Gorzkowice"
+ },
+ {
+   "s_id": "10009254",
+   "name": "Grotniki"
+ },
+ {
+   "s_id": "10009264",
+   "name": "Grudze"
+ },
+ {
+   "s_id": "10009274",
+   "name": "Jarosty"
+ },
+ {
+   "s_id": "10009281",
+   "name": "Justynów"
+ },
+ {
+   "s_id": "10009294",
+   "name": "Kamień Łowicki"
+ },
+ {
+   "s_id": "10009303",
+   "name": "Kamieńsk"
+ },
+ {
+   "s_id": "10009314",
+   "name": "Kłudna"
+ },
+ {
+   "s_id": "10009323",
+   "name": "Kolumna"
+ },
+ {
+   "s_id": "10009332",
+   "name": "Koluszki"
+ },
+ {
+   "s_id": "10009344",
+   "name": "Kraski"
+ },
+ {
+   "s_id": "10009353",
+   "name": "Krosnowa"
+ },
+ {
+   "s_id": "10009363",
+   "name": "Lipce Reymontowskie"
+ },
+ {
+   "s_id": "10009371",
+   "name": "Lublinek"
+ },
+ {
+   "s_id": "10009384",
+   "name": "Luciążanka"
+ },
+ {
+   "s_id": "10009393",
+   "name": "Łask"
+ },
+ {
+   "s_id": "10009404",
+   "name": "Łaznów"
+ },
+ {
+   "s_id": "10009413",
+   "name": "Łęczyca"
+ },
+ {
+   "s_id": "10009421",
+   "name": "Łódź Andrzejów"
+ },
+ {
+   "s_id": "10009431",
+   "name": "Łódź Arturówek"
+ },
+ {
+   "s_id": "10009441",
+   "name": "Łódź Chojny"
+ },
+ {
+   "s_id": "10009451",
+   "name": "Łódź Dąbrowa"
+ },
+ {
+   "s_id": "10009460",
+   "name": "Łódź Kaliska"
+ },
+ {
+   "s_id": "10009471",
+   "name": "Łódź Marysin"
+ },
+ {
+   "s_id": "10009481",
+   "name": "Łódź Niciarniana"
+ },
+ {
+   "s_id": "10009494",
+   "name": "Łódź Olechów Wschód"
+ },
+ {
+   "s_id": "10009501",
+   "name": "Łódź Pabianicka"
+ },
+ {
+   "s_id": "10009514",
+   "name": "Łódź Radogoszcz Zachód"
+ },
+ {
+   "s_id": "10009521",
+   "name": "Łódź Stoki"
+ },
+ {
+   "s_id": "10009531",
+   "name": "Łódź Widzew"
+ },
+ {
+   "s_id": "10009541",
+   "name": "Łódź Żabieniec"
+ },
+ {
+   "s_id": "10009553",
+   "name": "Maków"
+ },
+ {
+   "s_id": "10009564",
+   "name": "Milejów"
+ },
+ {
+   "s_id": "10009574",
+   "name": "Mokra"
+ },
+ {
+   "s_id": "10009583",
+   "name": "Moszczenica"
+ },
+ {
+   "s_id": "10009594",
+   "name": "Otok"
+ },
+ {
+   "s_id": "10009603",
+   "name": "Ozorków"
+ },
+ {
+   "s_id": "10009611",
+   "name": "Ozorków Nowe Miasto"
+ },
+ {
+   "s_id": "10009621",
+   "name": "Pabianice"
+ },
+ {
+   "s_id": "10009632",
+   "name": "Piotrków Trybunalski"
+ },
+ {
+   "s_id": "10009643",
+   "name": "Płyćwia"
+ },
+ {
+   "s_id": "10009654",
+   "name": "Poddębice"
+ },
+ {
+   "s_id": "10009664",
+   "name": "Przyłęk Duży"
+ },
+ {
+   "s_id": "10009672",
+   "name": "Radomsko"
+ },
+ {
+   "s_id": "10009683",
+   "name": "Rogów"
+ },
+ {
+   "s_id": "10009693",
+   "name": "Rokiciny"
+ },
+ {
+   "s_id": "10009704",
+   "name": "Rozprza"
+ },
+ {
+   "s_id": "10009714",
+   "name": "Sierakowice Skierniewickie"
+ },
+ {
+   "s_id": "10009724",
+   "name": "Sierpów"
+ },
+ {
+   "s_id": "10009732",
+   "name": "Skierniewice"
+ },
+ {
+   "s_id": "10009743",
+   "name": "Skierniewice Rawka"
+ },
+ {
+   "s_id": "10009754",
+   "name": "Skrzynki"
+ },
+ {
+   "s_id": "10009764",
+   "name": "Słotwiny"
+ },
+ {
+   "s_id": "10009774",
+   "name": "Smardzew"
+ },
+ {
+   "s_id": "10009783",
+   "name": "Stryków"
+ },
+ {
+   "s_id": "10009794",
+   "name": "Swędów"
+ },
+ {
+   "s_id": "10009804",
+   "name": "Szadek"
+ },
+ {
+   "s_id": "10009814",
+   "name": "Wągry"
+ },
+ {
+   "s_id": "10009824",
+   "name": "Wilkoszewice"
+ },
+ {
+   "s_id": "10009834",
+   "name": "Witonia"
+ },
+ {
+   "s_id": "10009844",
+   "name": "Wolbórka"
+ },
+ {
+   "s_id": "10009854",
+   "name": "Wykno"
+ },
+ {
+   "s_id": "10009864",
+   "name": "Zaosie"
+ },
+ {
+   "s_id": "10009872",
+   "name": "Zduńska Wola"
+ },
+ {
+   "s_id": "10009884",
+   "name": "Zduńska Wola Karsznice"
+ },
+ {
+   "s_id": "10009894",
+   "name": "Zduńska Wola Południowa"
+ },
+ {
+   "s_id": "10009901",
+   "name": "Zgierz"
+ },
+ {
+   "s_id": "10009911",
+   "name": "Zgierz Jaracza"
+ },
+ {
+   "s_id": "10009924",
+   "name": "Zgierz Kontrewers"
+ },
+ {
+   "s_id": "10009934",
+   "name": "Zgierz Północ"
+ },
+ {
+   "s_id": "10009941",
+   "name": "Żakowice"
+ },
+ {
+   "s_id": "10009951",
+   "name": "Żakowice Południowe"
+ },
+ {
+   "s_id": "30009963",
+   "name": "Andrychów"
+ },
+ {
+   "s_id": "30009974",
+   "name": "Andrychów Górnica"
+ },
+ {
+   "s_id": "30009984",
+   "name": "Andrzejówka"
+ },
+ {
+   "s_id": "30009994",
+   "name": "Barcice"
+ },
+ {
+   "s_id": "30010004",
+   "name": "Barwałd Górny"
+ },
+ {
+   "s_id": "30010014",
+   "name": "Barwałd Średni"
+ },
+ {
+   "s_id": "30010023",
+   "name": "Biały Dunajec"
+ },
+ {
+   "s_id": "30010034",
+   "name": "Biecz"
+ },
+ {
+   "s_id": "30010044",
+   "name": "Bobowa"
+ },
+ {
+   "s_id": "30010053",
+   "name": "Bobowa-Miasto"
+ },
+ {
+   "s_id": "30010064",
+   "name": "Bogoniowice Ciężkowice"
+ },
+ {
+   "s_id": "30010074",
+   "name": "Bulowice"
+ },
+ {
+   "s_id": "30010084",
+   "name": "Bystra Podhalańska"
+ },
+ {
+   "s_id": "30010093",
+   "name": "Chabówka"
+ },
+ {
+   "s_id": "30010104",
+   "name": "Chocznia"
+ },
+ {
+   "s_id": "30010114",
+   "name": "Chocznia Górna"
+ },
+ {
+   "s_id": "30010124",
+   "name": "Chojnik"
+ },
+ {
+   "s_id": "30010134",
+   "name": "Chomranice"
+ },
+ {
+   "s_id": "30010144",
+   "name": "Dobra koło Limanowej"
+ },
+ {
+   "s_id": "30010154",
+   "name": "Gorlice"
+ },
+ {
+   "s_id": "30010164",
+   "name": "Gorlice Glinik"
+ },
+ {
+   "s_id": "30010174",
+   "name": "Gorlice Zagórzany"
+ },
+ {
+   "s_id": "30010184",
+   "name": "Gromnik"
+ },
+ {
+   "s_id": "30010193",
+   "name": "Grybów"
+ },
+ {
+   "s_id": "30010204",
+   "name": "Hucisko"
+ },
+ {
+   "s_id": "30010214",
+   "name": "Inwałd"
+ },
+ {
+   "s_id": "30010224",
+   "name": "Jankowa"
+ },
+ {
+   "s_id": "30010233",
+   "name": "Jordanów"
+ },
+ {
+   "s_id": "30010244",
+   "name": "Juszczyn"
+ },
+ {
+   "s_id": "30010254",
+   "name": "Kalwaria Zebrzydowska"
+ },
+ {
+   "s_id": "30010263",
+   "name": "Kalwaria Zebrzydowska Lanckorona"
+ },
+ {
+   "s_id": "30010274",
+   "name": "Kamionka Wielka"
+ },
+ {
+   "s_id": "30010284",
+   "name": "Kasina Wielka"
+ },
+ {
+   "s_id": "30010293",
+   "name": "Kęty"
+ },
+ {
+   "s_id": "30010304",
+   "name": "Kęty Podlesie"
+ },
+ {
+   "s_id": "30010314",
+   "name": "Klecza Dolna"
+ },
+ {
+   "s_id": "30010324",
+   "name": "Klecza Górna"
+ },
+ {
+   "s_id": "30010334",
+   "name": "Klęczany"
+ },
+ {
+   "s_id": "30010344",
+   "name": "Kłokowa"
+ },
+ {
+   "s_id": "30010354",
+   "name": "Kojszówka"
+ },
+ {
+   "s_id": "30010363",
+   "name": "Krynica-Zdrój"
+ },
+ {
+   "s_id": "30010374",
+   "name": "Kurów Suski"
+ },
+ {
+   "s_id": "30010384",
+   "name": "Lachowice"
+ },
+ {
+   "s_id": "30010394",
+   "name": "Lachowice Centrum"
+ },
+ {
+   "s_id": "30010404",
+   "name": "Lasek"
+ },
+ {
+   "s_id": "30010414",
+   "name": "Leluchów"
+ },
+ {
+   "s_id": "30010424",
+   "name": "Leńcze"
+ },
+ {
+   "s_id": "30010434",
+   "name": "Libusza"
+ },
+ {
+   "s_id": "30010444",
+   "name": "Limanowa"
+ },
+ {
+   "s_id": "30010454",
+   "name": "Lubaszowa"
+ },
+ {
+   "s_id": "30010463",
+   "name": "Łomnica-Zdrój"
+ },
+ {
+   "s_id": "30010474",
+   "name": "Łososina Górna"
+ },
+ {
+   "s_id": "30010484",
+   "name": "Łowczów"
+ },
+ {
+   "s_id": "30010494",
+   "name": "Łowczówek Pleśna"
+ },
+ {
+   "s_id": "30010503",
+   "name": "Maków Podhalański"
+ },
+ {
+   "s_id": "30010514",
+   "name": "Marcinkowice"
+ },
+ {
+   "s_id": "30010524",
+   "name": "Męcina"
+ },
+ {
+   "s_id": "30010534",
+   "name": "Męcina Podgórze"
+ },
+ {
+   "s_id": "30010544",
+   "name": "Milik"
+ },
+ {
+   "s_id": "30010554",
+   "name": "Młodów"
+ },
+ {
+   "s_id": "30010564",
+   "name": "Moszczenica Małopolska"
+ },
+ {
+   "s_id": "30010574",
+   "name": "Mszalnica"
+ },
+ {
+   "s_id": "30010584",
+   "name": "Mszana Dolna"
+ },
+ {
+   "s_id": "30010594",
+   "name": "Mszana Dolna Marki"
+ },
+ {
+   "s_id": "30010603",
+   "name": "Muszyna"
+ },
+ {
+   "s_id": "30010614",
+   "name": "Muszyna Poprad"
+ },
+ {
+   "s_id": "30010624",
+   "name": "Muszyna Zdrój"
+ },
+ {
+   "s_id": "30010632",
+   "name": "Nowy Sącz"
+ },
+ {
+   "s_id": "30010644",
+   "name": "Nowy Sącz Biegonice"
+ },
+ {
+   "s_id": "30010654",
+   "name": "Nowy Sącz Chełmiec"
+ },
+ {
+   "s_id": "30010664",
+   "name": "Nowy Sącz Jamnica"
+ },
+ {
+   "s_id": "30010674",
+   "name": "Nowy Sącz Miasto"
+ },
+ {
+   "s_id": "30010682",
+   "name": "Nowy Targ"
+ },
+ {
+   "s_id": "30010694",
+   "name": "Osielec"
+ },
+ {
+   "s_id": "30010704",
+   "name": "Piekiełko"
+ },
+ {
+   "s_id": "30010714",
+   "name": "Pisarzowa"
+ },
+ {
+   "s_id": "30010724",
+   "name": "Piwniczna"
+ },
+ {
+   "s_id": "30010734",
+   "name": "Piwniczna-Zdrój"
+ },
+ {
+   "s_id": "30010744",
+   "name": "Pławna"
+ },
+ {
+   "s_id": "30010754",
+   "name": "Podolany"
+ },
+ {
+   "s_id": "30010764",
+   "name": "Polna"
+ },
+ {
+   "s_id": "30010773",
+   "name": "Poronin"
+ },
+ {
+   "s_id": "30010784",
+   "name": "Powroźnik"
+ },
+ {
+   "s_id": "30010794",
+   "name": "Przytkowice"
+ },
+ {
+   "s_id": "30010804",
+   "name": "Ptaszkowa"
+ },
+ {
+   "s_id": "30010814",
+   "name": "Pyzówka"
+ },
+ {
+   "s_id": "30010824",
+   "name": "Raba Niżna"
+ },
+ {
+   "s_id": "30010834",
+   "name": "Raba Wyżna"
+ },
+ {
+   "s_id": "30010844",
+   "name": "Rabka Zaryte"
+ },
+ {
+   "s_id": "30010853",
+   "name": "Rabka-Zdrój"
+ },
+ {
+   "s_id": "30010864",
+   "name": "Radziszów"
+ },
+ {
+   "s_id": "30010874",
+   "name": "Radziszów Centrum"
+ },
+ {
+   "s_id": "30010884",
+   "name": "Rokiciny Podhalańskie"
+ },
+ {
+   "s_id": "30010894",
+   "name": "Rytro"
+ },
+ {
+   "s_id": "30010904",
+   "name": "Rzozów"
+ },
+ {
+   "s_id": "30010914",
+   "name": "Siedliska koło Tuchowa"
+ },
+ {
+   "s_id": "30010924",
+   "name": "Sieniawa"
+ },
+ {
+   "s_id": "30010934",
+   "name": "Skawa"
+ },
+ {
+   "s_id": "30010944",
+   "name": "Skawa Środkowa"
+ },
+ {
+   "s_id": "30010954",
+   "name": "Skrzydlna"
+ },
+ {
+   "s_id": "30010964",
+   "name": "Stary Sącz"
+ },
+ {
+   "s_id": "30010974",
+   "name": "Stronie"
+ },
+ {
+   "s_id": "30010983",
+   "name": "Stróże"
+ },
+ {
+   "s_id": "30010994",
+   "name": "Stryszawa"
+ },
+ {
+   "s_id": "30011004",
+   "name": "Stryszów"
+ },
+ {
+   "s_id": "30011013",
+   "name": "Sucha Beskidzka"
+ },
+ {
+   "s_id": "30011024",
+   "name": "Sucha Beskidzka Zamek"
+ },
+ {
+   "s_id": "30011033",
+   "name": "Szaflary"
+ },
+ {
+   "s_id": "30011044",
+   "name": "Szaflary Wieś"
+ },
+ {
+   "s_id": "30011054",
+   "name": "Szalowa"
+ },
+ {
+   "s_id": "30011063",
+   "name": "Tuchów"
+ },
+ {
+   "s_id": "30011074",
+   "name": "Tymbark"
+ },
+ {
+   "s_id": "30011083",
+   "name": "Wadowice"
+ },
+ {
+   "s_id": "30011094",
+   "name": "Wierchomla Wielka"
+ },
+ {
+   "s_id": "30011104",
+   "name": "Wilczyska"
+ },
+ {
+   "s_id": "30011114",
+   "name": "Wola Łużańska"
+ },
+ {
+   "s_id": "30011124",
+   "name": "Wola Radziszowska"
+ },
+ {
+   "s_id": "30011132",
+   "name": "Zakopane"
+ },
+ {
+   "s_id": "30011144",
+   "name": "Zamek Bulowicki"
+ },
+ {
+   "s_id": "30011154",
+   "name": "Zembrzyce"
+ },
+ {
+   "s_id": "30011164",
+   "name": "Zubrzyk"
+ },
+ {
+   "s_id": "30011174",
+   "name": "Żegiestów"
+ },
+ {
+   "s_id": "30011184",
+   "name": "Żegiestów-Zdrój"
+ },
+ {
+   "s_id": "50011194",
+   "name": "Bajtkowo"
+ },
+ {
+   "s_id": "50011203",
+   "name": "Barczewo"
+ },
+ {
+   "s_id": "50011214",
+   "name": "Bartąg"
+ },
+ {
+   "s_id": "50011224",
+   "name": "Bartosze"
+ },
+ {
+   "s_id": "50011234",
+   "name": "Bartoszyce"
+ },
+ {
+   "s_id": "50011244",
+   "name": "Biała koło Piszu"
+ },
+ {
+   "s_id": "50011254",
+   "name": "Biesal"
+ },
+ {
+   "s_id": "50011264",
+   "name": "Bogaczewo"
+ },
+ {
+   "s_id": "50011273",
+   "name": "Braniewo"
+ },
+ {
+   "s_id": "50011284",
+   "name": "Bujaki"
+ },
+ {
+   "s_id": "50011294",
+   "name": "Bukwałd"
+ },
+ {
+   "s_id": "50011304",
+   "name": "Burkat"
+ },
+ {
+   "s_id": "50011314",
+   "name": "Bzowiec"
+ },
+ {
+   "s_id": "50011324",
+   "name": "Cerkiewnik"
+ },
+ {
+   "s_id": "50011332",
+   "name": "Ciechanów"
+ },
+ {
+   "s_id": "50011344",
+   "name": "Ciechanów Przemysłowy"
+ },
+ {
+   "s_id": "50011354",
+   "name": "Czeruchy"
+ },
+ {
+   "s_id": "50011364",
+   "name": "Czerwonka"
+ },
+ {
+   "s_id": "50011373",
+   "name": "Dobre Miasto"
+ },
+ {
+   "s_id": "50011384",
+   "name": "Dobrocin"
+ },
+ {
+   "s_id": "50011394",
+   "name": "Dobrzyń"
+ },
+ {
+   "s_id": "50011404",
+   "name": "Drygały"
+ },
+ {
+   "s_id": "50011412",
+   "name": "Działdowo"
+ },
+ {
+   "s_id": "50011422",
+   "name": "Elbląg"
+ },
+ {
+   "s_id": "50011432",
+   "name": "Ełk"
+ },
+ {
+   "s_id": "50011444",
+   "name": "Ełk Szyba Wschód"
+ },
+ {
+   "s_id": "50011454",
+   "name": "Ełk Szyba Zachód"
+ },
+ {
+   "s_id": "50011464",
+   "name": "Ełk Zachód"
+ },
+ {
+   "s_id": "50011474",
+   "name": "Gamerki Wielkie"
+ },
+ {
+   "s_id": "50011484",
+   "name": "Gągławki"
+ },
+ {
+   "s_id": "50011493",
+   "name": "Gąsocin"
+ },
+ {
+   "s_id": "50011502",
+   "name": "Giżycko"
+ },
+ {
+   "s_id": "50011514",
+   "name": "Godki"
+ },
+ {
+   "s_id": "50011523",
+   "name": "Gołotczyzna"
+ },
+ {
+   "s_id": "50011534",
+   "name": "Górowo"
+ },
+ {
+   "s_id": "50011544",
+   "name": "Gralewo"
+ },
+ {
+   "s_id": "50011554",
+   "name": "Grodzie"
+ },
+ {
+   "s_id": "50011564",
+   "name": "Grom"
+ },
+ {
+   "s_id": "50011574",
+   "name": "Gronowo Elbląskie"
+ },
+ {
+   "s_id": "50011584",
+   "name": "Gryźliny"
+ },
+ {
+   "s_id": "50011593",
+   "name": "Gutkowo"
+ },
+ {
+   "s_id": "50011604",
+   "name": "Hartowiec"
+ },
+ {
+   "s_id": "50011614",
+   "name": "Henrykowo"
+ },
+ {
+   "s_id": "50011622",
+   "name": "Iława Główna"
+ },
+ {
+   "s_id": "50011633",
+   "name": "Iława Miasto"
+ },
+ {
+   "s_id": "50011644",
+   "name": "Iłowo"
+ },
+ {
+   "s_id": "50011654",
+   "name": "Jackowo Dworskie"
+ },
+ {
+   "s_id": "50011664",
+   "name": "Jamielnik"
+ },
+ {
+   "s_id": "50011674",
+   "name": "Jarzębiec"
+ },
+ {
+   "s_id": "50011684",
+   "name": "Jeglia"
+ },
+ {
+   "s_id": "50011694",
+   "name": "Jeruty"
+ },
+ {
+   "s_id": "50011704",
+   "name": "Jonkowo"
+ },
+ {
+   "s_id": "50011714",
+   "name": "Kaliszki"
+ },
+ {
+   "s_id": "50011724",
+   "name": "Kałęczyn"
+ },
+ {
+   "s_id": "50011734",
+   "name": "Kątne"
+ },
+ {
+   "s_id": "50011742",
+   "name": "Kętrzyn"
+ },
+ {
+   "s_id": "50011754",
+   "name": "Klewki"
+ },
+ {
+   "s_id": "50011764",
+   "name": "Kolonia"
+ },
+ {
+   "s_id": "50011774",
+   "name": "Komorowo Żuławskie"
+ },
+ {
+   "s_id": "50011784",
+   "name": "Konopki"
+ },
+ {
+   "s_id": "50011793",
+   "name": "Korsze"
+ },
+ {
+   "s_id": "50011804",
+   "name": "Kozia Góra"
+ },
+ {
+   "s_id": "50011814",
+   "name": "Kozłowo"
+ },
+ {
+   "s_id": "50011824",
+   "name": "Krośnice Mazowieckie"
+ },
+ {
+   "s_id": "50011834",
+   "name": "Linkowo"
+ },
+ {
+   "s_id": "50011844",
+   "name": "Lipińskie Małe"
+ },
+ {
+   "s_id": "50011854",
+   "name": "Lubajny"
+ },
+ {
+   "s_id": "50011864",
+   "name": "Lubomino"
+ },
+ {
+   "s_id": "50011874",
+   "name": "Łankiejmy"
+ },
+ {
+   "s_id": "50011884",
+   "name": "Łęgajny"
+ },
+ {
+   "s_id": "50011894",
+   "name": "Małdyty"
+ },
+ {
+   "s_id": "50011904",
+   "name": "Marcinkowo"
+ },
+ {
+   "s_id": "50011914",
+   "name": "Martiany"
+ },
+ {
+   "s_id": "50011922",
+   "name": "Mława"
+ },
+ {
+   "s_id": "50011933",
+   "name": "Mława Miasto"
+ },
+ {
+   "s_id": "50011944",
+   "name": "Montowo"
+ },
+ {
+   "s_id": "50011953",
+   "name": "Morąg"
+ },
+ {
+   "s_id": "50011964",
+   "name": "Morąg Kolonia"
+ },
+ {
+   "s_id": "50011974",
+   "name": "Narzym"
+ },
+ {
+   "s_id": "50011984",
+   "name": "Naterki"
+ },
+ {
+   "s_id": "50011993",
+   "name": "Nidzica"
+ },
+ {
+   "s_id": "50012004",
+   "name": "Niegocin"
+ },
+ {
+   "s_id": "50012014",
+   "name": "Nowa Wieś Cierpkie"
+ },
+ {
+   "s_id": "50012024",
+   "name": "Nowa Wieś Ełcka"
+ },
+ {
+   "s_id": "50012034",
+   "name": "Nowy Młyn"
+ },
+ {
+   "s_id": "50012044",
+   "name": "Odoje"
+ },
+ {
+   "s_id": "50012054",
+   "name": "Olecko"
+ },
+ {
+   "s_id": "50012061",
+   "name": "Olsztyn Dajtki"
+ },
+ {
+   "s_id": "50012070",
+   "name": "Olsztyn Główny"
+ },
+ {
+   "s_id": "50012081",
+   "name": "Olsztyn Śródmieście"
+ },
+ {
+   "s_id": "50012091",
+   "name": "Olsztyn Zachodni"
+ },
+ {
+   "s_id": "50012103",
+   "name": "Olsztynek"
+ },
+ {
+   "s_id": "50012114",
+   "name": "Olszyny"
+ },
+ {
+   "s_id": "50012123",
+   "name": "Orneta"
+ },
+ {
+   "s_id": "50012134",
+   "name": "Orzysz"
+ },
+ {
+   "s_id": "50012142",
+   "name": "Ostróda"
+ },
+ {
+   "s_id": "50012153",
+   "name": "Pasłęk"
+ },
+ {
+   "s_id": "50012164",
+   "name": "Pasym"
+ },
+ {
+   "s_id": "50012173",
+   "name": "Pieniężno"
+ },
+ {
+   "s_id": "50012184",
+   "name": "Pikus"
+ },
+ {
+   "s_id": "50012193",
+   "name": "Pisz"
+ },
+ {
+   "s_id": "50012204",
+   "name": "Pogorzel Wielka"
+ },
+ {
+   "s_id": "50012213",
+   "name": "Prostki"
+ },
+ {
+   "s_id": "50012224",
+   "name": "Rakowice"
+ },
+ {
+   "s_id": "50012234",
+   "name": "Redaki"
+ },
+ {
+   "s_id": "50012244",
+   "name": "Rogale"
+ },
+ {
+   "s_id": "50012254",
+   "name": "Rogiedle"
+ },
+ {
+   "s_id": "50012263",
+   "name": "Ruciane-Nida"
+ },
+ {
+   "s_id": "50012274",
+   "name": "Ruciane-Nida Zachód"
+ },
+ {
+   "s_id": "50012284",
+   "name": "Rudzienice Suskie"
+ },
+ {
+   "s_id": "50012294",
+   "name": "Rybno Pomorskie"
+ },
+ {
+   "s_id": "50012304",
+   "name": "Samborowo"
+ },
+ {
+   "s_id": "50012314",
+   "name": "Sątopy-Samulewo"
+ },
+ {
+   "s_id": "50012324",
+   "name": "Siedliska"
+ },
+ {
+   "s_id": "50012334",
+   "name": "Siódmak"
+ },
+ {
+   "s_id": "50012344",
+   "name": "Skandawa"
+ },
+ {
+   "s_id": "50012354",
+   "name": "Skomack Wielki"
+ },
+ {
+   "s_id": "50012364",
+   "name": "Smolniki"
+ },
+ {
+   "s_id": "50012374",
+   "name": "Spychowo"
+ },
+ {
+   "s_id": "50012384",
+   "name": "Stare Guty"
+ },
+ {
+   "s_id": "50012394",
+   "name": "Stare Jabłonki"
+ },
+ {
+   "s_id": "50012404",
+   "name": "Stare Juchy"
+ },
+ {
+   "s_id": "50012414",
+   "name": "Stawiguda"
+ },
+ {
+   "s_id": "50012424",
+   "name": "Sterławki Małe"
+ },
+ {
+   "s_id": "50012433",
+   "name": "Sterławki Wielkie"
+ },
+ {
+   "s_id": "50012444",
+   "name": "Stupsk Mazowiecki"
+ },
+ {
+   "s_id": "50012453",
+   "name": "Susz"
+ },
+ {
+   "s_id": "50012464",
+   "name": "Swobodna"
+ },
+ {
+   "s_id": "50012473",
+   "name": "Szczytno"
+ },
+ {
+   "s_id": "50012484",
+   "name": "Szeroki Bór"
+ },
+ {
+   "s_id": "50012493",
+   "name": "Szymany Lotnisko"
+ },
+ {
+   "s_id": "50012504",
+   "name": "Świercze"
+ },
+ {
+   "s_id": "50012514",
+   "name": "Świętajno"
+ },
+ {
+   "s_id": "50012524",
+   "name": "Tołkiny"
+ },
+ {
+   "s_id": "50012534",
+   "name": "Tuczki"
+ },
+ {
+   "s_id": "50012544",
+   "name": "Turza Wielka"
+ },
+ {
+   "s_id": "50012554",
+   "name": "Unieszewo"
+ },
+ {
+   "s_id": "50012564",
+   "name": "Waplewo"
+ },
+ {
+   "s_id": "50012574",
+   "name": "Wipsowo"
+ },
+ {
+   "s_id": "50012584",
+   "name": "Wołowno"
+ },
+ {
+   "s_id": "50012594",
+   "name": "Woszczele"
+ },
+ {
+   "s_id": "50012604",
+   "name": "Wydminy"
+ },
+ {
+   "s_id": "50012614",
+   "name": "Wysoka Braniewska"
+ },
+ {
+   "s_id": "50012624",
+   "name": "Wyszyny"
+ },
+ {
+   "s_id": "50012634",
+   "name": "Zajączkowo Lubawskie"
+ },
+ {
+   "s_id": "50012644",
+   "name": "Zakrzów-Sarnowo"
+ },
+ {
+   "s_id": "50012654",
+   "name": "Ząbrowo"
+ },
+ {
+   "s_id": "50012664",
+   "name": "Zielonka Pasłęcka"
+ },
+ {
+   "s_id": "50012674",
+   "name": "Żabi Róg"
+ },
+ {
+   "s_id": "50012684",
+   "name": "Żabiny"
+ },
+ {
+   "s_id": "50012694",
+   "name": "Żugienie"
+ },
+ {
+   "s_id": "60012704",
+   "name": "Bardo Przyłęk"
+ },
+ {
+   "s_id": "60012713",
+   "name": "Bardo Śląskie"
+ },
+ {
+   "s_id": "60012724",
+   "name": "Bąków"
+ },
+ {
+   "s_id": "60012734",
+   "name": "Biały Kościół"
+ },
+ {
+   "s_id": "60012744",
+   "name": "Biskupice koło Kluczborka"
+ },
+ {
+   "s_id": "60012754",
+   "name": "Błotnica Strzelecka"
+ },
+ {
+   "s_id": "60012764",
+   "name": "Boreczek"
+ },
+ {
+   "s_id": "60012774",
+   "name": "Borkowice"
+ },
+ {
+   "s_id": "60012784",
+   "name": "Borucice"
+ },
+ {
+   "s_id": "60012792",
+   "name": "Brzeg"
+ },
+ {
+   "s_id": "60012804",
+   "name": "Budziszowice"
+ },
+ {
+   "s_id": "60012814",
+   "name": "Bukowo"
+ },
+ {
+   "s_id": "60012823",
+   "name": "Byczyna Kluczborska"
+ },
+ {
+   "s_id": "60012834",
+   "name": "Chróścice"
+ },
+ {
+   "s_id": "60012844",
+   "name": "Chróścina Nyska"
+ },
+ {
+   "s_id": "60012853",
+   "name": "Chróścina Opolska"
+ },
+ {
+   "s_id": "60012864",
+   "name": "Chrząstowice"
+ },
+ {
+   "s_id": "60012874",
+   "name": "Czeska Wieś"
+ },
+ {
+   "s_id": "60012884",
+   "name": "Dąbrowa Niemodlińska"
+ },
+ {
+   "s_id": "60012894",
+   "name": "Dębska Kuźnia"
+ },
+ {
+   "s_id": "60012904",
+   "name": "Doboszowice"
+ },
+ {
+   "s_id": "60012914",
+   "name": "Dobrzeń Wielki"
+ },
+ {
+   "s_id": "60012924",
+   "name": "Domaszowice"
+ },
+ {
+   "s_id": "60012934",
+   "name": "Dytmarów"
+ },
+ {
+   "s_id": "60012943",
+   "name": "Dzierżoniów Śląski"
+ },
+ {
+   "s_id": "60012954",
+   "name": "Fosowskie"
+ },
+ {
+   "s_id": "60012963",
+   "name": "Głogówek"
+ },
+ {
+   "s_id": "60012974",
+   "name": "Głuchołazy"
+ },
+ {
+   "s_id": "60012984",
+   "name": "Głuchołazy Miasto"
+ },
+ {
+   "s_id": "60012993",
+   "name": "Gogolin"
+ },
+ {
+   "s_id": "60013004",
+   "name": "Goświnowice"
+ },
+ {
+   "s_id": "60013013",
+   "name": "Górażdże"
+ },
+ {
+   "s_id": "60013024",
+   "name": "Gręboszów"
+ },
+ {
+   "s_id": "60013033",
+   "name": "Grodków Śląski"
+ },
+ {
+   "s_id": "60013043",
+   "name": "Henryków"
+ },
+ {
+   "s_id": "60013054",
+   "name": "Jasienica Dolna"
+ },
+ {
+   "s_id": "60013064",
+   "name": "Jasiona"
+ },
+ {
+   "s_id": "60013074",
+   "name": "Jełowa"
+ },
+ {
+   "s_id": "60013084",
+   "name": "Kały"
+ },
+ {
+   "s_id": "60013093",
+   "name": "Kamieniec Ząbkowicki"
+ },
+ {
+   "s_id": "60013103",
+   "name": "Kamień Śląski"
+ },
+ {
+   "s_id": "60013114",
+   "name": "Karłowice"
+ },
+ {
+   "s_id": "60013124",
+   "name": "Kielcza"
+ },
+ {
+   "s_id": "60013132",
+   "name": "Kluczbork"
+ },
+ {
+   "s_id": "60013144",
+   "name": "Kolonowskie"
+ },
+ {
+   "s_id": "60013153",
+   "name": "Komprachcice"
+ },
+ {
+   "s_id": "60013164",
+   "name": "Kostów"
+ },
+ {
+   "s_id": "60013174",
+   "name": "Kotórz Mały"
+ },
+ {
+   "s_id": "60013184",
+   "name": "Krasiejów"
+ },
+ {
+   "s_id": "60013194",
+   "name": "Krzywizna"
+ },
+ {
+   "s_id": "60013204",
+   "name": "Kubice"
+ },
+ {
+   "s_id": "60013214",
+   "name": "Laskowice Oleskie"
+ },
+ {
+   "s_id": "60013223",
+   "name": "Lewin Brzeski"
+ },
+ {
+   "s_id": "60013234",
+   "name": "Lipki"
+ },
+ {
+   "s_id": "60013244",
+   "name": "Lipowa Śląska"
+ },
+ {
+   "s_id": "60013253",
+   "name": "Łambinowice"
+ },
+ {
+   "s_id": "60013264",
+   "name": "Ławica"
+ },
+ {
+   "s_id": "60013274",
+   "name": "Łosiów"
+ },
+ {
+   "s_id": "60013284",
+   "name": "Mańkowice"
+ },
+ {
+   "s_id": "60013294",
+   "name": "Mąkoszyce"
+ },
+ {
+   "s_id": "60013304",
+   "name": "Mościsko Dzierżoniowskie"
+ },
+ {
+   "s_id": "60013314",
+   "name": "Myśliczyn"
+ },
+ {
+   "s_id": "60013323",
+   "name": "Namysłów"
+ },
+ {
+   "s_id": "60013334",
+   "name": "Nowy Las"
+ },
+ {
+   "s_id": "60013344",
+   "name": "Nowy Świętów"
+ },
+ {
+   "s_id": "60013352",
+   "name": "Nysa"
+ },
+ {
+   "s_id": "60013363",
+   "name": "Olesno Śląskie"
+ },
+ {
+   "s_id": "60013374",
+   "name": "Olszanka"
+ },
+ {
+   "s_id": "60013384",
+   "name": "Opole Borki"
+ },
+ {
+   "s_id": "60013394",
+   "name": "Opole Chmielowice"
+ },
+ {
+   "s_id": "60013404",
+   "name": "Opole Czarnowąsy"
+ },
+ {
+   "s_id": "60013410",
+   "name": "Opole Główne"
+ },
+ {
+   "s_id": "60013423",
+   "name": "Opole Gosławice"
+ },
+ {
+   "s_id": "60013433",
+   "name": "Opole Groszowice"
+ },
+ {
+   "s_id": "60013443",
+   "name": "Opole Grotowice"
+ },
+ {
+   "s_id": "60013453",
+   "name": "Opole Wschodnie"
+ },
+ {
+   "s_id": "60013463",
+   "name": "Opole Zachodnie"
+ },
+ {
+   "s_id": "60013474",
+   "name": "Osowiec Przystanek"
+ },
+ {
+   "s_id": "60013484",
+   "name": "Otmuchów"
+ },
+ {
+   "s_id": "60013494",
+   "name": "Otmuchów Jezioro"
+ },
+ {
+   "s_id": "60013503",
+   "name": "Ozimek"
+ },
+ {
+   "s_id": "60013514",
+   "name": "Paczków"
+ },
+ {
+   "s_id": "60013524",
+   "name": "Pakosławice"
+ },
+ {
+   "s_id": "60013533",
+   "name": "Piława Górna"
+ },
+ {
+   "s_id": "60013544",
+   "name": "Pludry"
+ },
+ {
+   "s_id": "60013554",
+   "name": "Pokrzywnica"
+ },
+ {
+   "s_id": "60013564",
+   "name": "Popielów"
+ },
+ {
+   "s_id": "60013573",
+   "name": "Prudnik"
+ },
+ {
+   "s_id": "60013584",
+   "name": "Przecza"
+ },
+ {
+   "s_id": "60013594",
+   "name": "Przywory Opolskie"
+ },
+ {
+   "s_id": "60013604",
+   "name": "Racławice Śląskie"
+ },
+ {
+   "s_id": "60013614",
+   "name": "Rogalice"
+ },
+ {
+   "s_id": "60013624",
+   "name": "Skoroszyce"
+ },
+ {
+   "s_id": "60013634",
+   "name": "Smardy"
+ },
+ {
+   "s_id": "60013644",
+   "name": "Sowczyce"
+ },
+ {
+   "s_id": "60013654",
+   "name": "Sowin"
+ },
+ {
+   "s_id": "60013664",
+   "name": "Staniszcze Małe"
+ },
+ {
+   "s_id": "60013674",
+   "name": "Starczów"
+ },
+ {
+   "s_id": "60013684",
+   "name": "Stare Olesno"
+ },
+ {
+   "s_id": "60013694",
+   "name": "Stary Grodków"
+ },
+ {
+   "s_id": "60013703",
+   "name": "Strzelce Opolskie"
+ },
+ {
+   "s_id": "60013713",
+   "name": "Strzelin"
+ },
+ {
+   "s_id": "60013724",
+   "name": "Suchy Bór Opolski"
+ },
+ {
+   "s_id": "60013734",
+   "name": "Suszka"
+ },
+ {
+   "s_id": "60013744",
+   "name": "Szybowice"
+ },
+ {
+   "s_id": "60013754",
+   "name": "Szydłów"
+ },
+ {
+   "s_id": "60013763",
+   "name": "Szymiszów"
+ },
+ {
+   "s_id": "60013774",
+   "name": "Tarnowiec Brzeski"
+ },
+ {
+   "s_id": "60013783",
+   "name": "Tarnów Opolski"
+ },
+ {
+   "s_id": "60013793",
+   "name": "Tułowice"
+ },
+ {
+   "s_id": "60013804",
+   "name": "Tuły"
+ },
+ {
+   "s_id": "60013814",
+   "name": "Twardawa"
+ },
+ {
+   "s_id": "60013824",
+   "name": "Warkocz"
+ },
+ {
+   "s_id": "60013834",
+   "name": "Węgry"
+ },
+ {
+   "s_id": "60013844",
+   "name": "Wierzbica Górna"
+ },
+ {
+   "s_id": "60013854",
+   "name": "Wilków Namysłowski"
+ },
+ {
+   "s_id": "60013863",
+   "name": "Wołczyn"
+ },
+ {
+   "s_id": "60013874",
+   "name": "Wójcice"
+ },
+ {
+   "s_id": "60013883",
+   "name": "Zawadzkie"
+ },
+ {
+   "s_id": "60013893",
+   "name": "Ząbkowice Śląskie"
+ },
+ {
+   "s_id": "60013903",
+   "name": "Ziębice"
+ },
+ {
+   "s_id": "60013914",
+   "name": "Żędowice"
+ },
+ {
+   "s_id": "60013924",
+   "name": "Żórawina"
+ },
+ {
+   "s_id": "70013934",
+   "name": "Antonin"
+ },
+ {
+   "s_id": "70013944",
+   "name": "Biadki"
+ },
+ {
+   "s_id": "70013954",
+   "name": "Biała"
+ },
+ {
+   "s_id": "70013964",
+   "name": "Biniew"
+ },
+ {
+   "s_id": "70013974",
+   "name": "Błaszki"
+ },
+ {
+   "s_id": "70013983",
+   "name": "Bojanowo"
+ },
+ {
+   "s_id": "70013994",
+   "name": "Bożacin"
+ },
+ {
+   "s_id": "70014004",
+   "name": "Bronów"
+ },
+ {
+   "s_id": "70014014",
+   "name": "Chocicza"
+ },
+ {
+   "s_id": "70014024",
+   "name": "Czastary"
+ },
+ {
+   "s_id": "70014034",
+   "name": "Czekanów"
+ },
+ {
+   "s_id": "70014044",
+   "name": "Czeluścin"
+ },
+ {
+   "s_id": "70014053",
+   "name": "Czempiń"
+ },
+ {
+   "s_id": "70014064",
+   "name": "Daniszyn"
+ },
+ {
+   "s_id": "70014074",
+   "name": "Domanin"
+ },
+ {
+   "s_id": "70014081",
+   "name": "Drużyna Poznańska"
+ },
+ {
+   "s_id": "70014094",
+   "name": "Dzierżanów Wielkopolski"
+ },
+ {
+   "s_id": "70014104",
+   "name": "Dzięczyn"
+ },
+ {
+   "s_id": "70014114",
+   "name": "Garki"
+ },
+ {
+   "s_id": "70014124",
+   "name": "Golina"
+ },
+ {
+   "s_id": "70014134",
+   "name": "Gorzupia"
+ },
+ {
+   "s_id": "70014144",
+   "name": "Górka Duchowna"
+ },
+ {
+   "s_id": "70014154",
+   "name": "Granowiec"
+ },
+ {
+   "s_id": "70014163",
+   "name": "Iłowiec"
+ },
+ {
+   "s_id": "70014174",
+   "name": "Janków Przygodzki"
+ },
+ {
+   "s_id": "70014182",
+   "name": "Jarocin"
+ },
+ {
+   "s_id": "70014194",
+   "name": "Kaczkowo"
+ },
+ {
+   "s_id": "70014202",
+   "name": "Kalisz"
+ },
+ {
+   "s_id": "70014214",
+   "name": "Kalisz Szczypiorno"
+ },
+ {
+   "s_id": "70014224",
+   "name": "Kalisz Winiary"
+ },
+ {
+   "s_id": "70014234",
+   "name": "Karzec"
+ },
+ {
+   "s_id": "70014244",
+   "name": "Kąkolewo"
+ },
+ {
+   "s_id": "70014253",
+   "name": "Kępno"
+ },
+ {
+   "s_id": "70014263",
+   "name": "Kępno PO"
+ },
+ {
+   "s_id": "70014273",
+   "name": "Kobylin"
+ },
+ {
+   "s_id": "70014283",
+   "name": "Kościan"
+ },
+ {
+   "s_id": "70014293",
+   "name": "Kotlin"
+ },
+ {
+   "s_id": "70014304",
+   "name": "Koźmin Wielkopolski"
+ },
+ {
+   "s_id": "70014314",
+   "name": "Kórnik"
+ },
+ {
+   "s_id": "70014323",
+   "name": "Krobia"
+ },
+ {
+   "s_id": "70014333",
+   "name": "Krotoszyn"
+ },
+ {
+   "s_id": "70014344",
+   "name": "Książno"
+ },
+ {
+   "s_id": "70014354",
+   "name": "Kuklinów"
+ },
+ {
+   "s_id": "70014364",
+   "name": "Lasocice"
+ },
+ {
+   "s_id": "70014372",
+   "name": "Leszno"
+ },
+ {
+   "s_id": "70014384",
+   "name": "Leszno Grzybowo"
+ },
+ {
+   "s_id": "70014394",
+   "name": "Lipno Nowe"
+ },
+ {
+   "s_id": "70014404",
+   "name": "Łąkociny"
+ },
+ {
+   "s_id": "70014414",
+   "name": "Łęka Opatowska"
+ },
+ {
+   "s_id": "70014424",
+   "name": "Męcka Wola"
+ },
+ {
+   "s_id": "70014433",
+   "name": "Mieszków"
+ },
+ {
+   "s_id": "70014444",
+   "name": "Miłosław"
+ },
+ {
+   "s_id": "70014451",
+   "name": "Mosina"
+ },
+ {
+   "s_id": "70014464",
+   "name": "Niedźwiedź Wielkopolski"
+ },
+ {
+   "s_id": "70014473",
+   "name": "Nowe Skalmierzyce"
+ },
+ {
+   "s_id": "70014484",
+   "name": "Oborzyska Stare"
+ },
+ {
+   "s_id": "70014494",
+   "name": "Obra Stara"
+ },
+ {
+   "s_id": "70014504",
+   "name": "Ociąż"
+ },
+ {
+   "s_id": "70014513",
+   "name": "Odolanów"
+ },
+ {
+   "s_id": "70014523",
+   "name": "Opatówek"
+ },
+ {
+   "s_id": "70014534",
+   "name": "Orzechowo"
+ },
+ {
+   "s_id": "70014542",
+   "name": "Ostrów Wielkopolski"
+ },
+ {
+   "s_id": "70014554",
+   "name": "Ostrów Wielkopolski Gorzyce"
+ },
+ {
+   "s_id": "70014563",
+   "name": "Ostrzeszów"
+ },
+ {
+   "s_id": "70014574",
+   "name": "Pawłowice"
+ },
+ {
+   "s_id": "70014584",
+   "name": "Pawłów Wielkopolski"
+ },
+ {
+   "s_id": "70014594",
+   "name": "Pępowo"
+ },
+ {
+   "s_id": "70014604",
+   "name": "Pieczyska"
+ },
+ {
+   "s_id": "70014614",
+   "name": "Pierzchno"
+ },
+ {
+   "s_id": "70014623",
+   "name": "Pleszew"
+ },
+ {
+   "s_id": "70014634",
+   "name": "Poniec"
+ },
+ {
+   "s_id": "70014644",
+   "name": "Przygodzice"
+ },
+ {
+   "s_id": "70014654",
+   "name": "Przysieka Stara"
+ },
+ {
+   "s_id": "70014661",
+   "name": "Puszczykowo"
+ },
+ {
+   "s_id": "70014671",
+   "name": "Puszczykówko"
+ },
+ {
+   "s_id": "70014684",
+   "name": "Radliczyce"
+ },
+ {
+   "s_id": "70014694",
+   "name": "Radlin Wielkopolski"
+ },
+ {
+   "s_id": "70014702",
+   "name": "Rawicz"
+ },
+ {
+   "s_id": "70014713",
+   "name": "Rydzyna"
+ },
+ {
+   "s_id": "70014724",
+   "name": "Sędzice"
+ },
+ {
+   "s_id": "70014732",
+   "name": "Sieradz"
+ },
+ {
+   "s_id": "70014744",
+   "name": "Sieradz Męka"
+ },
+ {
+   "s_id": "70014754",
+   "name": "Sieradz Warta"
+ },
+ {
+   "s_id": "70014764",
+   "name": "Skalmierz"
+ },
+ {
+   "s_id": "70014774",
+   "name": "Słupia"
+ },
+ {
+   "s_id": "70014784",
+   "name": "Solec Wielkopolski"
+ },
+ {
+   "s_id": "70014794",
+   "name": "Sośnie Ostrowskie"
+ },
+ {
+   "s_id": "70014803",
+   "name": "Stare Bojanowo"
+ },
+ {
+   "s_id": "70014814",
+   "name": "Stare Drzewce"
+ },
+ {
+   "s_id": "70014824",
+   "name": "Sulęcinek"
+ },
+ {
+   "s_id": "70014833",
+   "name": "Środa Wielkopolska"
+ },
+ {
+   "s_id": "70014844",
+   "name": "Świba"
+ },
+ {
+   "s_id": "70014854",
+   "name": "Taczanów"
+ },
+ {
+   "s_id": "70014864",
+   "name": "Tarchały Wielkie"
+ },
+ {
+   "s_id": "70014874",
+   "name": "Topola-Osiedle"
+ },
+ {
+   "s_id": "70014883",
+   "name": "Wieruszów"
+ },
+ {
+   "s_id": "70014894",
+   "name": "Wieruszów Miasto"
+ },
+ {
+   "s_id": "70014904",
+   "name": "Wilkowice"
+ },
+ {
+   "s_id": "70014913",
+   "name": "Witaszyce"
+ },
+ {
+   "s_id": "70014924",
+   "name": "Włostowo"
+ },
+ {
+   "s_id": "70014934",
+   "name": "Wolenice"
+ },
+ {
+   "s_id": "70014943",
+   "name": "Wschowa"
+ },
+ {
+   "s_id": "70014954",
+   "name": "Zduny"
+ },
+ {
+   "s_id": "70014964",
+   "name": "Żerków"
+ },
+ {
+   "s_id": "70014974",
+   "name": "Baborówko"
+ },
+ {
+   "s_id": "70014984",
+   "name": "Barłogi"
+ },
+ {
+   "s_id": "70014993",
+   "name": "Biskupice Wielkopolskie"
+ },
+ {
+   "s_id": "70015001",
+   "name": "Bolechowo"
+ },
+ {
+   "s_id": "70015014",
+   "name": "Budki Nowe"
+ },
+ {
+   "s_id": "70015024",
+   "name": "Budzyń"
+ },
+ {
+   "s_id": "70015033",
+   "name": "Buk"
+ },
+ {
+   "s_id": "70015044",
+   "name": "Chludowo"
+ },
+ {
+   "s_id": "70015052",
+   "name": "Chodzież"
+ },
+ {
+   "s_id": "70015064",
+   "name": "Chrośnica"
+ },
+ {
+   "s_id": "70015074",
+   "name": "Chwalibogowo"
+ },
+ {
+   "s_id": "70015084",
+   "name": "Cienin"
+ },
+ {
+   "s_id": "70015094",
+   "name": "Cienin Kościelny"
+ },
+ {
+   "s_id": "70015104",
+   "name": "Czerniejewo"
+ },
+ {
+   "s_id": "70015111",
+   "name": "Czerwonak"
+ },
+ {
+   "s_id": "70015121",
+   "name": "Czerwonak Osiedle"
+ },
+ {
+   "s_id": "70015133",
+   "name": "Dopiewo"
+ },
+ {
+   "s_id": "70015144",
+   "name": "Drawski Młyn"
+ },
+ {
+   "s_id": "70015154",
+   "name": "Fałkowo"
+ },
+ {
+   "s_id": "70015164",
+   "name": "Gądki"
+ },
+ {
+   "s_id": "70015174",
+   "name": "Gębarzewo"
+ },
+ {
+   "s_id": "70015182",
+   "name": "Gniezno"
+ },
+ {
+   "s_id": "70015194",
+   "name": "Gniezno Winiary"
+ },
+ {
+   "s_id": "70015204",
+   "name": "Golęczewo"
+ },
+ {
+   "s_id": "70015213",
+   "name": "Gołańcz"
+ },
+ {
+   "s_id": "70015224",
+   "name": "Grylewo"
+ },
+ {
+   "s_id": "70015234",
+   "name": "Gułtowy"
+ },
+ {
+   "s_id": "70015244",
+   "name": "Gutowo Wielkopolskie"
+ },
+ {
+   "s_id": "70015254",
+   "name": "Jankowo Dolne"
+ },
+ {
+   "s_id": "70015264",
+   "name": "Janowiec Wielkopolski"
+ },
+ {
+   "s_id": "70015274",
+   "name": "Jastrzębsko"
+ },
+ {
+   "s_id": "70015284",
+   "name": "Kawnice"
+ },
+ {
+   "s_id": "70015291",
+   "name": "Kiekrz"
+ },
+ {
+   "s_id": "70015304",
+   "name": "Kobylec"
+ },
+ {
+   "s_id": "70015311",
+   "name": "Kobylnica"
+ },
+ {
+   "s_id": "70015323",
+   "name": "Koło"
+ },
+ {
+   "s_id": "70015332",
+   "name": "Konin"
+ },
+ {
+   "s_id": "70015344",
+   "name": "Konin Zachód"
+ },
+ {
+   "s_id": "70015353",
+   "name": "Kostrzyn Wielkopolski"
+ },
+ {
+   "s_id": "70015364",
+   "name": "Kramsk"
+ },
+ {
+   "s_id": "70015374",
+   "name": "Laskownica"
+ },
+ {
+   "s_id": "70015384",
+   "name": "Lednogóra"
+ },
+ {
+   "s_id": "70015391",
+   "name": "Ligowiec"
+ },
+ {
+   "s_id": "70015401",
+   "name": "Luboń koło Poznania"
+ },
+ {
+   "s_id": "70015414",
+   "name": "Łopuchowo"
+ },
+ {
+   "s_id": "70015424",
+   "name": "Łopuchowo Osiedle"
+ },
+ {
+   "s_id": "70015434",
+   "name": "Marzenin"
+ },
+ {
+   "s_id": "70015444",
+   "name": "Miały"
+ },
+ {
+   "s_id": "70015454",
+   "name": "Milcz"
+ },
+ {
+   "s_id": "70015464",
+   "name": "Mokrz"
+ },
+ {
+   "s_id": "70015473",
+   "name": "Murowana Goślina"
+ },
+ {
+   "s_id": "70015483",
+   "name": "Nekla"
+ },
+ {
+   "s_id": "70015493",
+   "name": "Nowy Tomyśl"
+ },
+ {
+   "s_id": "70015503",
+   "name": "Oborniki Wielkopolskie"
+ },
+ {
+   "s_id": "70015513",
+   "name": "Oborniki Wielkopolskie Miasto"
+ },
+ {
+   "s_id": "70015523",
+   "name": "Opalenica"
+ },
+ {
+   "s_id": "70015534",
+   "name": "Ostrówki koło Chodzieży"
+ },
+ {
+   "s_id": "70015544",
+   "name": "Otoczna"
+ },
+ {
+   "s_id": "70015553",
+   "name": "Otusz"
+ },
+ {
+   "s_id": "70015561",
+   "name": "Owińska"
+ },
+ {
+   "s_id": "70015574",
+   "name": "Paczkowo"
+ },
+ {
+   "s_id": "70015583",
+   "name": "Palędzie"
+ },
+ {
+   "s_id": "70015594",
+   "name": "Pamiątkowo"
+ },
+ {
+   "s_id": "70015604",
+   "name": "Parkowo"
+ },
+ {
+   "s_id": "70015614",
+   "name": "Pęckowo"
+ },
+ {
+   "s_id": "70015624",
+   "name": "Pierzyska"
+ },
+ {
+   "s_id": "70015633",
+   "name": "Pobiedziska"
+ },
+ {
+   "s_id": "70015644",
+   "name": "Pobiedziska Letnisko"
+ },
+ {
+   "s_id": "70015654",
+   "name": "Podstolice"
+ },
+ {
+   "s_id": "70015664",
+   "name": "Porażyn"
+ },
+ {
+   "s_id": "70015671",
+   "name": "Poznań Antoninek"
+ },
+ {
+   "s_id": "70015681",
+   "name": "Poznań Dębiec"
+ },
+ {
+   "s_id": "70015691",
+   "name": "Poznań Dębina"
+ },
+ {
+   "s_id": "70015701",
+   "name": "Poznań Garbary"
+ },
+ {
+   "s_id": "70015710",
+   "name": "Poznań Główny"
+ },
+ {
+   "s_id": "70015721",
+   "name": "Poznań Górczyn"
+ },
+ {
+   "s_id": "70015731",
+   "name": "Poznań Junikowo"
+ },
+ {
+   "s_id": "70015741",
+   "name": "Poznań Karolin"
+ },
+ {
+   "s_id": "70015751",
+   "name": "Poznań Krzesiny"
+ },
+ {
+   "s_id": "70015761",
+   "name": "Poznań Starołęka"
+ },
+ {
+   "s_id": "70015771",
+   "name": "Poznań Strzeszyn"
+ },
+ {
+   "s_id": "70015781",
+   "name": "Poznań Wola"
+ },
+ {
+   "s_id": "70015791",
+   "name": "Poznań Wschód"
+ },
+ {
+   "s_id": "70015804",
+   "name": "Promno"
+ },
+ {
+   "s_id": "70015814",
+   "name": "Przebędowo"
+ },
+ {
+   "s_id": "70015824",
+   "name": "Przysieczyn"
+ },
+ {
+   "s_id": "70015834",
+   "name": "Ptaszkowo"
+ },
+ {
+   "s_id": "70015843",
+   "name": "Rogoźno Wielkopolskie"
+ },
+ {
+   "s_id": "70015851",
+   "name": "Rokietnica"
+ },
+ {
+   "s_id": "70015864",
+   "name": "Roszkowo Wągrowieckie"
+ },
+ {
+   "s_id": "70015874",
+   "name": "Rożnowo"
+ },
+ {
+   "s_id": "70015884",
+   "name": "Sątopy"
+ },
+ {
+   "s_id": "70015894",
+   "name": "Skoki"
+ },
+ {
+   "s_id": "70015903",
+   "name": "Sława Wielkopolska"
+ },
+ {
+   "s_id": "70015913",
+   "name": "Słupca"
+ },
+ {
+   "s_id": "70015924",
+   "name": "Sokołowo Budzyńskie"
+ },
+ {
+   "s_id": "70015934",
+   "name": "Spławie"
+ },
+ {
+   "s_id": "70015943",
+   "name": "Strzałkowo"
+ },
+ {
+   "s_id": "70015951",
+   "name": "Swarzędz"
+ },
+ {
+   "s_id": "70015963",
+   "name": "Szamotuły"
+ },
+ {
+   "s_id": "70015974",
+   "name": "Tarnowo Rogozińskie"
+ },
+ {
+   "s_id": "70015983",
+   "name": "Trzemeszno"
+ },
+ {
+   "s_id": "70015994",
+   "name": "Wargowo"
+ },
+ {
+   "s_id": "70016003",
+   "name": "Wągrowiec"
+ },
+ {
+   "s_id": "70016013",
+   "name": "Wojnowice Wielkopolskie"
+ },
+ {
+   "s_id": "70016024",
+   "name": "Wólka"
+ },
+ {
+   "s_id": "70016033",
+   "name": "Wronki"
+ },
+ {
+   "s_id": "70016042",
+   "name": "Września"
+ },
+ {
+   "s_id": "70016054",
+   "name": "Wydartowo"
+ },
+ {
+   "s_id": "70016064",
+   "name": "Zielone Wzgórza"
+ },
+ {
+   "s_id": "70016071",
+   "name": "Złotniki"
+ },
+ {
+   "s_id": "70016084",
+   "name": "Żydowo"
+ },
+ {
+   "s_id": "30016094",
+   "name": "Babica"
+ },
+ {
+   "s_id": "30016104",
+   "name": "Babica Kolonia"
+ },
+ {
+   "s_id": "30016114",
+   "name": "Basznia"
+ },
+ {
+   "s_id": "30016124",
+   "name": "Basznia Dolna"
+ },
+ {
+   "s_id": "30016134",
+   "name": "Besko"
+ },
+ {
+   "s_id": "30016144",
+   "name": "Będziemyśl"
+ },
+ {
+   "s_id": "30016154",
+   "name": "Bobrówka"
+ },
+ {
+   "s_id": "30016164",
+   "name": "Boguchwała"
+ },
+ {
+   "s_id": "30016174",
+   "name": "Budy Głogowskie"
+ },
+ {
+   "s_id": "30016184",
+   "name": "Chorzelów"
+ },
+ {
+   "s_id": "30016194",
+   "name": "Cmolas"
+ },
+ {
+   "s_id": "30016204",
+   "name": "Czaszyn"
+ },
+ {
+   "s_id": "30016214",
+   "name": "Czudec"
+ },
+ {
+   "s_id": "30016224",
+   "name": "Dąbie koło Dębicy"
+ },
+ {
+   "s_id": "30016232",
+   "name": "Dębica"
+ },
+ {
+   "s_id": "30016244",
+   "name": "Dębica Wschodnia"
+ },
+ {
+   "s_id": "30016254",
+   "name": "Długie"
+ },
+ {
+   "s_id": "30016264",
+   "name": "Dobrzechów"
+ },
+ {
+   "s_id": "30016274",
+   "name": "Dziewięcierz"
+ },
+ {
+   "s_id": "30016284",
+   "name": "Frysztak"
+ },
+ {
+   "s_id": "30016294",
+   "name": "Gliniczek"
+ },
+ {
+   "s_id": "30016302",
+   "name": "Głogów Małopolski"
+ },
+ {
+   "s_id": "30016314",
+   "name": "Głuchów"
+ },
+ {
+   "s_id": "30016324",
+   "name": "Gniewczyna"
+ },
+ {
+   "s_id": "30016334",
+   "name": "Grodzisko Dolne"
+ },
+ {
+   "s_id": "30016344",
+   "name": "Grzęska"
+ },
+ {
+   "s_id": "30016354",
+   "name": "Hermanowice"
+ },
+ {
+   "s_id": "30016363",
+   "name": "Horyniec-Zdrój"
+ },
+ {
+   "s_id": "30016374",
+   "name": "Hurko"
+ },
+ {
+   "s_id": "30016384",
+   "name": "Huta Komorowska"
+ },
+ {
+   "s_id": "30016392",
+   "name": "Jarosław"
+ },
+ {
+   "s_id": "30016403",
+   "name": "Jasło"
+ },
+ {
+   "s_id": "30016414",
+   "name": "Jasło Fabryczne"
+ },
+ {
+   "s_id": "30016424",
+   "name": "Jasło Niegłowice"
+ },
+ {
+   "s_id": "30016434",
+   "name": "Jaślany"
+ },
+ {
+   "s_id": "30016443",
+   "name": "Jedlicze"
+ },
+ {
+   "s_id": "30016454",
+   "name": "Jedlicze Męcinka"
+ },
+ {
+   "s_id": "30016464",
+   "name": "Jelna"
+ },
+ {
+   "s_id": "30016474",
+   "name": "Kalembina"
+ },
+ {
+   "s_id": "30016484",
+   "name": "Kochanówka Pustków"
+ },
+ {
+   "s_id": "30016493",
+   "name": "Kolbuszowa"
+ },
+ {
+   "s_id": "30016504",
+   "name": "Komańcza"
+ },
+ {
+   "s_id": "30016514",
+   "name": "Komańcza Letnisko"
+ },
+ {
+   "s_id": "30016524",
+   "name": "Komorów Podmurynia"
+ },
+ {
+   "s_id": "30016534",
+   "name": "Korzenica"
+ },
+ {
+   "s_id": "30016544",
+   "name": "Kosina"
+ },
+ {
+   "s_id": "30016553",
+   "name": "Krosno"
+ },
+ {
+   "s_id": "30016563",
+   "name": "Krosno Miasto"
+ },
+ {
+   "s_id": "30016574",
+   "name": "Krosno Polanka"
+ },
+ {
+   "s_id": "30016584",
+   "name": "Krosno Turaszówka"
+ },
+ {
+   "s_id": "30016594",
+   "name": "Krzemienica"
+ },
+ {
+   "s_id": "30016604",
+   "name": "Lesko Łukawica"
+ },
+ {
+   "s_id": "30016613",
+   "name": "Leżajsk"
+ },
+ {
+   "s_id": "30016623",
+   "name": "Lubaczów"
+ },
+ {
+   "s_id": "30016634",
+   "name": "Lubzina"
+ },
+ {
+   "s_id": "30016643",
+   "name": "Łańcut"
+ },
+ {
+   "s_id": "30016654",
+   "name": "Łętownia"
+ },
+ {
+   "s_id": "30016664",
+   "name": "Łupków"
+ },
+ {
+   "s_id": "30016674",
+   "name": "Majdan Królewski"
+ },
+ {
+   "s_id": "30016684",
+   "name": "Majdan Królewski Podlasek"
+ },
+ {
+   "s_id": "30016694",
+   "name": "Markuszowa"
+ },
+ {
+   "s_id": "30016704",
+   "name": "Medyka"
+ },
+ {
+   "s_id": "30016714",
+   "name": "Medyka Rozrządowa"
+ },
+ {
+   "s_id": "30016724",
+   "name": "Medyka Towarowa"
+ },
+ {
+   "s_id": "30016734",
+   "name": "Mielec"
+ },
+ {
+   "s_id": "30016744",
+   "name": "Milcza"
+ },
+ {
+   "s_id": "30016754",
+   "name": "Miłocin"
+ },
+ {
+   "s_id": "30016764",
+   "name": "Mokre Małopolskie"
+ },
+ {
+   "s_id": "30016774",
+   "name": "Morochów"
+ },
+ {
+   "s_id": "30016784",
+   "name": "Munina"
+ },
+ {
+   "s_id": "30016794",
+   "name": "Niziny"
+ },
+ {
+   "s_id": "30016804",
+   "name": "Nowa Grobla"
+ },
+ {
+   "s_id": "30016813",
+   "name": "Nowa Sarzyna"
+ },
+ {
+   "s_id": "30016824",
+   "name": "Nowa Sarzyna Kolonia"
+ },
+ {
+   "s_id": "30016834",
+   "name": "Nowosielce"
+ },
+ {
+   "s_id": "30016844",
+   "name": "Nowy Łupków"
+ },
+ {
+   "s_id": "30016854",
+   "name": "Nowy Zagórz"
+ },
+ {
+   "s_id": "30016864",
+   "name": "Oleszyce"
+ },
+ {
+   "s_id": "30016874",
+   "name": "Osławica"
+ },
+ {
+   "s_id": "30016884",
+   "name": "Ostrów koło Radymna"
+ },
+ {
+   "s_id": "30016894",
+   "name": "Padew"
+ },
+ {
+   "s_id": "30016904",
+   "name": "Pełkinie"
+ },
+ {
+   "s_id": "30016914",
+   "name": "Przecław Tuszyma"
+ },
+ {
+   "s_id": "30016924",
+   "name": "Przemyśl Bakończyce"
+ },
+ {
+   "s_id": "30016932",
+   "name": "Przemyśl Główny"
+ },
+ {
+   "s_id": "30016944",
+   "name": "Przemyśl Pikulice"
+ },
+ {
+   "s_id": "30016953",
+   "name": "Przemyśl Zasanie"
+ },
+ {
+   "s_id": "30016962",
+   "name": "Przeworsk"
+ },
+ {
+   "s_id": "30016974",
+   "name": "Przybówka"
+ },
+ {
+   "s_id": "30016984",
+   "name": "Przysieki"
+ },
+ {
+   "s_id": "30016994",
+   "name": "Pustków"
+ },
+ {
+   "s_id": "30017004",
+   "name": "Pustynia"
+ },
+ {
+   "s_id": "30017013",
+   "name": "Radymno"
+ },
+ {
+   "s_id": "30017024",
+   "name": "Rogoźnica koło Rzeszowa"
+ },
+ {
+   "s_id": "30017034",
+   "name": "Rogóżno koło Łańcuta"
+ },
+ {
+   "s_id": "30017043",
+   "name": "Ropczyce"
+ },
+ {
+   "s_id": "30017054",
+   "name": "Ropczyce Witkowice"
+ },
+ {
+   "s_id": "30017064",
+   "name": "Rudna Wielka"
+ },
+ {
+   "s_id": "30017073",
+   "name": "Rudnik nad Sanem"
+ },
+ {
+   "s_id": "30017084",
+   "name": "Rudnik Stróża"
+ },
+ {
+   "s_id": "30017094",
+   "name": "Rzemień"
+ },
+ {
+   "s_id": "30017104",
+   "name": "Rzepedź"
+ },
+ {
+   "s_id": "30017110",
+   "name": "Rzeszów Główny"
+ },
+ {
+   "s_id": "30017121",
+   "name": "Rzeszów Osiedle"
+ },
+ {
+   "s_id": "30017131",
+   "name": "Rzeszów Staroniwa"
+ },
+ {
+   "s_id": "30017141",
+   "name": "Rzeszów Załęże"
+ },
+ {
+   "s_id": "30017151",
+   "name": "Rzeszów Zwięczyca"
+ },
+ {
+   "s_id": "30017164",
+   "name": "Rzochów"
+ },
+ {
+   "s_id": "30017173",
+   "name": "Sanok"
+ },
+ {
+   "s_id": "30017184",
+   "name": "Sanok Dąbrówka"
+ },
+ {
+   "s_id": "30017193",
+   "name": "Sanok Miasto"
+ },
+ {
+   "s_id": "30017203",
+   "name": "Sędziszów Małopolski"
+ },
+ {
+   "s_id": "30017214",
+   "name": "Siepietnica"
+ },
+ {
+   "s_id": "30017224",
+   "name": "Skołyszyn"
+ },
+ {
+   "s_id": "30017234",
+   "name": "Sośnica Jarosławska"
+ },
+ {
+   "s_id": "30017244",
+   "name": "Strażów"
+ },
+ {
+   "s_id": "30017253",
+   "name": "Strzyżów nad Wisłokiem"
+ },
+ {
+   "s_id": "30017264",
+   "name": "Surochów"
+ },
+ {
+   "s_id": "30017274",
+   "name": "Szczawne Kulaszne"
+ },
+ {
+   "s_id": "30017284",
+   "name": "Szebnie"
+ },
+ {
+   "s_id": "30017294",
+   "name": "Świlcza"
+ },
+ {
+   "s_id": "30017304",
+   "name": "Targowiska"
+ },
+ {
+   "s_id": "30017314",
+   "name": "Tarnawa Dolna"
+ },
+ {
+   "s_id": "30017324",
+   "name": "Tarnowiec"
+ },
+ {
+   "s_id": "30017334",
+   "name": "Tryńcza"
+ },
+ {
+   "s_id": "30017344",
+   "name": "Trzciana"
+ },
+ {
+   "s_id": "30017354",
+   "name": "Tuszów Narodowy"
+ },
+ {
+   "s_id": "30017364",
+   "name": "Walawa"
+ },
+ {
+   "s_id": "30017374",
+   "name": "Werchrata"
+ },
+ {
+   "s_id": "30017384",
+   "name": "Widacz"
+ },
+ {
+   "s_id": "30017394",
+   "name": "Widełka"
+ },
+ {
+   "s_id": "30017404",
+   "name": "Wierzawice"
+ },
+ {
+   "s_id": "30017414",
+   "name": "Wisłoczanka"
+ },
+ {
+   "s_id": "30017424",
+   "name": "Wiśniowa"
+ },
+ {
+   "s_id": "30017434",
+   "name": "Wojaszówka"
+ },
+ {
+   "s_id": "30017444",
+   "name": "Wojsław"
+ },
+ {
+   "s_id": "30017454",
+   "name": "Wróblik Szlachecki"
+ },
+ {
+   "s_id": "30017464",
+   "name": "Wysoczany"
+ },
+ {
+   "s_id": "30017474",
+   "name": "Zaborów"
+ },
+ {
+   "s_id": "30017484",
+   "name": "Zaborów Błonia"
+ },
+ {
+   "s_id": "30017494",
+   "name": "Zaczernie"
+ },
+ {
+   "s_id": "30017503",
+   "name": "Zagórz"
+ },
+ {
+   "s_id": "30017514",
+   "name": "Zagrody"
+ },
+ {
+   "s_id": "30017524",
+   "name": "Zarębki"
+ },
+ {
+   "s_id": "30017534",
+   "name": "Zarszyn"
+ },
+ {
+   "s_id": "30017543",
+   "name": "Żurawica"
+ },
+ {
+   "s_id": "30017554",
+   "name": "Żurawica Rozrządowa"
+ },
+ {
+   "s_id": "10017564",
+   "name": "Barchów"
+ },
+ {
+   "s_id": "10017574",
+   "name": "Barcząca"
+ },
+ {
+   "s_id": "10017582",
+   "name": "Biała Podlaska"
+ },
+ {
+   "s_id": "10017594",
+   "name": "Białki Siedleckie"
+ },
+ {
+   "s_id": "10017604",
+   "name": "Borki-Kosy"
+ },
+ {
+   "s_id": "10017614",
+   "name": "Brzozowica"
+ },
+ {
+   "s_id": "10017623",
+   "name": "Cegłów"
+ },
+ {
+   "s_id": "10017633",
+   "name": "Chotyłów"
+ },
+ {
+   "s_id": "10017644",
+   "name": "Chrzęsne"
+ },
+ {
+   "s_id": "10017654",
+   "name": "Cierpigórz"
+ },
+ {
+   "s_id": "10017663",
+   "name": "Cisie"
+ },
+ {
+   "s_id": "10017674",
+   "name": "Czachówek Wschodni"
+ },
+ {
+   "s_id": "10017684",
+   "name": "Dalekie"
+ },
+ {
+   "s_id": "10017693",
+   "name": "Dębe Wielkie"
+ },
+ {
+   "s_id": "10017704",
+   "name": "Dobrynka"
+ },
+ {
+   "s_id": "10017714",
+   "name": "Dziewule"
+ },
+ {
+   "s_id": "10017724",
+   "name": "Fronołów"
+ },
+ {
+   "s_id": "10017734",
+   "name": "Gierwaty"
+ },
+ {
+   "s_id": "10017744",
+   "name": "Goworowo"
+ },
+ {
+   "s_id": "10017753",
+   "name": "Góra Kalwaria"
+ },
+ {
+   "s_id": "10017764",
+   "name": "Grodziszcze Mazowieckie"
+ },
+ {
+   "s_id": "10017774",
+   "name": "Grzegorzewo"
+ },
+ {
+   "s_id": "10017783",
+   "name": "Halinów"
+ },
+ {
+   "s_id": "10017794",
+   "name": "Huta Czechy"
+ },
+ {
+   "s_id": "10017804",
+   "name": "Jarzębia Łąka"
+ },
+ {
+   "s_id": "10017814",
+   "name": "Kobylany"
+ },
+ {
+   "s_id": "10017824",
+   "name": "Kosiorki"
+ },
+ {
+   "s_id": "10017834",
+   "name": "Koszewnica"
+ },
+ {
+   "s_id": "10017843",
+   "name": "Kotuń"
+ },
+ {
+   "s_id": "10017854",
+   "name": "Krusze"
+ },
+ {
+   "s_id": "10017864",
+   "name": "Krynka Łukowska"
+ },
+ {
+   "s_id": "10017874",
+   "name": "Krzymosze"
+ },
+ {
+   "s_id": "10017884",
+   "name": "Leszczydół"
+ },
+ {
+   "s_id": "10017894",
+   "name": "Lucynów"
+ },
+ {
+   "s_id": "10017903",
+   "name": "Łochów"
+ },
+ {
+   "s_id": "10017912",
+   "name": "Łuków"
+ },
+ {
+   "s_id": "10017924",
+   "name": "Łuków Łapiguz"
+ },
+ {
+   "s_id": "10017934",
+   "name": "Łuków Zapowiednik"
+ },
+ {
+   "s_id": "10017944",
+   "name": "Małaszewicze Przystanek"
+ },
+ {
+   "s_id": "10017953",
+   "name": "Małkinia"
+ },
+ {
+   "s_id": "10017964",
+   "name": "Matysy"
+ },
+ {
+   "s_id": "10017974",
+   "name": "Mienia"
+ },
+ {
+   "s_id": "10017983",
+   "name": "Międzyrzec Podlaski"
+ },
+ {
+   "s_id": "10017992",
+   "name": "Mińsk Mazowiecki"
+ },
+ {
+   "s_id": "10018004",
+   "name": "Mińsk Mazowiecki Anielina"
+ },
+ {
+   "s_id": "10018014",
+   "name": "Misie"
+ },
+ {
+   "s_id": "10018024",
+   "name": "Mokra Wieś"
+ },
+ {
+   "s_id": "10018034",
+   "name": "Mordy"
+ },
+ {
+   "s_id": "10018044",
+   "name": "Mordy Miasto"
+ },
+ {
+   "s_id": "10018054",
+   "name": "Mostówka"
+ },
+ {
+   "s_id": "10018063",
+   "name": "Mrozy"
+ },
+ {
+   "s_id": "10018074",
+   "name": "Niemojki"
+ },
+ {
+   "s_id": "10018083",
+   "name": "Nowe Dębe Wielkie"
+ },
+ {
+   "s_id": "10018094",
+   "name": "Ogrodniki"
+ },
+ {
+   "s_id": "10018103",
+   "name": "Ostrołęka"
+ },
+ {
+   "s_id": "10018114",
+   "name": "Ostrówek Węgrowski"
+ },
+ {
+   "s_id": "10018124",
+   "name": "Pasieki"
+ },
+ {
+   "s_id": "10018134",
+   "name": "Patków"
+ },
+ {
+   "s_id": "10018144",
+   "name": "Perkowice"
+ },
+ {
+   "s_id": "10018153",
+   "name": "Pilawa"
+ },
+ {
+   "s_id": "10018164",
+   "name": "Platerów"
+ },
+ {
+   "s_id": "10018174",
+   "name": "Porosiuki"
+ },
+ {
+   "s_id": "10018184",
+   "name": "Prabuty Góry"
+ },
+ {
+   "s_id": "10018194",
+   "name": "Prostyń"
+ },
+ {
+   "s_id": "10018203",
+   "name": "Przetycz"
+ },
+ {
+   "s_id": "10018214",
+   "name": "Radomyśl"
+ },
+ {
+   "s_id": "10018224",
+   "name": "Radzymin"
+ },
+ {
+   "s_id": "10018233",
+   "name": "Rybienko"
+ },
+ {
+   "s_id": "10018244",
+   "name": "Sabinka"
+ },
+ {
+   "s_id": "10018254",
+   "name": "Sadowne Węgrowskie"
+ },
+ {
+   "s_id": "10018264",
+   "name": "Sarnaki"
+ },
+ {
+   "s_id": "10018272",
+   "name": "Siedlce"
+ },
+ {
+   "s_id": "10018284",
+   "name": "Siedlce Wschodnie"
+ },
+ {
+   "s_id": "10018293",
+   "name": "Siedlce Zachodnie"
+ },
+ {
+   "s_id": "10018304",
+   "name": "Sitno"
+ },
+ {
+   "s_id": "10018314",
+   "name": "Sokule"
+ },
+ {
+   "s_id": "10018324",
+   "name": "Sosnowe"
+ },
+ {
+   "s_id": "10018334",
+   "name": "Stok Lacki"
+ },
+ {
+   "s_id": "10018341",
+   "name": "Sulejówek Miłosna"
+ },
+ {
+   "s_id": "10018354",
+   "name": "Szachy"
+ },
+ {
+   "s_id": "10018364",
+   "name": "Szaniawy"
+ },
+ {
+   "s_id": "10018374",
+   "name": "Szewnica"
+ },
+ {
+   "s_id": "10018382",
+   "name": "Terespol"
+ },
+ {
+   "s_id": "10018391",
+   "name": "Tłuszcz"
+ },
+ {
+   "s_id": "10018404",
+   "name": "Topór"
+ },
+ {
+   "s_id": "10018413",
+   "name": "Urle"
+ },
+ {
+   "s_id": "10018423",
+   "name": "Wrzosów"
+ },
+ {
+   "s_id": "10018433",
+   "name": "Wyszków"
+ },
+ {
+   "s_id": "10018444",
+   "name": "Zygmuntowo Mazowieckie"
+ },
+ {
+   "s_id": "20018454",
+   "name": "Antoniów"
+ },
+ {
+   "s_id": "20018464",
+   "name": "Antoniówka"
+ },
+ {
+   "s_id": "20018474",
+   "name": "Bartodzieje"
+ },
+ {
+   "s_id": "20018484",
+   "name": "Bąkowiec"
+ },
+ {
+   "s_id": "20018494",
+   "name": "Bieliny Opoczyńskie"
+ },
+ {
+   "s_id": "20018504",
+   "name": "Bliżyn"
+ },
+ {
+   "s_id": "20018514",
+   "name": "Bodzechów"
+ },
+ {
+   "s_id": "20018524",
+   "name": "Boksycka"
+ },
+ {
+   "s_id": "20018534",
+   "name": "Bratków"
+ },
+ {
+   "s_id": "20018544",
+   "name": "Brody Iłżeckie"
+ },
+ {
+   "s_id": "20018554",
+   "name": "Brzask"
+ },
+ {
+   "s_id": "20018564",
+   "name": "Brzustowa Opatowska"
+ },
+ {
+   "s_id": "20018574",
+   "name": "Brzustów"
+ },
+ {
+   "s_id": "20018584",
+   "name": "Chronów"
+ },
+ {
+   "s_id": "20018594",
+   "name": "Chynów"
+ },
+ {
+   "s_id": "20018604",
+   "name": "Czarniecka Góra"
+ },
+ {
+   "s_id": "20018614",
+   "name": "Ćmielów"
+ },
+ {
+   "s_id": "20018624",
+   "name": "Dęba Opoczyńska"
+ },
+ {
+   "s_id": "20018634",
+   "name": "Dobieszyn"
+ },
+ {
+   "s_id": "20018644",
+   "name": "Drygulec"
+ },
+ {
+   "s_id": "20018654",
+   "name": "Drzewica"
+ },
+ {
+   "s_id": "20018664",
+   "name": "Dwikozy"
+ },
+ {
+   "s_id": "20018673",
+   "name": "Garbatka-Letnisko"
+ },
+ {
+   "s_id": "20018684",
+   "name": "Gąsawy Plebańskie"
+ },
+ {
+   "s_id": "20018694",
+   "name": "Gilów"
+ },
+ {
+   "s_id": "20018704",
+   "name": "Gośniewice"
+ },
+ {
+   "s_id": "20018714",
+   "name": "Grabów nad Pilicą"
+ },
+ {
+   "s_id": "20018724",
+   "name": "Jakubowice"
+ },
+ {
+   "s_id": "20018734",
+   "name": "Jasice"
+ },
+ {
+   "s_id": "20018744",
+   "name": "Jastrząb"
+ },
+ {
+   "s_id": "20018754",
+   "name": "Jedlnia Kościelna"
+ },
+ {
+   "s_id": "20018763",
+   "name": "Jedlnia-Letnisko"
+ },
+ {
+   "s_id": "20018774",
+   "name": "Jeleń"
+ },
+ {
+   "s_id": "20018784",
+   "name": "Kończyce Radomskie"
+ },
+ {
+   "s_id": "20018794",
+   "name": "Końskie"
+ },
+ {
+   "s_id": "20018804",
+   "name": "Kornica"
+ },
+ {
+   "s_id": "20018814",
+   "name": "Krężel"
+ },
+ {
+   "s_id": "20018824",
+   "name": "Kruszyna"
+ },
+ {
+   "s_id": "20018833",
+   "name": "Kunów"
+ },
+ {
+   "s_id": "20018844",
+   "name": "Lesiów"
+ },
+ {
+   "s_id": "20018854",
+   "name": "Lipowe Pole"
+ },
+ {
+   "s_id": "20018864",
+   "name": "Marcinków"
+ },
+ {
+   "s_id": "20018874",
+   "name": "Metan"
+ },
+ {
+   "s_id": "20018884",
+   "name": "Michalczew"
+ },
+ {
+   "s_id": "20018893",
+   "name": "Opoczno"
+ },
+ {
+   "s_id": "20018903",
+   "name": "Opoczno Południe"
+ },
+ {
+   "s_id": "20018912",
+   "name": "Ostrowiec Świętokrzyski"
+ },
+ {
+   "s_id": "20018924",
+   "name": "Petrykozy"
+ },
+ {
+   "s_id": "20018933",
+   "name": "Pionki"
+ },
+ {
+   "s_id": "20018944",
+   "name": "Pionki Zachodnie"
+ },
+ {
+   "s_id": "20018954",
+   "name": "Podbór"
+ },
+ {
+   "s_id": "20018964",
+   "name": "Przysucha"
+ },
+ {
+   "s_id": "20018972",
+   "name": "Radom"
+ },
+ {
+   "s_id": "20018984",
+   "name": "Radom Południowy"
+ },
+ {
+   "s_id": "20018994",
+   "name": "Radom Potkanów"
+ },
+ {
+   "s_id": "20019004",
+   "name": "Radzice"
+ },
+ {
+   "s_id": "20019014",
+   "name": "Rajec Poduchowny"
+ },
+ {
+   "s_id": "20019024",
+   "name": "Rożki"
+ },
+ {
+   "s_id": "20019034",
+   "name": "Ruda Białaczowska"
+ },
+ {
+   "s_id": "20019044",
+   "name": "Ruda Wielka"
+ },
+ {
+   "s_id": "20019053",
+   "name": "Sandomierz"
+ },
+ {
+   "s_id": "20019064",
+   "name": "Sitowa"
+ },
+ {
+   "s_id": "20019074",
+   "name": "Skarżysko Kościelne"
+ },
+ {
+   "s_id": "20019084",
+   "name": "Skarżysko Milica"
+ },
+ {
+   "s_id": "20019094",
+   "name": "Skarżysko Zachodnie"
+ },
+ {
+   "s_id": "20019102",
+   "name": "Skarżysko-Kamienna"
+ },
+ {
+   "s_id": "20019114",
+   "name": "Skrzynno"
+ },
+ {
+   "s_id": "20019124",
+   "name": "Słomianka"
+ },
+ {
+   "s_id": "20019134",
+   "name": "Smogorzów Przysuski"
+ },
+ {
+   "s_id": "20019144",
+   "name": "Sołtyków"
+ },
+ {
+   "s_id": "20019154",
+   "name": "Spała"
+ },
+ {
+   "s_id": "20019164",
+   "name": "Starachowice"
+ },
+ {
+   "s_id": "20019174",
+   "name": "Starachowice Michałów"
+ },
+ {
+   "s_id": "20019183",
+   "name": "Starachowice Wschodnie"
+ },
+ {
+   "s_id": "20019194",
+   "name": "Staw Kunowski"
+ },
+ {
+   "s_id": "20019204",
+   "name": "Stąporków"
+ },
+ {
+   "s_id": "20019214",
+   "name": "Strzyżyna"
+ },
+ {
+   "s_id": "20019224",
+   "name": "Styków Iłżecki"
+ },
+ {
+   "s_id": "20019234",
+   "name": "Sułkowice"
+ },
+ {
+   "s_id": "20019244",
+   "name": "Szadkowice"
+ },
+ {
+   "s_id": "20019253",
+   "name": "Szydłowiec"
+ },
+ {
+   "s_id": "20019262",
+   "name": "Tomaszów Mazowiecki"
+ },
+ {
+   "s_id": "20019274",
+   "name": "Tomaszów Mazowiecki Białobrzegi"
+ },
+ {
+   "s_id": "20019283",
+   "name": "Warka"
+ },
+ {
+   "s_id": "20019293",
+   "name": "Wąchock"
+ },
+ {
+   "s_id": "20019304",
+   "name": "Wieniawa"
+ },
+ {
+   "s_id": "20019314",
+   "name": "Wola Bierwiecka"
+ },
+ {
+   "s_id": "20019324",
+   "name": "Wola Lipieniecka"
+ },
+ {
+   "s_id": "20019334",
+   "name": "Wolanów"
+ },
+ {
+   "s_id": "20019344",
+   "name": "Zajezierze koło Dęblina"
+ },
+ {
+   "s_id": "20019354",
+   "name": "Zygmuntów"
+ },
+ {
+   "s_id": "20019364",
+   "name": "Żytkowice"
+ },
+ {
+   "s_id": "40019372",
+   "name": "Bielsko-Biała Główna"
+ },
+ {
+   "s_id": "40019384",
+   "name": "Bielsko-Biała Komorowice"
+ },
+ {
+   "s_id": "40019393",
+   "name": "Bielsko-Biała Leszczyny"
+ },
+ {
+   "s_id": "40019403",
+   "name": "Bielsko-Biała Lipnik"
+ },
+ {
+   "s_id": "40019413",
+   "name": "Bielsko-Biała Mikuszowice"
+ },
+ {
+   "s_id": "40019424",
+   "name": "Bielsko-Biała Północ"
+ },
+ {
+   "s_id": "40019434",
+   "name": "Bielsko-Biała Wschód"
+ },
+ {
+   "s_id": "40019444",
+   "name": "Chełm Śląski"
+ },
+ {
+   "s_id": "40019451",
+   "name": "Chorzów Batory"
+ },
+ {
+   "s_id": "40019463",
+   "name": "Chybie"
+ },
+ {
+   "s_id": "40019474",
+   "name": "Chybie Mnich"
+ },
+ {
+   "s_id": "40019482",
+   "name": "Cieszyn"
+ },
+ {
+   "s_id": "40019494",
+   "name": "Cieszyn Marklowice"
+ },
+ {
+   "s_id": "40019504",
+   "name": "Cięcina"
+ },
+ {
+   "s_id": "40019514",
+   "name": "Cięcina Dolna"
+ },
+ {
+   "s_id": "40019524",
+   "name": "Cisiec"
+ },
+ {
+   "s_id": "40019532",
+   "name": "Czechowice-Dziedzice"
+ },
+ {
+   "s_id": "40019544",
+   "name": "Czechowice-Dziedzice Południowe"
+ },
+ {
+   "s_id": "40019554",
+   "name": "Czechowice-Dziedzice Przystanek"
+ },
+ {
+   "s_id": "40019564",
+   "name": "Dankowice"
+ },
+ {
+   "s_id": "40019574",
+   "name": "Drogomyśl"
+ },
+ {
+   "s_id": "40019583",
+   "name": "Goczałkowice"
+ },
+ {
+   "s_id": "40019594",
+   "name": "Goczałkowice-Zdrój"
+ },
+ {
+   "s_id": "40019604",
+   "name": "Goleszów"
+ },
+ {
+   "s_id": "40019613",
+   "name": "Imielin"
+ },
+ {
+   "s_id": "40019623",
+   "name": "Jaworzno Ciężkowice"
+ },
+ {
+   "s_id": "40019631",
+   "name": "Jaworzno Szczakowa"
+ },
+ {
+   "s_id": "40019644",
+   "name": "Jeleśnia"
+ },
+ {
+   "s_id": "40019654",
+   "name": "Kaczyce"
+ },
+ {
+   "s_id": "40019664",
+   "name": "Kaniów"
+ },
+ {
+   "s_id": "40019670",
+   "name": "Katowice"
+ },
+ {
+   "s_id": "40019681",
+   "name": "Katowice Brynów"
+ },
+ {
+   "s_id": "40019691",
+   "name": "Katowice Ligota"
+ },
+ {
+   "s_id": "40019701",
+   "name": "Katowice Piotrowice"
+ },
+ {
+   "s_id": "40019711",
+   "name": "Katowice Podlesie"
+ },
+ {
+   "s_id": "40019721",
+   "name": "Katowice Szopienice Południowe"
+ },
+ {
+   "s_id": "40019731",
+   "name": "Katowice Załęże"
+ },
+ {
+   "s_id": "40019741",
+   "name": "Katowice Zawodzie"
+ },
+ {
+   "s_id": "40019754",
+   "name": "Kobiór"
+ },
+ {
+   "s_id": "40019764",
+   "name": "Kończyce"
+ },
+ {
+   "s_id": "40019773",
+   "name": "Kozy"
+ },
+ {
+   "s_id": "40019784",
+   "name": "Kozy Zagroda"
+ },
+ {
+   "s_id": "40019794",
+   "name": "Krzemionki"
+ },
+ {
+   "s_id": "40019804",
+   "name": "Laliki"
+ },
+ {
+   "s_id": "40019813",
+   "name": "Łodygowice"
+ },
+ {
+   "s_id": "40019824",
+   "name": "Łodygowice Górne"
+ },
+ {
+   "s_id": "40019833",
+   "name": "Milówka"
+ },
+ {
+   "s_id": "40019844",
+   "name": "Milówka Zabawa"
+ },
+ {
+   "s_id": "40019851",
+   "name": "Mysłowice"
+ },
+ {
+   "s_id": "40019861",
+   "name": "Mysłowice Brzezinka"
+ },
+ {
+   "s_id": "40019871",
+   "name": "Mysłowice Brzęczkowice"
+ },
+ {
+   "s_id": "40019884",
+   "name": "Mysłowice Kosztowy"
+ },
+ {
+   "s_id": "40019893",
+   "name": "Nowy Bieruń"
+ },
+ {
+   "s_id": "40019904",
+   "name": "Pewel Mała"
+ },
+ {
+   "s_id": "40019914",
+   "name": "Pewel Wielka"
+ },
+ {
+   "s_id": "40019924",
+   "name": "Pewel Wielka Centrum"
+ },
+ {
+   "s_id": "40019934",
+   "name": "Piasek"
+ },
+ {
+   "s_id": "40019944",
+   "name": "Pierściec"
+ },
+ {
+   "s_id": "40019953",
+   "name": "Pietrzykowice Żywieckie"
+ },
+ {
+   "s_id": "40019964",
+   "name": "Pogwizdów"
+ },
+ {
+   "s_id": "40019974",
+   "name": "Pruchna"
+ },
+ {
+   "s_id": "40019982",
+   "name": "Pszczyna"
+ },
+ {
+   "s_id": "40019994",
+   "name": "Pszczyna Czarków"
+ },
+ {
+   "s_id": "40020004",
+   "name": "Radziechowy Wieprz"
+ },
+ {
+   "s_id": "40020013",
+   "name": "Rajcza"
+ },
+ {
+   "s_id": "40020023",
+   "name": "Rajcza Centrum"
+ },
+ {
+   "s_id": "40020034",
+   "name": "Rycerka"
+ },
+ {
+   "s_id": "40020043",
+   "name": "Skoczów"
+ },
+ {
+   "s_id": "40020054",
+   "name": "Skoczów Bładnice"
+ },
+ {
+   "s_id": "40020061",
+   "name": "Sosnowiec Dańdówka"
+ },
+ {
+   "s_id": "40020071",
+   "name": "Sosnowiec Główny"
+ },
+ {
+   "s_id": "40020081",
+   "name": "Sosnowiec Kazimierz"
+ },
+ {
+   "s_id": "40020091",
+   "name": "Sosnowiec Południowy"
+ },
+ {
+   "s_id": "40020101",
+   "name": "Sosnowiec Porąbka"
+ },
+ {
+   "s_id": "40020114",
+   "name": "Sól"
+ },
+ {
+   "s_id": "40020124",
+   "name": "Sól Kiczora"
+ },
+ {
+   "s_id": "40020134",
+   "name": "Strumień"
+ },
+ {
+   "s_id": "40020141",
+   "name": "Świętochłowice"
+ },
+ {
+   "s_id": "40020151",
+   "name": "Tychy"
+ },
+ {
+   "s_id": "40020161",
+   "name": "Tychy Zachodnie"
+ },
+ {
+   "s_id": "40020171",
+   "name": "Tychy Żwaków"
+ },
+ {
+   "s_id": "40020183",
+   "name": "Ustroń"
+ },
+ {
+   "s_id": "40020194",
+   "name": "Ustroń Polana"
+ },
+ {
+   "s_id": "40020204",
+   "name": "Ustroń Zdrój"
+ },
+ {
+   "s_id": "40020213",
+   "name": "Węgierska Górka"
+ },
+ {
+   "s_id": "40020223",
+   "name": "Wilkowice Bystra"
+ },
+ {
+   "s_id": "40020234",
+   "name": "Wisła Dziechcinka"
+ },
+ {
+   "s_id": "40020244",
+   "name": "Wisła Głębce"
+ },
+ {
+   "s_id": "40020254",
+   "name": "Wisła Kopydło"
+ },
+ {
+   "s_id": "40020264",
+   "name": "Wisła Obłaziec"
+ },
+ {
+   "s_id": "40020273",
+   "name": "Wisła Uzdrowisko"
+ },
+ {
+   "s_id": "40020284",
+   "name": "Zaborze"
+ },
+ {
+   "s_id": "40020293",
+   "name": "Zabrzeg"
+ },
+ {
+   "s_id": "40020304",
+   "name": "Zabrzeg Czarnolesie"
+ },
+ {
+   "s_id": "40020313",
+   "name": "Zebrzydowice"
+ },
+ {
+   "s_id": "40020323",
+   "name": "Zwardoń"
+ },
+ {
+   "s_id": "40020332",
+   "name": "Żywiec"
+ },
+ {
+   "s_id": "40020344",
+   "name": "Żywiec Sporysz"
+ },
+ {
+   "s_id": "80020354",
+   "name": "Barzkowice"
+ },
+ {
+   "s_id": "80020364",
+   "name": "Baszewice"
+ },
+ {
+   "s_id": "80020374",
+   "name": "Będzino"
+ },
+ {
+   "s_id": "80020382",
+   "name": "Białogard"
+ },
+ {
+   "s_id": "80020393",
+   "name": "Białośliwie"
+ },
+ {
+   "s_id": "80020404",
+   "name": "Białuń"
+ },
+ {
+   "s_id": "80020414",
+   "name": "Biały Bór"
+ },
+ {
+   "s_id": "80020424",
+   "name": "Biały Zdrój Południowy"
+ },
+ {
+   "s_id": "80020434",
+   "name": "Bieczyno Pomorskie"
+ },
+ {
+   "s_id": "80020444",
+   "name": "Bierzwnik"
+ },
+ {
+   "s_id": "80020454",
+   "name": "Biesowice"
+ },
+ {
+   "s_id": "80020464",
+   "name": "Bińcze"
+ },
+ {
+   "s_id": "80020474",
+   "name": "Biskupnica"
+ },
+ {
+   "s_id": "80020484",
+   "name": "Bobrowo Pomorskie"
+ },
+ {
+   "s_id": "80020494",
+   "name": "Boleszewo"
+ },
+ {
+   "s_id": "80020504",
+   "name": "Brokęcino"
+ },
+ {
+   "s_id": "80020514",
+   "name": "Brzeźno Człuchowskie"
+ },
+ {
+   "s_id": "80020524",
+   "name": "Charnowo Słupskie"
+ },
+ {
+   "s_id": "80020533",
+   "name": "Chociwel"
+ },
+ {
+   "s_id": "80020543",
+   "name": "Chojna"
+ },
+ {
+   "s_id": "80020553",
+   "name": "Choszczno"
+ },
+ {
+   "s_id": "80020564",
+   "name": "Ciecholub"
+ },
+ {
+   "s_id": "80020574",
+   "name": "Cieszyno Łobeskie"
+ },
+ {
+   "s_id": "80020584",
+   "name": "Cybowo"
+ },
+ {
+   "s_id": "80020593",
+   "name": "Czaplinek"
+ },
+ {
+   "s_id": "80020603",
+   "name": "Czarne"
+ },
+ {
+   "s_id": "80020614",
+   "name": "Czarne Małe"
+ },
+ {
+   "s_id": "80020624",
+   "name": "Czarnobór"
+ },
+ {
+   "s_id": "80020634",
+   "name": "Czarnowęsy Pomorskie"
+ },
+ {
+   "s_id": "80020641",
+   "name": "Czepino"
+ },
+ {
+   "s_id": "80020653",
+   "name": "Człuchów"
+ },
+ {
+   "s_id": "80020661",
+   "name": "Daleszewo Gryfińskie"
+ },
+ {
+   "s_id": "80020674",
+   "name": "Dalęcino"
+ },
+ {
+   "s_id": "80020684",
+   "name": "Damnica"
+ },
+ {
+   "s_id": "80020694",
+   "name": "Darłowo"
+ },
+ {
+   "s_id": "80020704",
+   "name": "Daszewo"
+ },
+ {
+   "s_id": "80020713",
+   "name": "Dobiegniew"
+ },
+ {
+   "s_id": "80020724",
+   "name": "Dobino Wałeckie"
+ },
+ {
+   "s_id": "80020734",
+   "name": "Dolice"
+ },
+ {
+   "s_id": "80020744",
+   "name": "Dolna Odra"
+ },
+ {
+   "s_id": "80020754",
+   "name": "Dolnik"
+ },
+ {
+   "s_id": "80020764",
+   "name": "Domisław"
+ },
+ {
+   "s_id": "80020774",
+   "name": "Drawiny"
+ },
+ {
+   "s_id": "80020783",
+   "name": "Drawsko Pomorskie"
+ },
+ {
+   "s_id": "80020794",
+   "name": "Drzonowo"
+ },
+ {
+   "s_id": "80020804",
+   "name": "Dunowo"
+ },
+ {
+   "s_id": "80020814",
+   "name": "Dygowo"
+ },
+ {
+   "s_id": "80020824",
+   "name": "Dziembówko"
+ },
+ {
+   "s_id": "80020834",
+   "name": "Gałęzinowo"
+ },
+ {
+   "s_id": "80020844",
+   "name": "Gąbin"
+ },
+ {
+   "s_id": "80020854",
+   "name": "Głowaczewo"
+ },
+ {
+   "s_id": "80020864",
+   "name": "Głuszyno Pomorskie"
+ },
+ {
+   "s_id": "80020874",
+   "name": "Godków"
+ },
+ {
+   "s_id": "80020884",
+   "name": "Gogolewo"
+ },
+ {
+   "s_id": "80020892",
+   "name": "Goleniów"
+ },
+ {
+   "s_id": "80020904",
+   "name": "Górki Pomorskie"
+ },
+ {
+   "s_id": "80020914",
+   "name": "Górzyca Reska"
+ },
+ {
+   "s_id": "80020923",
+   "name": "Gryfice"
+ },
+ {
+   "s_id": "80020931",
+   "name": "Gryfino"
+ },
+ {
+   "s_id": "80020941",
+   "name": "Grzędzice Stargardzkie"
+ },
+ {
+   "s_id": "80020954",
+   "name": "Grzmiąca"
+ },
+ {
+   "s_id": "80020964",
+   "name": "Gwda Mała"
+ },
+ {
+   "s_id": "80020974",
+   "name": "Iwin"
+ },
+ {
+   "s_id": "80020984",
+   "name": "Jankowo Pomorskie"
+ },
+ {
+   "s_id": "80020994",
+   "name": "Jarszewo"
+ },
+ {
+   "s_id": "80021003",
+   "name": "Jastrowie"
+ },
+ {
+   "s_id": "80021014",
+   "name": "Jazy"
+ },
+ {
+   "s_id": "80021024",
+   "name": "Jelenino"
+ },
+ {
+   "s_id": "80021034",
+   "name": "Jezierzyce Słupskie"
+ },
+ {
+   "s_id": "80021044",
+   "name": "Jeziorki Wałeckie"
+ },
+ {
+   "s_id": "80021054",
+   "name": "Kaczory"
+ },
+ {
+   "s_id": "80021063",
+   "name": "Kalisz Pomorski"
+ },
+ {
+   "s_id": "80021073",
+   "name": "Kamień Pomorski"
+ },
+ {
+   "s_id": "80021084",
+   "name": "Karcino"
+ },
+ {
+   "s_id": "80021094",
+   "name": "Karlino"
+ },
+ {
+   "s_id": "80021104",
+   "name": "Karwice"
+ },
+ {
+   "s_id": "80021114",
+   "name": "Kawcze"
+ },
+ {
+   "s_id": "80021123",
+   "name": "Kępice"
+ },
+ {
+   "s_id": "80021134",
+   "name": "Kępka"
+ },
+ {
+   "s_id": "80021144",
+   "name": "Klępnica"
+ },
+ {
+   "s_id": "80021154",
+   "name": "Kliniska"
+ },
+ {
+   "s_id": "80021164",
+   "name": "Kobylnica Słupska"
+ },
+ {
+   "s_id": "80021174",
+   "name": "Kolin"
+ },
+ {
+   "s_id": "80021182",
+   "name": "Kołobrzeg"
+ },
+ {
+   "s_id": "80021193",
+   "name": "Kołobrzeg Stadion"
+ },
+ {
+   "s_id": "80021204",
+   "name": "Korzybie"
+ },
+ {
+   "s_id": "80021212",
+   "name": "Koszalin"
+ },
+ {
+   "s_id": "80021224",
+   "name": "Kościernica"
+ },
+ {
+   "s_id": "80021233",
+   "name": "Krajenka"
+ },
+ {
+   "s_id": "80021244",
+   "name": "Krępa Krajeńska"
+ },
+ {
+   "s_id": "80021254",
+   "name": "Krostkowo"
+ },
+ {
+   "s_id": "80021264",
+   "name": "Krzywin Gryfiński"
+ },
+ {
+   "s_id": "80021274",
+   "name": "Lesięcin"
+ },
+ {
+   "s_id": "80021284",
+   "name": "Leśnice"
+ },
+ {
+   "s_id": "80021294",
+   "name": "Lipka Krajeńska"
+ },
+ {
+   "s_id": "80021304",
+   "name": "Lisie Pole"
+ },
+ {
+   "s_id": "80021314",
+   "name": "Lisowo"
+ },
+ {
+   "s_id": "80021324",
+   "name": "Lotyń"
+ },
+ {
+   "s_id": "80021334",
+   "name": "Lubiewo"
+ },
+ {
+   "s_id": "80021344",
+   "name": "Ładzin"
+ },
+ {
+   "s_id": "80021353",
+   "name": "Łobez"
+ },
+ {
+   "s_id": "80021364",
+   "name": "Łoźnica"
+ },
+ {
+   "s_id": "80021374",
+   "name": "Łubowo"
+ },
+ {
+   "s_id": "80021383",
+   "name": "Miasteczko Krajeńskie"
+ },
+ {
+   "s_id": "80021393",
+   "name": "Miastko"
+ },
+ {
+   "s_id": "80021401",
+   "name": "Miedwiecko"
+ },
+ {
+   "s_id": "80021414",
+   "name": "Mierzęcin Strzelecki"
+ },
+ {
+   "s_id": "80021422",
+   "name": "Międzyzdroje"
+ },
+ {
+   "s_id": "80021434",
+   "name": "Miłogoszcz"
+ },
+ {
+   "s_id": "80021444",
+   "name": "Mokrzyca"
+ },
+ {
+   "s_id": "80021454",
+   "name": "Mokrzyca Wielka"
+ },
+ {
+   "s_id": "80021464",
+   "name": "Morzyca"
+ },
+ {
+   "s_id": "80021474",
+   "name": "Mosty"
+ },
+ {
+   "s_id": "80021484",
+   "name": "Mścice"
+ },
+ {
+   "s_id": "80021494",
+   "name": "Nielep"
+ },
+ {
+   "s_id": "80021504",
+   "name": "Nosówko"
+ },
+ {
+   "s_id": "80021513",
+   "name": "Nowogard"
+ },
+ {
+   "s_id": "80021524",
+   "name": "Nowy Jarosław"
+ },
+ {
+   "s_id": "80021534",
+   "name": "Ognica"
+ },
+ {
+   "s_id": "80021543",
+   "name": "Okonek"
+ },
+ {
+   "s_id": "80021554",
+   "name": "Osina"
+ },
+ {
+   "s_id": "80021564",
+   "name": "Pacholęta"
+ },
+ {
+   "s_id": "80021574",
+   "name": "Parłówko"
+ },
+ {
+   "s_id": "80021584",
+   "name": "Pęzino"
+ },
+ {
+   "s_id": "80021592",
+   "name": "Piła Główna"
+ },
+ {
+   "s_id": "80021604",
+   "name": "Piła Kalina"
+ },
+ {
+   "s_id": "80021614",
+   "name": "Piła Podlasie"
+ },
+ {
+   "s_id": "80021623",
+   "name": "Płoty"
+ },
+ {
+   "s_id": "80021634",
+   "name": "Płytnica"
+ },
+ {
+   "s_id": "80021644",
+   "name": "Podborsko"
+ },
+ {
+   "s_id": "80021654",
+   "name": "Podlesiec"
+ },
+ {
+   "s_id": "80021664",
+   "name": "Pogorzelice"
+ },
+ {
+   "s_id": "80021674",
+   "name": "Police"
+ },
+ {
+   "s_id": "80021683",
+   "name": "Port Lotniczy Szczecin Goleniów"
+ },
+ {
+   "s_id": "80021694",
+   "name": "Potęgowo"
+ },
+ {
+   "s_id": "80021704",
+   "name": "Prostynia"
+ },
+ {
+   "s_id": "80021714",
+   "name": "Przeradz"
+ },
+ {
+   "s_id": "80021724",
+   "name": "Przytocko"
+ },
+ {
+   "s_id": "80021734",
+   "name": "Ptusza"
+ },
+ {
+   "s_id": "80021744",
+   "name": "Rąbino"
+ },
+ {
+   "s_id": "80021754",
+   "name": "Reblino"
+ },
+ {
+   "s_id": "80021764",
+   "name": "Recław"
+ },
+ {
+   "s_id": "80021774",
+   "name": "Recz Pomorski"
+ },
+ {
+   "s_id": "80021781",
+   "name": "Reptowo"
+ },
+ {
+   "s_id": "80021794",
+   "name": "Rębusz"
+ },
+ {
+   "s_id": "80021804",
+   "name": "Rokita"
+ },
+ {
+   "s_id": "80021813",
+   "name": "Runowo Pomorskie"
+ },
+ {
+   "s_id": "80021824",
+   "name": "Rurka"
+ },
+ {
+   "s_id": "80021834",
+   "name": "Rutwica"
+ },
+ {
+   "s_id": "80021844",
+   "name": "Rzęśnica"
+ },
+ {
+   "s_id": "80021854",
+   "name": "Silnowo"
+ },
+ {
+   "s_id": "80021864",
+   "name": "Sińczyca"
+ },
+ {
+   "s_id": "80021874",
+   "name": "Skibno"
+ },
+ {
+   "s_id": "80021884",
+   "name": "Skórka"
+ },
+ {
+   "s_id": "80021893",
+   "name": "Sławno"
+ },
+ {
+   "s_id": "80021904",
+   "name": "Słonice"
+ },
+ {
+   "s_id": "80021914",
+   "name": "Słonowice"
+ },
+ {
+   "s_id": "80021924",
+   "name": "Słosinko"
+ },
+ {
+   "s_id": "80021934",
+   "name": "Słowienkowo"
+ },
+ {
+   "s_id": "80021942",
+   "name": "Słupsk"
+ },
+ {
+   "s_id": "80021954",
+   "name": "Sokoliniec"
+ },
+ {
+   "s_id": "80021964",
+   "name": "Stara Łubianka"
+ },
+ {
+   "s_id": "80021971",
+   "name": "Stargard"
+ },
+ {
+   "s_id": "80021984",
+   "name": "Stary Borek"
+ },
+ {
+   "s_id": "80021994",
+   "name": "Stary Klukom"
+ },
+ {
+   "s_id": "80022004",
+   "name": "Stawno"
+ },
+ {
+   "s_id": "80022014",
+   "name": "Stobno Szczecińskie"
+ },
+ {
+   "s_id": "80022024",
+   "name": "Stramnica"
+ },
+ {
+   "s_id": "80022034",
+   "name": "Strączno"
+ },
+ {
+   "s_id": "80022044",
+   "name": "Strzebielewo Pyrzyckie"
+ },
+ {
+   "s_id": "80022054",
+   "name": "Strzelinko"
+ },
+ {
+   "s_id": "80022064",
+   "name": "Strzyżyno Słupskie"
+ },
+ {
+   "s_id": "80022074",
+   "name": "Sulino"
+ },
+ {
+   "s_id": "80022084",
+   "name": "Suliszewo Drawskie"
+ },
+ {
+   "s_id": "80022094",
+   "name": "Sycewice"
+ },
+ {
+   "s_id": "80022101",
+   "name": "Szczecin Dąbie"
+ },
+ {
+   "s_id": "80022110",
+   "name": "Szczecin Główny"
+ },
+ {
+   "s_id": "80022121",
+   "name": "Szczecin Gumieńce"
+ },
+ {
+   "s_id": "80022131",
+   "name": "Szczecin Podjuchy"
+ },
+ {
+   "s_id": "80022144",
+   "name": "Szczecin Pogodno"
+ },
+ {
+   "s_id": "80022151",
+   "name": "Szczecin Port Centralny"
+ },
+ {
+   "s_id": "80022161",
+   "name": "Szczecin Załom"
+ },
+ {
+   "s_id": "80022171",
+   "name": "Szczecin Zdroje"
+ },
+ {
+   "s_id": "80022181",
+   "name": "Szczecin Zdunowo"
+ },
+ {
+   "s_id": "80022192",
+   "name": "Szczecinek"
+ },
+ {
+   "s_id": "80022204",
+   "name": "Szczecinek Chyże"
+ },
+ {
+   "s_id": "80022214",
+   "name": "Szydłowo Krajeńskie"
+ },
+ {
+   "s_id": "80022223",
+   "name": "Świdwin"
+ },
+ {
+   "s_id": "80022232",
+   "name": "Świnoujście"
+ },
+ {
+   "s_id": "80022244",
+   "name": "Świnoujście Port"
+ },
+ {
+   "s_id": "80022254",
+   "name": "Świnoujście Przytór"
+ },
+ {
+   "s_id": "80022264",
+   "name": "Świnoujście Warszów"
+ },
+ {
+   "s_id": "80022274",
+   "name": "Tarnowo Pomorskie"
+ },
+ {
+   "s_id": "80022284",
+   "name": "Trąbki"
+ },
+ {
+   "s_id": "80022294",
+   "name": "Troszyn"
+ },
+ {
+   "s_id": "80022303",
+   "name": "Trzebiatów"
+ },
+ {
+   "s_id": "80022314",
+   "name": "Tuczno Krajeńskie"
+ },
+ {
+   "s_id": "80022324",
+   "name": "Turowo Pomorskie"
+ },
+ {
+   "s_id": "80022333",
+   "name": "Tychowo"
+ },
+ {
+   "s_id": "80022344",
+   "name": "Tymień"
+ },
+ {
+   "s_id": "80022354",
+   "name": "Ulikowo"
+ },
+ {
+   "s_id": "80022363",
+   "name": "Ustka"
+ },
+ {
+   "s_id": "80022373",
+   "name": "Ustronie Morskie"
+ },
+ {
+   "s_id": "80022383",
+   "name": "Wałcz"
+ },
+ {
+   "s_id": "80022394",
+   "name": "Wałcz Raduń"
+ },
+ {
+   "s_id": "80022404",
+   "name": "Warnowo"
+ },
+ {
+   "s_id": "80022413",
+   "name": "Węgorzyno"
+ },
+ {
+   "s_id": "80022424",
+   "name": "Widuchowa"
+ },
+ {
+   "s_id": "80022434",
+   "name": "Widzino"
+ },
+ {
+   "s_id": "80022444",
+   "name": "Wiekowo"
+ },
+ {
+   "s_id": "80022454",
+   "name": "Wielanowo"
+ },
+ {
+   "s_id": "80022464",
+   "name": "Wiewiecko"
+ },
+ {
+   "s_id": "80022474",
+   "name": "Witkowo Pyrzyckie"
+ },
+ {
+   "s_id": "80022484",
+   "name": "Witnica Chojeńska"
+ },
+ {
+   "s_id": "80022493",
+   "name": "Wolin"
+ },
+ {
+   "s_id": "80022504",
+   "name": "Worowo"
+ },
+ {
+   "s_id": "80022514",
+   "name": "Wrząca Pomorska"
+ },
+ {
+   "s_id": "80022524",
+   "name": "Wrześnica"
+ },
+ {
+   "s_id": "80022534",
+   "name": "Wrzosowo"
+ },
+ {
+   "s_id": "80022543",
+   "name": "Wyrzysk Osiek"
+ },
+ {
+   "s_id": "80022553",
+   "name": "Wysoka Kamieńska"
+ },
+ {
+   "s_id": "80022564",
+   "name": "Wyszomierz"
+ },
+ {
+   "s_id": "80022574",
+   "name": "Zakrzewo Złotowskie"
+ },
+ {
+   "s_id": "80022584",
+   "name": "Ziemomyśl"
+ },
+ {
+   "s_id": "80022593",
+   "name": "Złocieniec"
+ },
+ {
+   "s_id": "80022603",
+   "name": "Złotów"
+ },
+ {
+   "s_id": "80022614",
+   "name": "Żabowo"
+ },
+ {
+   "s_id": "80022624",
+   "name": "Żelisławie Pomorskie"
+ },
+ {
+   "s_id": "80022634",
+   "name": "Żółtnica"
+ },
+ {
+   "s_id": "80022644",
+   "name": "Żółwino"
+ },
+ {
+   "s_id": "40022654",
+   "name": "Bełsznica"
+ },
+ {
+   "s_id": "40022664",
+   "name": "Bierawa"
+ },
+ {
+   "s_id": "40022674",
+   "name": "Boronów"
+ },
+ {
+   "s_id": "40022681",
+   "name": "Bytom"
+ },
+ {
+   "s_id": "40022694",
+   "name": "Bytom Bobrek"
+ },
+ {
+   "s_id": "40022701",
+   "name": "Bytom Karb"
+ },
+ {
+   "s_id": "40022711",
+   "name": "Bytom Północny"
+ },
+ {
+   "s_id": "40022723",
+   "name": "Chałupki"
+ },
+ {
+   "s_id": "40022731",
+   "name": "Chorzów Miasto"
+ },
+ {
+   "s_id": "40022741",
+   "name": "Chorzów Stary"
+ },
+ {
+   "s_id": "40022753",
+   "name": "Czerwionka"
+ },
+ {
+   "s_id": "40022764",
+   "name": "Czerwionka Dębieńsko"
+ },
+ {
+   "s_id": "40022774",
+   "name": "Czyżowice"
+ },
+ {
+   "s_id": "40022784",
+   "name": "Dziergowice"
+ },
+ {
+   "s_id": "40022794",
+   "name": "Dzietrzniki"
+ },
+ {
+   "s_id": "40022800",
+   "name": "Gliwice"
+ },
+ {
+   "s_id": "40022813",
+   "name": "Gliwice Kuźnica"
+ },
+ {
+   "s_id": "40022821",
+   "name": "Gliwice Łabędy"
+ },
+ {
+   "s_id": "40022834",
+   "name": "Górki Śląskie"
+ },
+ {
+   "s_id": "40022844",
+   "name": "Herby Nowe"
+ },
+ {
+   "s_id": "40022854",
+   "name": "Janinów"
+ },
+ {
+   "s_id": "40022864",
+   "name": "Jaworzno koło Wielunia"
+ },
+ {
+   "s_id": "40022873",
+   "name": "Kalety"
+ },
+ {
+   "s_id": "40022882",
+   "name": "Kędzierzyn-Koźle"
+ },
+ {
+   "s_id": "40022894",
+   "name": "Kędzierzyn-Koźle Azoty"
+ },
+ {
+   "s_id": "40022904",
+   "name": "Kędzierzyn-Koźle Przystanek"
+ },
+ {
+   "s_id": "40022914",
+   "name": "Kędzierzyn-Koźle Zachodnie"
+ },
+ {
+   "s_id": "40022924",
+   "name": "Knurów"
+ },
+ {
+   "s_id": "40022934",
+   "name": "Kotulin"
+ },
+ {
+   "s_id": "40022943",
+   "name": "Krzepice"
+ },
+ {
+   "s_id": "40022954",
+   "name": "Krzyżanowice"
+ },
+ {
+   "s_id": "40022964",
+   "name": "Kuleje"
+ },
+ {
+   "s_id": "40022974",
+   "name": "Kuźnia Raciborska"
+ },
+ {
+   "s_id": "40022983",
+   "name": "Leszczyny"
+ },
+ {
+   "s_id": "40022994",
+   "name": "Ligota Toszecka"
+ },
+ {
+   "s_id": "40023004",
+   "name": "Łaziska Górne"
+ },
+ {
+   "s_id": "40023014",
+   "name": "Łaziska Górne Brada"
+ },
+ {
+   "s_id": "40023024",
+   "name": "Łaziska Średnie"
+ },
+ {
+   "s_id": "40023034",
+   "name": "Łuków Śląski"
+ },
+ {
+   "s_id": "40023043",
+   "name": "Miasteczko Śląskie"
+ },
+ {
+   "s_id": "40023053",
+   "name": "Mikołów"
+ },
+ {
+   "s_id": "40023064",
+   "name": "Mikołów Jamna"
+ },
+ {
+   "s_id": "40023071",
+   "name": "Nakło Śląskie"
+ },
+ {
+   "s_id": "40023084",
+   "name": "Nędza"
+ },
+ {
+   "s_id": "40023094",
+   "name": "Nędza Wieś"
+ },
+ {
+   "s_id": "40023104",
+   "name": "Olza"
+ },
+ {
+   "s_id": "40023113",
+   "name": "Orzesze"
+ },
+ {
+   "s_id": "40023123",
+   "name": "Orzesze Jaśkowice"
+ },
+ {
+   "s_id": "40023134",
+   "name": "Orzesze Miasto"
+ },
+ {
+   "s_id": "40023144",
+   "name": "Paczyna"
+ },
+ {
+   "s_id": "40023154",
+   "name": "Panki"
+ },
+ {
+   "s_id": "40023164",
+   "name": "Pątnów Wieluński"
+ },
+ {
+   "s_id": "40023173",
+   "name": "Pyskowice"
+ },
+ {
+   "s_id": "40023182",
+   "name": "Racibórz"
+ },
+ {
+   "s_id": "40023194",
+   "name": "Racibórz Markowice"
+ },
+ {
+   "s_id": "40023204",
+   "name": "Radlin Obszary"
+ },
+ {
+   "s_id": "40023214",
+   "name": "Radostowice"
+ },
+ {
+   "s_id": "40023221",
+   "name": "Radzionków"
+ },
+ {
+   "s_id": "40023231",
+   "name": "Radzionków Rojca"
+ },
+ {
+   "s_id": "40023244",
+   "name": "Raszowa"
+ },
+ {
+   "s_id": "40023254",
+   "name": "Roszków Raciborski"
+ },
+ {
+   "s_id": "40023261",
+   "name": "Ruda Chebzie"
+ },
+ {
+   "s_id": "40023271",
+   "name": "Ruda Śląska"
+ },
+ {
+   "s_id": "40023284",
+   "name": "Rudyszwałd"
+ },
+ {
+   "s_id": "40023294",
+   "name": "Rudziniec Gliwicki"
+ },
+ {
+   "s_id": "40023302",
+   "name": "Rybnik"
+ },
+ {
+   "s_id": "40023314",
+   "name": "Rybnik Gotartowice"
+ },
+ {
+   "s_id": "40023324",
+   "name": "Rybnik Niedobczyce"
+ },
+ {
+   "s_id": "40023334",
+   "name": "Rybnik Niewiadom"
+ },
+ {
+   "s_id": "40023344",
+   "name": "Rybnik Paruszowiec"
+ },
+ {
+   "s_id": "40023354",
+   "name": "Rybnik Piaski"
+ },
+ {
+   "s_id": "40023364",
+   "name": "Rybnik Rymer"
+ },
+ {
+   "s_id": "40023374",
+   "name": "Rybnik Towarowy"
+ },
+ {
+   "s_id": "40023384",
+   "name": "Rydułtowy"
+ },
+ {
+   "s_id": "40023394",
+   "name": "Rzeczyce Śląskie"
+ },
+ {
+   "s_id": "40023404",
+   "name": "Sławięcice"
+ },
+ {
+   "s_id": "40023414",
+   "name": "Strzebiń"
+ },
+ {
+   "s_id": "40023424",
+   "name": "Sumina"
+ },
+ {
+   "s_id": "40023434",
+   "name": "Sumina Wieś"
+ },
+ {
+   "s_id": "40023444",
+   "name": "Suszec"
+ },
+ {
+   "s_id": "40023454",
+   "name": "Suszec Kopalnia"
+ },
+ {
+   "s_id": "40023464",
+   "name": "Suszec Rudziczka"
+ },
+ {
+   "s_id": "40023474",
+   "name": "Szczejkowice"
+ },
+ {
+   "s_id": "40023484",
+   "name": "Szymocice"
+ },
+ {
+   "s_id": "40023494",
+   "name": "Taciszów"
+ },
+ {
+   "s_id": "40023501",
+   "name": "Tarnowskie Góry"
+ },
+ {
+   "s_id": "40023513",
+   "name": "Toszek"
+ },
+ {
+   "s_id": "40023524",
+   "name": "Tworków"
+ },
+ {
+   "s_id": "40023533",
+   "name": "Wieluń"
+ },
+ {
+   "s_id": "40023544",
+   "name": "Wieluń Dąbrowa"
+ },
+ {
+   "s_id": "40023553",
+   "name": "Wodzisław Śląski"
+ },
+ {
+   "s_id": "40023564",
+   "name": "Wodzisław Śląski Radlin"
+ },
+ {
+   "s_id": "40023572",
+   "name": "Zabrze"
+ },
+ {
+   "s_id": "40023583",
+   "name": "Zdzieszowice"
+ },
+ {
+   "s_id": "40023593",
+   "name": "Żory"
+ },
+ {
+   "s_id": "60023604",
+   "name": "Bartnica"
+ },
+ {
+   "s_id": "60023614",
+   "name": "Batowice Lubańskie"
+ },
+ {
+   "s_id": "60023624",
+   "name": "Bierkowice"
+ },
+ {
+   "s_id": "60023634",
+   "name": "Błażkowa"
+ },
+ {
+   "s_id": "60023644",
+   "name": "Boguszów-Gorce"
+ },
+ {
+   "s_id": "60023654",
+   "name": "Boguszów-Gorce Wschód"
+ },
+ {
+   "s_id": "60023664",
+   "name": "Boguszów-Gorce Zachód"
+ },
+ {
+   "s_id": "60023674",
+   "name": "Bolesławice Świdnickie"
+ },
+ {
+   "s_id": "60023684",
+   "name": "Brachów"
+ },
+ {
+   "s_id": "60023693",
+   "name": "Bystrzyca Kłodzka"
+ },
+ {
+   "s_id": "60023704",
+   "name": "Bystrzyca Kłodzka Przedmieście"
+ },
+ {
+   "s_id": "60023714",
+   "name": "Ciechanowice"
+ },
+ {
+   "s_id": "60023724",
+   "name": "Dębowy Gaj"
+ },
+ {
+   "s_id": "60023734",
+   "name": "Długopole-Zdrój"
+ },
+ {
+   "s_id": "60023744",
+   "name": "Domaszków"
+ },
+ {
+   "s_id": "60023754",
+   "name": "Duszniki-Zdrój"
+ },
+ {
+   "s_id": "60023764",
+   "name": "Gierałtów"
+ },
+ {
+   "s_id": "60023774",
+   "name": "Gierałtów Wykroty"
+ },
+ {
+   "s_id": "60023784",
+   "name": "Głuszyca"
+ },
+ {
+   "s_id": "60023794",
+   "name": "Głuszyca Górna"
+ },
+ {
+   "s_id": "60023804",
+   "name": "Goczałków"
+ },
+ {
+   "s_id": "60023814",
+   "name": "Gorzanów"
+ },
+ {
+   "s_id": "60023824",
+   "name": "Gorzuchów Kłodzki"
+ },
+ {
+   "s_id": "60023834",
+   "name": "Gościszów"
+ },
+ {
+   "s_id": "60023844",
+   "name": "Górzyniec"
+ },
+ {
+   "s_id": "60023853",
+   "name": "Gryfów Śląski"
+ },
+ {
+   "s_id": "60023864",
+   "name": "Imbramowice"
+ },
+ {
+   "s_id": "60023874",
+   "name": "Janowice Wielkie"
+ },
+ {
+   "s_id": "60023883",
+   "name": "Jawor"
+ },
+ {
+   "s_id": "60023892",
+   "name": "Jaworzyna Śląska"
+ },
+ {
+   "s_id": "60023904",
+   "name": "Jedlina Górna"
+ },
+ {
+   "s_id": "60023913",
+   "name": "Jedlina-Zdrój"
+ },
+ {
+   "s_id": "60023922",
+   "name": "Jelenia Góra"
+ },
+ {
+   "s_id": "60023934",
+   "name": "Jelenia Góra Cieplice"
+ },
+ {
+   "s_id": "60023944",
+   "name": "Jelenia Góra Orle"
+ },
+ {
+   "s_id": "60023954",
+   "name": "Jelenia Góra Sobieszów"
+ },
+ {
+   "s_id": "60023964",
+   "name": "Jelenia Góra Zachodnia"
+ },
+ {
+   "s_id": "60023974",
+   "name": "Jerzmanice-Zdrój"
+ },
+ {
+   "s_id": "60023984",
+   "name": "Jerzmanki"
+ },
+ {
+   "s_id": "60023994",
+   "name": "Jeżów Sudecki"
+ },
+ {
+   "s_id": "60024004",
+   "name": "Kamienna Góra"
+ },
+ {
+   "s_id": "60024013",
+   "name": "Kąty Wrocławskie"
+ },
+ {
+   "s_id": "60024022",
+   "name": "Kłodzko Główne"
+ },
+ {
+   "s_id": "60024034",
+   "name": "Kłodzko Książek"
+ },
+ {
+   "s_id": "60024043",
+   "name": "Kłodzko Miasto"
+ },
+ {
+   "s_id": "60024054",
+   "name": "Kłodzko Zagórze"
+ },
+ {
+   "s_id": "60024064",
+   "name": "Krosnowice Kłodzkie"
+ },
+ {
+   "s_id": "60024074",
+   "name": "Krzewina Zgorzelecka"
+ },
+ {
+   "s_id": "60024084",
+   "name": "Krzyżowa"
+ },
+ {
+   "s_id": "60024094",
+   "name": "Kudowa-Zdrój"
+ },
+ {
+   "s_id": "60024104",
+   "name": "Kulin Kłodzki"
+ },
+ {
+   "s_id": "60024114",
+   "name": "Kwieciszowice"
+ },
+ {
+   "s_id": "60024124",
+   "name": "Lewin Kłodzki"
+ },
+ {
+   "s_id": "60024133",
+   "name": "Lubań Śląski"
+ },
+ {
+   "s_id": "60024144",
+   "name": "Lubawka"
+ },
+ {
+   "s_id": "60024154",
+   "name": "Ludwikowice Kłodzkie"
+ },
+ {
+   "s_id": "60024163",
+   "name": "Lwówek Śląski"
+ },
+ {
+   "s_id": "60024174",
+   "name": "Marciszów"
+ },
+ {
+   "s_id": "60024184",
+   "name": "Marczów"
+ },
+ {
+   "s_id": "60024194",
+   "name": "Mieroszów"
+ },
+ {
+   "s_id": "60024203",
+   "name": "Mietków"
+ },
+ {
+   "s_id": "60024213",
+   "name": "Międzylesie"
+ },
+ {
+   "s_id": "60024224",
+   "name": "Mikułowa"
+ },
+ {
+   "s_id": "60024234",
+   "name": "Młyńsko"
+ },
+ {
+   "s_id": "60024244",
+   "name": "Niwnice"
+ },
+ {
+   "s_id": "60024253",
+   "name": "Nowa Ruda"
+ },
+ {
+   "s_id": "60024264",
+   "name": "Nowa Ruda Przedmieście"
+ },
+ {
+   "s_id": "60024274",
+   "name": "Nowa Ruda Zdrojowisko"
+ },
+ {
+   "s_id": "60024284",
+   "name": "Nowogrodziec"
+ },
+ {
+   "s_id": "60024294",
+   "name": "Olszyna Lubańska"
+ },
+ {
+   "s_id": "60024304",
+   "name": "Piechowice"
+ },
+ {
+   "s_id": "60024314",
+   "name": "Piechowice Dolne"
+ },
+ {
+   "s_id": "60024324",
+   "name": "Pilchowice Nielestno"
+ },
+ {
+   "s_id": "60024334",
+   "name": "Pilchowice Zapora"
+ },
+ {
+   "s_id": "60024344",
+   "name": "Polanica-Zdrój"
+ },
+ {
+   "s_id": "60024354",
+   "name": "Przybyłowice"
+ },
+ {
+   "s_id": "60024364",
+   "name": "Rakowice Wielkie"
+ },
+ {
+   "s_id": "60024374",
+   "name": "Rębiszów"
+ },
+ {
+   "s_id": "60024384",
+   "name": "Rogoźnica"
+ },
+ {
+   "s_id": "60024394",
+   "name": "Roztoki Bystrzyckie"
+ },
+ {
+   "s_id": "60024404",
+   "name": "Rybnica"
+ },
+ {
+   "s_id": "60024414",
+   "name": "Sadowice Wrocławskie"
+ },
+ {
+   "s_id": "60024424",
+   "name": "Sędzisław"
+ },
+ {
+   "s_id": "60024434",
+   "name": "Siedlęcin"
+ },
+ {
+   "s_id": "60024443",
+   "name": "Smolec"
+ },
+ {
+   "s_id": "60024454",
+   "name": "Stanowice"
+ },
+ {
+   "s_id": "60024464",
+   "name": "Stara Kamienica"
+ },
+ {
+   "s_id": "60024474",
+   "name": "Stary Jawor"
+ },
+ {
+   "s_id": "60024484",
+   "name": "Stary Wielisław"
+ },
+ {
+   "s_id": "60024493",
+   "name": "Strzegom"
+ },
+ {
+   "s_id": "60024504",
+   "name": "Szczytna"
+ },
+ {
+   "s_id": "60024514",
+   "name": "Szklarska Poręba Dolna"
+ },
+ {
+   "s_id": "60024523",
+   "name": "Szklarska Poręba Górna"
+ },
+ {
+   "s_id": "60024534",
+   "name": "Szklarska Poręba Średnia"
+ },
+ {
+   "s_id": "60024544",
+   "name": "Ścinawka Średnia"
+ },
+ {
+   "s_id": "60024553",
+   "name": "Świdnica Miasto"
+ },
+ {
+   "s_id": "60024563",
+   "name": "Świebodzice"
+ },
+ {
+   "s_id": "60024574",
+   "name": "Świerki Dolne"
+ },
+ {
+   "s_id": "60024584",
+   "name": "Trzcińsko"
+ },
+ {
+   "s_id": "60024594",
+   "name": "Ubocze"
+ },
+ {
+   "s_id": "60024604",
+   "name": "Unisław Śląski"
+ },
+ {
+   "s_id": "60024614",
+   "name": "Wałbrzych Fabryczny"
+ },
+ {
+   "s_id": "60024623",
+   "name": "Wałbrzych Główny"
+ },
+ {
+   "s_id": "60024632",
+   "name": "Wałbrzych Miasto"
+ },
+ {
+   "s_id": "60024643",
+   "name": "Wałbrzych Szczawienko"
+ },
+ {
+   "s_id": "60024654",
+   "name": "Wilczyce"
+ },
+ {
+   "s_id": "60024664",
+   "name": "Witków Śląski"
+ },
+ {
+   "s_id": "60024674",
+   "name": "Wleń"
+ },
+ {
+   "s_id": "60024684",
+   "name": "Wojanów"
+ },
+ {
+   "s_id": "60024694",
+   "name": "Zaręba"
+ },
+ {
+   "s_id": "60024704",
+   "name": "Zawidów"
+ },
+ {
+   "s_id": "60024714",
+   "name": "Złotoryja"
+ },
+ {
+   "s_id": "60024723",
+   "name": "Żarów"
+ },
+ {
+   "s_id": "60024734",
+   "name": "Żelazno"
+ },
+ {
+   "s_id": "10024744",
+   "name": "Augustówka"
+ },
+ {
+   "s_id": "10024754",
+   "name": "Azory"
+ },
+ {
+   "s_id": "10024763",
+   "name": "Bednary"
+ },
+ {
+   "s_id": "10024771",
+   "name": "Błonie"
+ },
+ {
+   "s_id": "10024783",
+   "name": "Boża Wola"
+ },
+ {
+   "s_id": "10024794",
+   "name": "Brody Warszawskie"
+ },
+ {
+   "s_id": "10024801",
+   "name": "Brwinów"
+ },
+ {
+   "s_id": "10024813",
+   "name": "Celestynów"
+ },
+ {
+   "s_id": "10024821",
+   "name": "Chotomów"
+ },
+ {
+   "s_id": "10024834",
+   "name": "Chrosna"
+ },
+ {
+   "s_id": "10024844",
+   "name": "Czachówek Górny"
+ },
+ {
+   "s_id": "10024853",
+   "name": "Czachówek Południowy"
+ },
+ {
+   "s_id": "10024864",
+   "name": "Dąbkowizna"
+ },
+ {
+   "s_id": "10024871",
+   "name": "Dobczyn"
+ },
+ {
+   "s_id": "10024884",
+   "name": "Florek"
+ },
+ {
+   "s_id": "10024894",
+   "name": "Gostynin"
+ },
+ {
+   "s_id": "10024901",
+   "name": "Grodzisk Mazowiecki"
+ },
+ {
+   "s_id": "10024914",
+   "name": "Jackowice"
+ },
+ {
+   "s_id": "10024923",
+   "name": "Jaktorów"
+ },
+ {
+   "s_id": "10024931",
+   "name": "Janówek"
+ },
+ {
+   "s_id": "10024941",
+   "name": "Jasienica Mazowiecka"
+ },
+ {
+   "s_id": "10024953",
+   "name": "Jasionna Łowicka"
+ },
+ {
+   "s_id": "10024963",
+   "name": "Jesionka"
+ },
+ {
+   "s_id": "10024971",
+   "name": "Józefów"
+ },
+ {
+   "s_id": "10024983",
+   "name": "Kęszyce"
+ },
+ {
+   "s_id": "10024991",
+   "name": "Klembów"
+ },
+ {
+   "s_id": "10025003",
+   "name": "Kłodawa"
+ },
+ {
+   "s_id": "10025011",
+   "name": "Kobyłka"
+ },
+ {
+   "s_id": "10025021",
+   "name": "Kobyłka Ossów"
+ },
+ {
+   "s_id": "10025033",
+   "name": "Kołbiel"
+ },
+ {
+   "s_id": "10025043",
+   "name": "Kornelin"
+ },
+ {
+   "s_id": "10025054",
+   "name": "Krzewie"
+ },
+ {
+   "s_id": "10025062",
+   "name": "Kutno"
+ },
+ {
+   "s_id": "10025071",
+   "name": "Legionowo"
+ },
+ {
+   "s_id": "10025081",
+   "name": "Legionowo Piaski"
+ },
+ {
+   "s_id": "10025091",
+   "name": "Legionowo Przystanek"
+ },
+ {
+   "s_id": "10025103",
+   "name": "Leonów"
+ },
+ {
+   "s_id": "10025114",
+   "name": "Łąck"
+ },
+ {
+   "s_id": "10025122",
+   "name": "Łowicz Główny"
+ },
+ {
+   "s_id": "10025133",
+   "name": "Łowicz Przedmieście"
+ },
+ {
+   "s_id": "10025141",
+   "name": "Michalin"
+ },
+ {
+   "s_id": "10025154",
+   "name": "Michałów-Reginów"
+ },
+ {
+   "s_id": "10025163",
+   "name": "Międzyborów"
+ },
+ {
+   "s_id": "10025171",
+   "name": "Milanówek"
+ },
+ {
+   "s_id": "10025181",
+   "name": "Modlin"
+ },
+ {
+   "s_id": "10025193",
+   "name": "Mysłaków"
+ },
+ {
+   "s_id": "10025202",
+   "name": "Nasielsk"
+ },
+ {
+   "s_id": "10025214",
+   "name": "Niedźwiada Łowicka"
+ },
+ {
+   "s_id": "10025224",
+   "name": "Nieporęt"
+ },
+ {
+   "s_id": "10025231",
+   "name": "Nowa Iwiczna"
+ },
+ {
+   "s_id": "10025244",
+   "name": "Nowe Kutnowskie"
+ },
+ {
+   "s_id": "10025251",
+   "name": "Nowy Dwór Mazowiecki"
+ },
+ {
+   "s_id": "10025261",
+   "name": "Otwock"
+ },
+ {
+   "s_id": "10025271",
+   "name": "Ożarów Mazowiecki"
+ },
+ {
+   "s_id": "10025284",
+   "name": "Parzniew"
+ },
+ {
+   "s_id": "10025293",
+   "name": "Piasecznica"
+ },
+ {
+   "s_id": "10025301",
+   "name": "Piaseczno"
+ },
+ {
+   "s_id": "10025311",
+   "name": "Piastów"
+ },
+ {
+   "s_id": "10025321",
+   "name": "Płochocin"
+ },
+ {
+   "s_id": "10025332",
+   "name": "Płock"
+ },
+ {
+   "s_id": "10025344",
+   "name": "Płock Radziwie"
+ },
+ {
+   "s_id": "10025354",
+   "name": "Płock Trzepowo"
+ },
+ {
+   "s_id": "10025364",
+   "name": "Pogorzel Warszawska"
+ },
+ {
+   "s_id": "10025373",
+   "name": "Pomiechówek"
+ },
+ {
+   "s_id": "10025381",
+   "name": "Pruszków"
+ },
+ {
+   "s_id": "10025394",
+   "name": "Raciborów Kutnowski"
+ },
+ {
+   "s_id": "10025403",
+   "name": "Radziwiłłów Mazowiecki"
+ },
+ {
+   "s_id": "10025414",
+   "name": "Rogożew"
+ },
+ {
+   "s_id": "10025423",
+   "name": "Seroki"
+ },
+ {
+   "s_id": "10025434",
+   "name": "Sierakówek"
+ },
+ {
+   "s_id": "10025444",
+   "name": "Sklęczki"
+ },
+ {
+   "s_id": "10025452",
+   "name": "Sochaczew"
+ },
+ {
+   "s_id": "10025464",
+   "name": "Stara Wieś"
+ },
+ {
+   "s_id": "10025474",
+   "name": "Strzelce Kujawskie"
+ },
+ {
+   "s_id": "10025484",
+   "name": "Studzianki Nowe"
+ },
+ {
+   "s_id": "10025493",
+   "name": "Sucha Żyrardowska"
+ },
+ {
+   "s_id": "10025501",
+   "name": "Sulejówek"
+ },
+ {
+   "s_id": "10025513",
+   "name": "Śródborów"
+ },
+ {
+   "s_id": "10025521",
+   "name": "Świder"
+ },
+ {
+   "s_id": "10025533",
+   "name": "Teresin Niepokalanów"
+ },
+ {
+   "s_id": "10025544",
+   "name": "Turzynów"
+ },
+ {
+   "s_id": "10025553",
+   "name": "Ustanówek"
+ },
+ {
+   "s_id": "10025561",
+   "name": "Warszawa Aleje Jerozolimskie"
+ },
+ {
+   "s_id": "10025571",
+   "name": "Warszawa Anin"
+ },
+ {
+   "s_id": "10025581",
+   "name": "Warszawa Choszczówka"
+ },
+ {
+   "s_id": "10025591",
+   "name": "Warszawa Dawidy"
+ },
+ {
+   "s_id": "10025601",
+   "name": "Warszawa Falenica"
+ },
+ {
+   "s_id": "10025611",
+   "name": "Warszawa Gdańska"
+ },
+ {
+   "s_id": "10025621",
+   "name": "Warszawa Gocławek"
+ },
+ {
+   "s_id": "10025631",
+   "name": "Warszawa Gołąbki"
+ },
+ {
+   "s_id": "10025641",
+   "name": "Warszawa Jeziorki"
+ },
+ {
+   "s_id": "10025651",
+   "name": "Warszawa Koło"
+ },
+ {
+   "s_id": "10025661",
+   "name": "Warszawa Lotnisko Chopina"
+ },
+ {
+   "s_id": "10025671",
+   "name": "Warszawa Miedzeszyn"
+ },
+ {
+   "s_id": "10025681",
+   "name": "Warszawa Międzylesie"
+ },
+ {
+   "s_id": "10025691",
+   "name": "Warszawa Młynów"
+ },
+ {
+   "s_id": "10025701",
+   "name": "Warszawa Mokry Ług"
+ },
+ {
+   "s_id": "10025711",
+   "name": "Warszawa Ochota"
+ },
+ {
+   "s_id": "10025721",
+   "name": "Warszawa Okęcie"
+ },
+ {
+   "s_id": "10025731",
+   "name": "Warszawa Olszynka Grochowska"
+ },
+ {
+   "s_id": "10025741",
+   "name": "Warszawa Płudy"
+ },
+ {
+   "s_id": "10025751",
+   "name": "Warszawa Powiśle"
+ },
+ {
+   "s_id": "10025761",
+   "name": "Warszawa Praga"
+ },
+ {
+   "s_id": "10025771",
+   "name": "Warszawa Radość"
+ },
+ {
+   "s_id": "10025781",
+   "name": "Warszawa Rakowiec"
+ },
+ {
+   "s_id": "10025791",
+   "name": "Warszawa Rembertów"
+ },
+ {
+   "s_id": "10025801",
+   "name": "Warszawa Służewiec"
+ },
+ {
+   "s_id": "10025811",
+   "name": "Warszawa Stadion"
+ },
+ {
+   "s_id": "10025821",
+   "name": "Warszawa Toruńska"
+ },
+ {
+   "s_id": "10025831",
+   "name": "Warszawa Ursus"
+ },
+ {
+   "s_id": "10025841",
+   "name": "Warszawa Ursus Niedźwiadek"
+ },
+ {
+   "s_id": "10025851",
+   "name": "Warszawa Ursus Północny"
+ },
+ {
+   "s_id": "10025861",
+   "name": "Warszawa Wawer"
+ },
+ {
+   "s_id": "10025871",
+   "name": "Warszawa Wesoła"
+ },
+ {
+   "s_id": "10025881",
+   "name": "Warszawa Włochy"
+ },
+ {
+   "s_id": "10025891",
+   "name": "Warszawa Wola"
+ },
+ {
+   "s_id": "10025901",
+   "name": "Warszawa Wola Grzybowska"
+ },
+ {
+   "s_id": "10025910",
+   "name": "Warszawa Wschodnia"
+ },
+ {
+   "s_id": "10025911",
+   "name": "Warszawa Centralna"
+ },
+ {
+   "s_id": "10025921",
+   "name": "Warszawa Zachodnia peron 8"
+ },
+ {
+   "s_id": "10025930",
+   "name": "Warszawa Zachodnia"
+ },
+ {
+   "s_id": "10025941",
+   "name": "Warszawa Zacisze Wilno"
+ },
+ {
+   "s_id": "10025951",
+   "name": "Warszawa ZOO"
+ },
+ {
+   "s_id": "10025961",
+   "name": "Warszawa Żerań"
+ },
+ {
+   "s_id": "10025971",
+   "name": "Warszawa Żwirki i Wigury"
+ },
+ {
+   "s_id": "10025984",
+   "name": "Wieliszew"
+ },
+ {
+   "s_id": "10025993",
+   "name": "Witanów"
+ },
+ {
+   "s_id": "10026001",
+   "name": "Wołomin"
+ },
+ {
+   "s_id": "10026011",
+   "name": "Wołomin Słoneczna"
+ },
+ {
+   "s_id": "10026024",
+   "name": "Zabieżki"
+ },
+ {
+   "s_id": "10026031",
+   "name": "Zagościniec"
+ },
+ {
+   "s_id": "10026041",
+   "name": "Zalesie Górne"
+ },
+ {
+   "s_id": "10026051",
+   "name": "Ząbki"
+ },
+ {
+   "s_id": "10026061",
+   "name": "Zielonka"
+ },
+ {
+   "s_id": "10026071",
+   "name": "Zielonka Bankowa"
+ },
+ {
+   "s_id": "10026084",
+   "name": "Złotniki Kutnowskie"
+ },
+ {
+   "s_id": "10026094",
+   "name": "Zosinów"
+ },
+ {
+   "s_id": "10026103",
+   "name": "Żychlin"
+ },
+ {
+   "s_id": "10026112",
+   "name": "Żyrardów"
+ },
+ {
+   "s_id": "60026124",
+   "name": "Bierutów"
+ },
+ {
+   "s_id": "60026134",
+   "name": "Biskupice Oławskie"
+ },
+ {
+   "s_id": "60026142",
+   "name": "Bolesławiec"
+ },
+ {
+   "s_id": "60026151",
+   "name": "Borowa Oleśnicka"
+ },
+ {
+   "s_id": "60026163",
+   "name": "Brzeg Dolny"
+ },
+ {
+   "s_id": "60026174",
+   "name": "Brzeg Głogowski"
+ },
+ {
+   "s_id": "60026184",
+   "name": "Brzezinka Średzka"
+ },
+ {
+   "s_id": "60026194",
+   "name": "Bukowice Trzebnickie"
+ },
+ {
+   "s_id": "60026204",
+   "name": "Bukowina Sycowska"
+ },
+ {
+   "s_id": "60026214",
+   "name": "Chełmek Wołowski"
+ },
+ {
+   "s_id": "60026223",
+   "name": "Chojnów"
+ },
+ {
+   "s_id": "60026234",
+   "name": "Cieszków"
+ },
+ {
+   "s_id": "60026244",
+   "name": "Czerna"
+ },
+ {
+   "s_id": "60026254",
+   "name": "Czerna Mała"
+ },
+ {
+   "s_id": "60026264",
+   "name": "Czernica Wrocławska"
+ },
+ {
+   "s_id": "60026274",
+   "name": "Dąbrowa Oleśnicka"
+ },
+ {
+   "s_id": "60026281",
+   "name": "Długołęka"
+ },
+ {
+   "s_id": "60026294",
+   "name": "Dobroszyce"
+ },
+ {
+   "s_id": "60026304",
+   "name": "Garbce"
+ },
+ {
+   "s_id": "60026312",
+   "name": "Głogów"
+ },
+ {
+   "s_id": "60026324",
+   "name": "Głogów Huta"
+ },
+ {
+   "s_id": "60026334",
+   "name": "Goliszów"
+ },
+ {
+   "s_id": "60026344",
+   "name": "Grabowno Wielkie"
+ },
+ {
+   "s_id": "60026354",
+   "name": "Grębocice"
+ },
+ {
+   "s_id": "60026364",
+   "name": "Jagodzin"
+ },
+ {
+   "s_id": "60026374",
+   "name": "Jaśkowice Legnickie"
+ },
+ {
+   "s_id": "60026383",
+   "name": "Jelcz Miłoszyce"
+ },
+ {
+   "s_id": "60026393",
+   "name": "Jelcz-Laskowice"
+ },
+ {
+   "s_id": "60026404",
+   "name": "Jezierzany"
+ },
+ {
+   "s_id": "60026414",
+   "name": "Jędrzychowice"
+ },
+ {
+   "s_id": "60026424",
+   "name": "Kopalina"
+ },
+ {
+   "s_id": "60026433",
+   "name": "Korzeńsko"
+ },
+ {
+   "s_id": "60026444",
+   "name": "Koźlice"
+ },
+ {
+   "s_id": "60026454",
+   "name": "Krośnice"
+ },
+ {
+   "s_id": "60026464",
+   "name": "Krzepów"
+ },
+ {
+   "s_id": "60026474",
+   "name": "Księginice"
+ },
+ {
+   "s_id": "60026484",
+   "name": "Lasów"
+ },
+ {
+   "s_id": "60026492",
+   "name": "Legnica"
+ },
+ {
+   "s_id": "60026503",
+   "name": "Legnica Piekary"
+ },
+ {
+   "s_id": "60026514",
+   "name": "Lizawice"
+ },
+ {
+   "s_id": "60026524",
+   "name": "Lubin Górniczy"
+ },
+ {
+   "s_id": "60026534",
+   "name": "Łososiowice"
+ },
+ {
+   "s_id": "60026543",
+   "name": "Malczyce"
+ },
+ {
+   "s_id": "60026554",
+   "name": "Małowice Wołowskie"
+ },
+ {
+   "s_id": "60026564",
+   "name": "Międzybórz Sycowski"
+ },
+ {
+   "s_id": "60026574",
+   "name": "Miękinia"
+ },
+ {
+   "s_id": "60026583",
+   "name": "Milicz"
+ },
+ {
+   "s_id": "60026593",
+   "name": "Miłkowice"
+ },
+ {
+   "s_id": "60026604",
+   "name": "Minkowice Oławskie"
+ },
+ {
+   "s_id": "60026614",
+   "name": "Modła"
+ },
+ {
+   "s_id": "60026624",
+   "name": "Mrozów"
+ },
+ {
+   "s_id": "60026634",
+   "name": "Nowa Wieś Legnicka"
+ },
+ {
+   "s_id": "60026643",
+   "name": "Oborniki Śląskie"
+ },
+ {
+   "s_id": "60026654",
+   "name": "Okmiany"
+ },
+ {
+   "s_id": "60026664",
+   "name": "Okrąglica"
+ },
+ {
+   "s_id": "60026672",
+   "name": "Oleśnica"
+ },
+ {
+   "s_id": "60026683",
+   "name": "Oleśnica Rataje"
+ },
+ {
+   "s_id": "60026692",
+   "name": "Oława"
+ },
+ {
+   "s_id": "60026704",
+   "name": "Orzeszków"
+ },
+ {
+   "s_id": "60026714",
+   "name": "Osetnica"
+ },
+ {
+   "s_id": "60026724",
+   "name": "Osola"
+ },
+ {
+   "s_id": "60026734",
+   "name": "Pawłowice Małe"
+ },
+ {
+   "s_id": "60026744",
+   "name": "Pęgów"
+ },
+ {
+   "s_id": "60026754",
+   "name": "Pieńsk"
+ },
+ {
+   "s_id": "60026764",
+   "name": "Przedmoście Święte"
+ },
+ {
+   "s_id": "60026774",
+   "name": "Rokitki"
+ },
+ {
+   "s_id": "60026783",
+   "name": "Rudna Gwizdanów"
+ },
+ {
+   "s_id": "60026793",
+   "name": "Rudna Miasto"
+ },
+ {
+   "s_id": "60026804",
+   "name": "Ruszów"
+ },
+ {
+   "s_id": "60026814",
+   "name": "Rynarcice"
+ },
+ {
+   "s_id": "60026824",
+   "name": "Siechnice"
+ },
+ {
+   "s_id": "60026834",
+   "name": "Skokowa"
+ },
+ {
+   "s_id": "60026844",
+   "name": "Smardzów Wrocławski"
+ },
+ {
+   "s_id": "60026854",
+   "name": "Solniki Wielkie"
+ },
+ {
+   "s_id": "60026864",
+   "name": "Stary Węgliniec"
+ },
+ {
+   "s_id": "60026874",
+   "name": "Studzianka"
+ },
+ {
+   "s_id": "60026884",
+   "name": "Szczedrzykowice"
+ },
+ {
+   "s_id": "60026894",
+   "name": "Szewce"
+ },
+ {
+   "s_id": "60026903",
+   "name": "Ścinawa"
+ },
+ {
+   "s_id": "60026913",
+   "name": "Środa Śląska"
+ },
+ {
+   "s_id": "60026923",
+   "name": "Święta Katarzyna"
+ },
+ {
+   "s_id": "60026934",
+   "name": "Tomaszów Bolesławiecki"
+ },
+ {
+   "s_id": "60026944",
+   "name": "Twardogóra"
+ },
+ {
+   "s_id": "60026953",
+   "name": "Węgliniec"
+ },
+ {
+   "s_id": "60026964",
+   "name": "Wierzbowa Śląska"
+ },
+ {
+   "s_id": "60026974",
+   "name": "Wierzchowice"
+ },
+ {
+   "s_id": "60026983",
+   "name": "Wołów"
+ },
+ {
+   "s_id": "60026991",
+   "name": "Wrocław Brochów"
+ },
+ {
+   "s_id": "60027000",
+   "name": "Wrocław Główny"
+ },
+ {
+   "s_id": "60027011",
+   "name": "Wrocław Grabiszyn"
+ },
+ {
+   "s_id": "60027021",
+   "name": "Wrocław Kowale"
+ },
+ {
+   "s_id": "60027031",
+   "name": "Wrocław Kuźniki"
+ },
+ {
+   "s_id": "60027041",
+   "name": "Wrocław Leśnica"
+ },
+ {
+   "s_id": "60027051",
+   "name": "Wrocław Mikołajów"
+ },
+ {
+   "s_id": "60027061",
+   "name": "Wrocław Muchobór"
+ },
+ {
+   "s_id": "60027071",
+   "name": "Wrocław Nadodrze"
+ },
+ {
+   "s_id": "60027081",
+   "name": "Wrocław Nowy Dwór"
+ },
+ {
+   "s_id": "60027091",
+   "name": "Wrocław Osobowice"
+ },
+ {
+   "s_id": "60027104",
+   "name": "Wrocław Popowice"
+ },
+ {
+   "s_id": "60027111",
+   "name": "Wrocław Pracze"
+ },
+ {
+   "s_id": "60027121",
+   "name": "Wrocław Psie Pole"
+ },
+ {
+   "s_id": "60027131",
+   "name": "Wrocław Różanka"
+ },
+ {
+   "s_id": "60027141",
+   "name": "Wrocław Sołtysowice"
+ },
+ {
+   "s_id": "60027151",
+   "name": "Wrocław Stadion"
+ },
+ {
+   "s_id": "60027161",
+   "name": "Wrocław Swojczyce"
+ },
+ {
+   "s_id": "60027171",
+   "name": "Wrocław Świniary"
+ },
+ {
+   "s_id": "60027181",
+   "name": "Wrocław Wojnów"
+ },
+ {
+   "s_id": "60027191",
+   "name": "Wrocław Zachodni"
+ },
+ {
+   "s_id": "60027203",
+   "name": "Wrocław Zakrzów"
+ },
+ {
+   "s_id": "60027211",
+   "name": "Wrocław Żerniki"
+ },
+ {
+   "s_id": "60027224",
+   "name": "Wróblin Głogowski"
+ },
+ {
+   "s_id": "60027234",
+   "name": "Zagajnik"
+ },
+ {
+   "s_id": "60027244",
+   "name": "Zakrzów Kotowice"
+ },
+ {
+   "s_id": "60027254",
+   "name": "Zebrzydowa"
+ },
+ {
+   "s_id": "60027264",
+   "name": "Zębice Wrocławskie"
+ },
+ {
+   "s_id": "60027273",
+   "name": "Zgorzelec"
+ },
+ {
+   "s_id": "60027283",
+   "name": "Zgorzelec Miasto"
+ },
+ {
+   "s_id": "60027293",
+   "name": "Żmigród"
+ },
+ {
+   "s_id": "70027303",
+   "name": "Babimost"
+ },
+ {
+   "s_id": "70027314",
+   "name": "Belęcin Wielkopolski"
+ },
+ {
+   "s_id": "70027324",
+   "name": "Będów"
+ },
+ {
+   "s_id": "70027334",
+   "name": "Biała Pilska"
+ },
+ {
+   "s_id": "70027344",
+   "name": "Bielin"
+ },
+ {
+   "s_id": "70027354",
+   "name": "Bieniów"
+ },
+ {
+   "s_id": "70027364",
+   "name": "Biernatowo"
+ },
+ {
+   "s_id": "70027374",
+   "name": "Błotnica"
+ },
+ {
+   "s_id": "70027384",
+   "name": "Boczów"
+ },
+ {
+   "s_id": "70027394",
+   "name": "Bogaczów"
+ },
+ {
+   "s_id": "70027404",
+   "name": "Bogdaniec"
+ },
+ {
+   "s_id": "70027414",
+   "name": "Boleszkowice"
+ },
+ {
+   "s_id": "70027424",
+   "name": "Boszkowo"
+ },
+ {
+   "s_id": "70027434",
+   "name": "Brzozowiec Gorzowski"
+ },
+ {
+   "s_id": "70027444",
+   "name": "Buchałów"
+ },
+ {
+   "s_id": "70027454",
+   "name": "Budachów"
+ },
+ {
+   "s_id": "70027464",
+   "name": "Bukowiec Międzyrzecki"
+ },
+ {
+   "s_id": "70027474",
+   "name": "Bytnica"
+ },
+ {
+   "s_id": "70027483",
+   "name": "Bytom Odrzański"
+ },
+ {
+   "s_id": "70027494",
+   "name": "Chociszewo Rogoziniec"
+ },
+ {
+   "s_id": "70027503",
+   "name": "Czerwieńsk"
+ },
+ {
+   "s_id": "70027514",
+   "name": "Dąbroszyn"
+ },
+ {
+   "s_id": "70027524",
+   "name": "Dąbrówka Wielkopolska"
+ },
+ {
+   "s_id": "70027534",
+   "name": "Deszczno"
+ },
+ {
+   "s_id": "70027544",
+   "name": "Drzeńsko"
+ },
+ {
+   "s_id": "70027554",
+   "name": "Drzewce"
+ },
+ {
+   "s_id": "70027564",
+   "name": "Drzymałowo"
+ },
+ {
+   "s_id": "70027574",
+   "name": "Gądków Wielki"
+ },
+ {
+   "s_id": "70027584",
+   "name": "Głębokie Międzyrzeckie"
+ },
+ {
+   "s_id": "70027592",
+   "name": "Gorzów Wielkopolski"
+ },
+ {
+   "s_id": "70027604",
+   "name": "Gorzów Wielkopolski Karnin"
+ },
+ {
+   "s_id": "70027613",
+   "name": "Gorzów Wielkopolski Wieprzyce"
+ },
+ {
+   "s_id": "70027623",
+   "name": "Gorzów Wielkopolski Wschodni"
+ },
+ {
+   "s_id": "70027633",
+   "name": "Gorzów Wielkopolski Zamoście"
+ },
+ {
+   "s_id": "70027644",
+   "name": "Gorzów Wielkopolski Zieleniec"
+ },
+ {
+   "s_id": "70027654",
+   "name": "Górki Noteckie"
+ },
+ {
+   "s_id": "70027664",
+   "name": "Górzyca"
+ },
+ {
+   "s_id": "70027674",
+   "name": "Granowo Nowotomyskie"
+ },
+ {
+   "s_id": "70027684",
+   "name": "Grąblewo"
+ },
+ {
+   "s_id": "70027693",
+   "name": "Grodzisk Wielkopolski"
+ },
+ {
+   "s_id": "70027704",
+   "name": "Iłowa Żagańska"
+ },
+ {
+   "s_id": "70027714",
+   "name": "Jankowa Żagańska"
+ },
+ {
+   "s_id": "70027724",
+   "name": "Jerzmanice Lubuskie"
+ },
+ {
+   "s_id": "70027734",
+   "name": "Kamień Mały"
+ },
+ {
+   "s_id": "70027744",
+   "name": "Konin Żagański"
+ },
+ {
+   "s_id": "70027752",
+   "name": "Kostrzyn"
+ },
+ {
+   "s_id": "70027764",
+   "name": "Kotowo"
+ },
+ {
+   "s_id": "70027774",
+   "name": "Kowalów"
+ },
+ {
+   "s_id": "70027784",
+   "name": "Koźla Kożuchowska"
+ },
+ {
+   "s_id": "70027794",
+   "name": "Krzycko Wielkie"
+ },
+ {
+   "s_id": "70027802",
+   "name": "Krzyż"
+ },
+ {
+   "s_id": "70027814",
+   "name": "Kunowice"
+ },
+ {
+   "s_id": "70027824",
+   "name": "Kupienino"
+ },
+ {
+   "s_id": "70027834",
+   "name": "Laski Lubuskie"
+ },
+ {
+   "s_id": "70027844",
+   "name": "Leszno Górne"
+ },
+ {
+   "s_id": "70027854",
+   "name": "Letnica"
+ },
+ {
+   "s_id": "70027864",
+   "name": "Lipinki Łużyckie"
+ },
+ {
+   "s_id": "70027874",
+   "name": "Lubanice"
+ },
+ {
+   "s_id": "70027884",
+   "name": "Lutol Suchy"
+ },
+ {
+   "s_id": "70027894",
+   "name": "Łęgowo Sulechowskie"
+ },
+ {
+   "s_id": "70027904",
+   "name": "Ługi Górzyckie"
+ },
+ {
+   "s_id": "70027914",
+   "name": "Łupowo"
+ },
+ {
+   "s_id": "70027924",
+   "name": "Małomice"
+ },
+ {
+   "s_id": "70027934",
+   "name": "Mieszkowice"
+ },
+ {
+   "s_id": "70027943",
+   "name": "Międzyrzecz"
+ },
+ {
+   "s_id": "70027954",
+   "name": "Mostki"
+ },
+ {
+   "s_id": "70027964",
+   "name": "Namyślin"
+ },
+ {
+   "s_id": "70027974",
+   "name": "Niedoradz"
+ },
+ {
+   "s_id": "70027984",
+   "name": "Niegosławice"
+ },
+ {
+   "s_id": "70027994",
+   "name": "Nietkowice"
+ },
+ {
+   "s_id": "70028003",
+   "name": "Nowa Sól"
+ },
+ {
+   "s_id": "70028014",
+   "name": "Nowawieś Mochy"
+ },
+ {
+   "s_id": "70028023",
+   "name": "Nowe Drezdenko"
+ },
+ {
+   "s_id": "70028034",
+   "name": "Nowiny Wielkie"
+ },
+ {
+   "s_id": "70028044",
+   "name": "Nowogród Bobrzański"
+ },
+ {
+   "s_id": "70028054",
+   "name": "Nowogród Osiedle"
+ },
+ {
+   "s_id": "70028064",
+   "name": "Nowy Kisielin"
+ },
+ {
+   "s_id": "70028074",
+   "name": "Nowy Solec"
+ },
+ {
+   "s_id": "70028084",
+   "name": "Nowy Widzim"
+ },
+ {
+   "s_id": "70028094",
+   "name": "Perkowo"
+ },
+ {
+   "s_id": "70028104",
+   "name": "Pliszka"
+ },
+ {
+   "s_id": "70028114",
+   "name": "Popowo Skwierzyńskie"
+ },
+ {
+   "s_id": "70028124",
+   "name": "Radnica"
+ },
+ {
+   "s_id": "70028134",
+   "name": "Radów"
+ },
+ {
+   "s_id": "70028144",
+   "name": "Rakoniewice"
+ },
+ {
+   "s_id": "70028154",
+   "name": "Rostarzewo"
+ },
+ {
+   "s_id": "70028164",
+   "name": "Ruchocice"
+ },
+ {
+   "s_id": "70028172",
+   "name": "Rzepin"
+ },
+ {
+   "s_id": "70028184",
+   "name": "Santok"
+ },
+ {
+   "s_id": "70028194",
+   "name": "Sarbiewo"
+ },
+ {
+   "s_id": "70028204",
+   "name": "Siedlisko Czarnkowskie"
+ },
+ {
+   "s_id": "70028214",
+   "name": "Sieniawa Żarska"
+ },
+ {
+   "s_id": "70028223",
+   "name": "Skwierzyna"
+ },
+ {
+   "s_id": "70028234",
+   "name": "Słubice"
+ },
+ {
+   "s_id": "70028244",
+   "name": "Stare Bielice"
+ },
+ {
+   "s_id": "70028254",
+   "name": "Stare Kurowo"
+ },
+ {
+   "s_id": "70028264",
+   "name": "Starkowo"
+ },
+ {
+   "s_id": "70028274",
+   "name": "Stefanowo"
+ },
+ {
+   "s_id": "70028283",
+   "name": "Stęszew"
+ },
+ {
+   "s_id": "70028294",
+   "name": "Stobno"
+ },
+ {
+   "s_id": "70028304",
+   "name": "Strykowo Poznańskie"
+ },
+ {
+   "s_id": "70028313",
+   "name": "Strzelce Krajeńskie Wschód"
+ },
+ {
+   "s_id": "70028323",
+   "name": "Sulechów"
+ },
+ {
+   "s_id": "70028334",
+   "name": "Szczaniec"
+ },
+ {
+   "s_id": "70028344",
+   "name": "Szprotawa"
+ },
+ {
+   "s_id": "70028354",
+   "name": "Szreniawa"
+ },
+ {
+   "s_id": "70028363",
+   "name": "Świebodzin"
+ },
+ {
+   "s_id": "70028374",
+   "name": "Tłoki"
+ },
+ {
+   "s_id": "70028384",
+   "name": "Toporów"
+ },
+ {
+   "s_id": "70028394",
+   "name": "Torzym"
+ },
+ {
+   "s_id": "70028403",
+   "name": "Trzcianka"
+ },
+ {
+   "s_id": "70028414",
+   "name": "Trzebaw Rosnówko"
+ },
+ {
+   "s_id": "70028424",
+   "name": "Trzebiszewo"
+ },
+ {
+   "s_id": "70028434",
+   "name": "Tuchorza"
+ },
+ {
+   "s_id": "70028444",
+   "name": "Tuplice"
+ },
+ {
+   "s_id": "70028454",
+   "name": "Tuplice Dębinka"
+ },
+ {
+   "s_id": "70028463",
+   "name": "Wieleń"
+ },
+ {
+   "s_id": "70028474",
+   "name": "Wilkowo Świebodzińskie"
+ },
+ {
+   "s_id": "70028484",
+   "name": "Wiry"
+ },
+ {
+   "s_id": "70028493",
+   "name": "Witnica"
+ },
+ {
+   "s_id": "70028504",
+   "name": "Włoszakowice"
+ },
+ {
+   "s_id": "70028512",
+   "name": "Wolsztyn"
+ },
+ {
+   "s_id": "70028524",
+   "name": "Wroniawy"
+ },
+ {
+   "s_id": "70028534",
+   "name": "Zasieki"
+ },
+ {
+   "s_id": "70028543",
+   "name": "Zbąszynek"
+ },
+ {
+   "s_id": "70028553",
+   "name": "Zbąszyń"
+ },
+ {
+   "s_id": "70028564",
+   "name": "Zbąszyń Przedmieście"
+ },
+ {
+   "s_id": "70028572",
+   "name": "Zielona Góra Główna"
+ },
+ {
+   "s_id": "70028584",
+   "name": "Zielona Góra Przylep"
+ },
+ {
+   "s_id": "70028594",
+   "name": "Zielona Góra Stary Kisielin"
+ },
+ {
+   "s_id": "70028603",
+   "name": "Żagań"
+ },
+ {
+   "s_id": "70028612",
+   "name": "Żary"
+ },
+ {
+   "s_id": "70028624",
+   "name": "Żary Kunice"
+ }
+]
