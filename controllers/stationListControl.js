@@ -1,5 +1,4 @@
 const Station = require('../models/Station')
-const path = require('path')
 
 const asyncHandler = require('express-async-handler')
 
@@ -7,19 +6,21 @@ const asyncHandler = require('express-async-handler')
 // @route GET /stations
 // @access private
 const getStationList = asyncHandler(async (req, res) => {
-    const stations = await Station.find().select('-_id s_id name').lean()
+    const stations = await Station.find().sort( { name: 'asc', s_id: 'desc' } ).select('-_id s_id name upper').lean()
     if (!stations?.length) {
         return res.status(400).json({ message: 'No stations found' })
     }
 
-    // res.sendFile(path.join(__dirname, '..', 'api_views', 'stations.html'))
-    res.send(JSON.stringify(stations))
+    res.render('stations.ejs', {
+        stationsList: stations
+    })
 })
 
 // @desc create station
 // @route POST /stations
 // @access private
 const createStation = asyncHandler(async (req, res) => {
+    
     const { s_id, name } = req.body
 
     if (!s_id || !name) {

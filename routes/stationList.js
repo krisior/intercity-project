@@ -1,5 +1,6 @@
 const express = require('express')
 const router = express.Router()
+
 const stationControl = require('../controllers/stationListControl')
 
 router.route('/')

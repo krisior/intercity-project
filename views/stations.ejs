@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>intercity-project API</title>
+    <link rel="stylesheet" href="css/api_styles.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body id="main-wrapper">
+    <div class="go-back">
+        <a href="/"><p>go back</p></a>
+    </div>
+
+    <h1>intercity-project API site</h1>
+    <h6>stations</h6>
+    <br>
+    <div class="search-create-wrapper">
+        <span class="search-box">
+            <input type="text" id="search-input" onkeyup="searchThroughTable()" placeholder="poszukaj stacji (nazwa lub s_id)">
+        </span>
+        <span class="create-box">
+            <button onclick="showCreateWrapper()">dodaj stację</button>
+        </span>
+    </div>
+
+    <div class="create-wrapper" id="create-wrapper-id">
+        <form class="create-form-wrapper" action="/stations" method="post">
+        
+            <input type="text" name="s_id" placeholder="s_id"><br>
+            <input type="text" name="name" placeholder="nazwa"><br>
+            
+            <span class="close-wrapper">
+                <input class="accept-button" type="submit" value="utwórz"/>
+                <span onclick="window.location.reload(); hideCreateWrapper(); ">anuluj</span>
+            </span>
+            
+        </form>
+    </div>
+
+    <br>
+
+    <!-- LIST ITSELF -->
+    <div class="list" id="stations-list">
+        <table>
+            <tr>
+                <th style="width: 210px">s_id</th>
+                <th style="width: 368px">nazwa</th>
+                <th style="width: 368px">nazwa_upper</th>
+                <th style="width: 105px; border-bottom: none"></th>
+            </tr>
+
+            <% stationsList.forEach(station => { %>
+                <tr class="list-row">
+                    <td class="list-update-hover"><%= station.s_id %> </td>
+                    <td class="list-update-hover"><%= station.name %> </td>
+                    <td class="list-update-hover"><%= station.upper %> </td>
+                    
+                    <td class="list-icons">
+                        <span onclick="myFunction()"></span><i class="fa-solid fa-pen-to-square"></i></span>
+                        &emsp13;
+                        <span onclick="myFunction()"></span><i class="fa-solid fa-trash"></i></span>
+                    </td>
+                </tr>
+            <% }) %>
+            
+        </table>
+    </div>
+
+    <br>
+    <div class="footer">
+        copyright © 2023
+    </div>
+
+    <script>
+        const searchThroughTable = () => {
+            const input = document.getElementById("search-input")
+            const table = document.getElementById("stations-list")
+            const tr = table.getElementsByTagName("tr")
+            const filter = input.value.toUpperCase()
+        
+            for (var i = 0; i < tr.length; i++) {
+                const td = tr[i].getElementsByTagName("td")[1]
+            
+                if (td) {
+                    const txtValue = td.textContent || td.innerText
+                    if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                        tr[i].style.display = ""
+                    } else {
+                        tr[i].style.display = "none"
+                    }
+                }
+            }
+        }
+
+        const showCreateWrapper = () => {
+            document.getElementById("create-wrapper-id").style.display = "grid";
+            document.getElementById("main-wrapper").style.overflow = "hidden";
+        }
+
+        const hideCreateWrapper = () => {
+            document.getElementById("create-wrapper-id").style.display = "none";
+            document.getElementById("main-wrapper").style.overflow = "auto";
+        }
+
+    </script>
+</body>
+</html>

@@ -13,8 +13,9 @@ const getAllUsers = asyncHandler(async (req, res) => {
         return res.status(400).json({ message: 'No users found' })
     }
     
-    // res.sendFile(path.join(__dirname, '..', 'api_views', 'users.html'))
-    res.send(JSON.stringify(users))
+    res.render('users.ejs', {
+        usersList: users
+    })
 })
 
 // @desc create new user

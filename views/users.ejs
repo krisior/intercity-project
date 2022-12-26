@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>intercity-project API</title>
+    <link rel="stylesheet" href="css/api_styles.css" />
+</head>
+<body>
+    <div class="go-back">
+        <a href="/"><p>go back</p></a>
+    </div>
+    
+    <h1>intercity-project API site</h1>
+    <h6>users</h6>
+    <br>
+
+    <!-- LIST ITSELF -->
+    <div class="list users" id="stations-list">
+        <table>
+            <tr>
+                <th style="width: 800px">nazwa uzytkownika</th>
+                <th style="width: 200px">status</th>
+            </tr>
+
+            <% usersList.forEach(user => { %>
+                <tr class="list-row">
+                    <td class="list-update-hover"><%= user.username %> </td>
+                    <td class="list-update-hover" 
+                        style="color: #ffffff; font-size: 0.3rem;
+                        <% if (user.active) { %> 
+                            background-color: rgb(19, 148, 41);"> aktywny 
+                        <% } else { %>
+                            background-color: rgb(148, 19, 19);"> nieaktywny 
+                        <% } %>
+                        </td>
+                </tr>
+            <% }) %>
+            
+        </table>
+    </div>
+
+    <br>
+    <div class="footer">
+        copyright © 2023
+    </div>
+
+    <script>
+        const searchThroughTable = () => {
+            const input = document.getElementById("search-input")
+            const table = document.getElementById("stations-list")
+            const tr = table.getElementsByTagName("tr")
+            const filter = input.value.toUpperCase()
+        
+            for (var i = 0; i < tr.length; i++) {
+                const td = tr[i].getElementsByTagName("td")[1]
+            
+                if (td) {
+                    const txtValue = td.textContent || td.innerText
+                    if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                        tr[i].style.display = ""
+                    } else {
+                        tr[i].style.display = "none"
+                    }
+
+                }
+            }
+        }
+
+    </script>
+</body>
+</html>

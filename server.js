@@ -17,6 +17,9 @@ const mongoose = require('mongoose')
 
 connectDB()
 
+app.engine('html', require('ejs').renderFile);
+app.set('view engine', 'html');
+
 app.use(logger)
 app.use(express.json())
 app.use(cookieParser())
@@ -28,13 +31,10 @@ app.use('/', require('./routes/root'))
 app.use('/users', require('./routes/users'))
 app.use('/stations', require('./routes/stationList'))
 
-// app.use('/orders', require('./routes/ordersRoutes'))
-// app.use('/connections', require('./routes/connectionsRoutes'))
-
 app.all('*', (req, res) => {
     res.status(404)
     if (req.accepts('html')) {
-        res.sendFile(path.join(__dirname, 'api_views', '404.html'))
+        res.render('404.ejs')
     } else if (req.accepts('json')) {
         res.json({_message: '404 Not Found'})
     } else {
