@@ -16,9 +16,10 @@
     <h1>intercity-project API site</h1>
     <h6>stations</h6>
     <br>
+
     <div class="search-create-wrapper">
         <span class="search-box">
-            <input type="text" id="search-input" onkeyup="searchThroughTable()" placeholder="poszukaj stacji (nazwa lub s_id)">
+            <input type="text" id="search-input" onkeyup="searchThroughTable()" placeholder="poszukaj stacji (po nazwie)">
         </span>
         <span class="create-box">
             <button onclick="showCreateWrapper()">dodaj stację</button>
@@ -26,14 +27,14 @@
     </div>
 
     <div class="create-wrapper" id="create-wrapper-id">
-        <form class="create-form-wrapper" action="/stations" method="post">
+        <form class="create-form-wrapper" method="post" action="/stations">
         
             <input type="text" name="s_id" placeholder="s_id"><br>
             <input type="text" name="name" placeholder="nazwa"><br>
             
             <span class="close-wrapper">
-                <input class="accept-button" type="submit" value="utwórz"/>
-                <span onclick="window.location.reload(); hideCreateWrapper(); ">anuluj</span>
+                <input type="submit" class="accept-button" value="utwórz" />
+                <span onclick=" hideCreateWrapper(); ">anuluj</span>
             </span>
             
         </form>

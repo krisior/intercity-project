@@ -8,5 +8,5 @@ router.route('/')
     .post(stationControl.createStation)
     .patch(stationControl.updateStationInformation)
     .delete(stationControl.deleteStation)
-
+    
 module.exports = router

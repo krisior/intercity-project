@@ -19,9 +19,10 @@ const getStationList = asyncHandler(async (req, res) => {
 // @desc create station
 // @route POST /stations
 // @access private
-const createStation = asyncHandler(async (req, res) => {
+const createStation = (req, res) => {
+    res.send(req.body)
     
-    const { s_id, name } = req.body
+    /* const { s_id, name } = req.body
 
     if (!s_id || !name) {
         return res.status(400).json({ message: 'All fields are required' })
@@ -50,11 +51,15 @@ const createStation = asyncHandler(async (req, res) => {
     const station = await Station.create(stationObject)
 
     if (station) {
-        res.status(201).json({ message: `New station ${s_id} ${name} created` })
+        res.render('stations.ejs', {
+            message: `New station ${s_id} ${name} created` 
+        })
     } else {
-        res.status(400).json({ message: 'Invalid station data received' })
-    }
-})
+        res.render('stations.ejs', {
+            message: 'Invalid station data received' 
+        })
+    }*/
+}
 
 // @desc update station information
 // @route PATCH /stations
